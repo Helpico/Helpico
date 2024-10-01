@@ -16,7 +16,7 @@ Established and currently lead "Functionnel," a technology startup specializing 
 Founded, managed, and developed "English Intellect," an online school dedicated to English language education. Implemented effective strategies for user engagement and curriculum development. [English Intellect Website](https://mova.tilda.ws)
 
 ### Backend Programmer, "LotemX" Software Development Company, Israel (July 2021 - September 2021)
-Developed backend solutions using technologies such as Laravel, Node.js, HTML, SQL, MongoDB, Git, Linux, React, Next.js, Redux, Webpack, Tailwind, Nginx, Docker. See my full developer profile: [LotemX Developer Profile](https://djinni.co/q/9462271ef3/)
+Developed backend solutions using technologies such as Laravel, Node.js, HTML, SQL, MongoDB, Git, Linux, React, Next.js, Redux, Webpack, Tailwind, Nginx, Docker. 
 
 ### Private Entrepreneur in Education Services (June 2016 - November 2018)
 Successfully operated as a private entrepreneur in the education sector, specializing in services related to language learning. Managed the business within the regulatory framework.
@@ -30,7 +30,7 @@ Provided consultancy on cultural and language projects, demonstrating expertise 
 ### Specialist in Computer Lexicography, Ukrainian Academy of Sciences (2005)
 Served as a specialist in computer lexicography, showcasing technical expertise in language-related fields.
 
-### Founder and Web Designer, "Nova Mova" Educational Internet Project (2002 - 2008)
+### Founder and Web Designer, "Nova Mova" Educational Internet Project (2000 - 2008)
 Founded and designed "Nova Mova," an educational online project focused on the development of the Ukrainian language. [Nova Mova Website](https://languageintellect.com)
 
 ### Manager of Cultural and Educational NGO, "Foundation for the Development of the Ukrainian Language on the Internet" (2002 - 2015)
@@ -44,7 +44,7 @@ Managed and curated content for an English-language information project at Kyiv 
 - Graduated from high school with a silver medal.
 - Completed full-time studies at Kyiv State Linguistic University, earning qualifications as a teacher of English and Ukrainian languages.
 - Pursued a doctoral degree at M.P. Drahomanov National Pedagogical University from 2001 to 2005, specializing in linguistics.
-- Undertook professional training at Harvard University, USA (Boston) from February to June 2004, receiving a scholarship as head of educational project.
+- Undertook professional training at Harvard University, USA (Boston) in 2004, receiving a scholarship as head of educational project.
 - Completed full-time studies at the National Academy of Public Administration under the President of Ukraine in 2008, obtaining a master's degree in public administration.
 - Attended entrepreneurship courses at the Obolon Employment Center in 2016, along with participating in training sessions by "Gurt" on establishing a business and digital marketing courses by "Projector".
 - Recently won a grant to take the professional course for DevOps and Kubernetes at Prometheus to manage my web-application on a virtual private server.
