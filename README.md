@@ -2,11 +2,6 @@
 
 ![image](https://github.com/Helpico/Helpico/assets/32806311/9dfc44d0-bcbe-43a1-8a73-9425f15224db)
 
-
-- **Email:** maksymdudyk@gmail.com
-- **Phone:** +38 067 10 911 **
-- **Location:** Hodosivka village, Kyiv region
-
 ## Work Experience
 
 ### Founder and Chief Developer, "Functionnel" LLC (late 2023 - present)
@@ -45,9 +40,8 @@ Managed and curated content for an English-language information project at Kyiv 
 - Completed full-time studies at Kyiv State Linguistic University, earning qualifications as a teacher of English and Ukrainian languages.
 - Pursued a doctoral degree at M.P. Drahomanov National Pedagogical University from 2001 to 2005, specializing in linguistics.
 - Undertook professional training at Harvard University, USA (Boston) in 2004, receiving a scholarship as head of educational project.
-- Completed full-time studies at the National Academy of Public Administration under the President of Ukraine in 2008, obtaining a master's degree in public administration.
-- Attended entrepreneurship courses at the Obolon Employment Center in 2016, along with participating in training sessions by "Gurt" on establishing a business and digital marketing courses by "Projector".
-- Recently won a grant to take the professional course for DevOps and Kubernetes at Prometheus to manage my web-application on a virtual private server.
+- Completed full-time studies at the National Academy of Public Administration in 2008, obtaining a master's degree in public administration.
+- Became winner of the European Union's "Science2Business" program meant for best researcher of Ukraine, whose ideas found best to be commercialized.
 
 ## Skills
 
@@ -69,5 +63,4 @@ Managed and curated content for an English-language information project at Kyiv 
 
 ## Summary
 
-Proficient in English (C1) – both spoken and written. Author of 14 scholarly articles in linguistics. Pioneered Ukraine's first educational project for the development of the Ukrainian language and creator of "Multi Linguistic Combination," an innovative methodology for foreign language learning. Recipient of two education grants from the U.S. Department of State under the "IREX" program. Active participant in the Orange Revolution, leading me to employment in the Presidential Office to implement cultural and educational projects. In 2014 I initiated the nationwide TV-campaign "One Country", mobilizing Ukrainians against Russian aggression. Awarded the Order for the Defense of Ukraine's Information Sovereignty. Married and a father of three minors. Now I am leveraging my previous extensive experience in project management, web programming, entrepreneurial ventures, and innovative language learning to develop and refine a high-potential socially-oriented educational deep-tech startup aimed at helping educate and support Ukrainian children amid Russian occupation.
-
+Proficient in English (C1) – both spoken and written.
