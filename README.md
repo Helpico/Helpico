@@ -57,6 +57,6 @@ I am actively seeking **partners, investors, and collaborators** in the fields o
 
 📩 Email: [Direct connect with me](https://functionnel.com/contact)  
 🔗 LinkedIn: [Maksym Dudyk](https://www.linkedin.com/in/maksym-dudyk-follow-up/)  
-🌐 My AI-for-Good Project: [Functionnel.com](https://functionnel.com)  
+🌐 My AI-for-Good: [Functionnel.com](https://functionnel.com)  
 💻 GitHub: [Helpico](https://github.com/Helpico)  
 
