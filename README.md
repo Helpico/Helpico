@@ -49,10 +49,10 @@ Driven by a passion for **edtech**, I am dedicated to leveraging technology to s
 - **Golden Badge Contributor to Stack Overflow** → [Maksym Dudyk on Stack Overflow](https://stackoverflow.com/users/8781011/maksym-dudyk).  
 - Fluent in **English (C1-C2)** – both spoken and written.  
 
-## My Mission  
+## 🚀🚀🚀 My Mission  
 My work now focuses on **Kotya Motya**, an innovative social learning platform designed to support children affected by war, displacement, and digital distractions through **personalized education and interactive engagement**.  
 
-## 🚀🚀 🔴 Let’s Collaborate 🔴 🚀🚀
+## 🔴🔴🔴 Let’s Collaborate  
 I am actively seeking **partners, investors, and collaborators** in the fields of **educational innovation, AI-driven learning systems, and humanitarian edtech initiatives**. If you share my vision for the future of education, let’s connect!  
 
 📩 Email: [Direct connect with me](https://functionnel.com/contact)  
