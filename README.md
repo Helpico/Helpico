@@ -50,7 +50,7 @@ I am committed to harnessing **AI and adaptive learning** to create educational 
 ## Let’s Collaborate 🚀  
 I am actively seeking **partners, investors, and collaborators** in the fields of **educational innovation, AI-driven learning systems, and humanitarian edtech initiatives**. If you share my vision for the future of education, let’s connect!  
 
-📩 Email: **maksymdudyk@gmail.com**  
+📩 Email: **dudykmaksym@gmail.com**  
 🔗 LinkedIn: [Maksym Dudyk](https://www.linkedin.com/in/maksym-dudyk-follow-up/)  
 🌐 AI-for-Good Project: [Functionnel.com](https://functionnel.com)  
 💻 GitHub: [Helpico](https://github.com/Helpico)  
