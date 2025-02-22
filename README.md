@@ -1,4 +1,4 @@
-# Maksym Dudyk
+# Maksym Dudyk 🚀
 
 ![Maksym Dudyk](https://github.com/Helpico/Helpico/assets/32806311/9dfc44d0-bcbe-43a1-8a73-9425f15224db)
 
@@ -46,6 +46,3 @@ I am an experienced **Full-Stack Software Developer** with a strong focus on **a
 💻 GitHub: [Helpico](https://github.com/Helpico)  
 
 
----
-
-This README presents you as a **highly skilled full-stack developer with a strong focus on adaptive learning technologies**. Let me know if you’d like any further refinements! 🚀
