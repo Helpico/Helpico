@@ -52,7 +52,7 @@ Driven by a passion for **edtech**, I am dedicated to leveraging technology to s
 ## My Mission  
 My work now focuses on **Kotya Motya**, an innovative social learning platform designed to support children affected by war, displacement, and digital distractions through **personalized education and interactive engagement**.  
 
-## 🚀🚀 Let’s Collaborate 🚀🚀  
+## 🚀🚀 <span style="color:red;">Let’s Collaborate</span> 🚀🚀
 I am actively seeking **partners, investors, and collaborators** in the fields of **educational innovation, AI-driven learning systems, and humanitarian edtech initiatives**. If you share my vision for the future of education, let’s connect!  
 
 📩 Email: [Direct connect with me](https://functionnel.com/contact)  
