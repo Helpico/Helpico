@@ -1,4 +1,4 @@
-# Maksym Dudyk 🚀
+# Maksym Dudyk 
 
 ![Maksym Dudyk](https://github.com/Helpico/Helpico/assets/32806311/9dfc44d0-bcbe-43a1-8a73-9425f15224db)
 
@@ -40,7 +40,7 @@ I am an experienced **Full-Stack Software Developer** with a strong focus on **a
 - **Awarded the Order for the Defense of Ukraine's Information Sovereignty**  
 - Fluent in **English (C1) – both spoken and written**  
 
-## Get in Touch  
+## Get in Touch 🚀  
 🔗 LinkedIn: [Maksym Dudyk](https://www.linkedin.com/in/maksym-dudyk-follow-up/)  
 🌐 Social activity: [functionnel.com](https://functionnel.com)  
 💻 GitHub: [Helpico](https://github.com/Helpico)  
