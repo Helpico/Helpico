@@ -1,7 +1,4 @@
-<div align="center">
-  # Maksym Dudyk
-</div>
-  
+# Maksym Dudyk
 
 <p align="center">
   <img src="https://github.com/Helpico/Helpico/assets/32806311/9dfc44d0-bcbe-43a1-8a73-9425f15224db" alt="Maksym Dudyk" width="200"/>
