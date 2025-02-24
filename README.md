@@ -16,8 +16,7 @@ Driven by a passion for **edtech**, I am dedicated to leveraging technology to s
 
 ### **Programming & Development**  
 - Proficient in **JavaScript, TypeScript, Node.js, and Express.js**  
-- Frontend development with **React.js, Next.js, and UI/UX design principles**  
-- Backend expertise with **Nest.js, Laravel, and microservices architecture**  
+- Frontend development with **React.js, Next.js, and UI/UX design principles**    
 - Advanced state management using **RTK (Redux Toolkit) & Redux-Saga**  
 - Object-Oriented Programming (**OOP**) and Functional Programming  
 
