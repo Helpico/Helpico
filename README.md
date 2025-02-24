@@ -21,8 +21,8 @@ Driven by a passion for **edtech**, I am dedicated to leveraging technology to s
 - Object-Oriented Programming (**OOP**) and Functional Programming  
 
 ### **Databases & APIs**  
-- Database design & management with **PostgreSQL, MySQL, and MongoDB**  
-- ORM frameworks: **Sequelize, Prisma, Drizzle ORM**  
+- Database design & management with **PostgreSQL, MySQL**  
+- ORM frameworks: **Sequelize, Prisma**  
 - REST API and third-party API integrations  
 - Web scraping & automation with **Puppeteer**  
 
