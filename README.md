@@ -29,7 +29,7 @@ Driven by a passion for **edtech**, I am dedicated to leveraging technology to s
 ### **DevOps & Infrastructure**  
 - **Dockerizing and deploying applications** to VPS & cloud platforms  
 - Linux administration & server configuration (**Ubuntu, bash**)  
-- Web server management using **Nginx, Apache**  
+- Web server management using **Nginx, Apache**, Hetzner**  
 - CI/CD pipelines with **GitHub Actions, Docker, Kubernetes**  
 
 ### **Tools & Frameworks**  
