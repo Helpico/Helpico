@@ -43,8 +43,9 @@ Driven by a passion for **edtech**, I am dedicated to leveraging technology to s
 - Initiated the **"One Country" TV campaign** (2014), uniting audiences across diverse regions against invasion.  
 - Authored Ukraine's **first web platform on the Ukrainian language** development [Nova Mova](https://languageintellect.com).  
 - **Published 14 scholarly articles** in linguistics and adaptive learning.  
-- Coordinated the development of Ukraine's **Public Broadcasting Law** (2012–2013), affecting millions of citizens nationwide.  
-- **Recipient of two personal grants from the US Government** ("IREX") in the sphere of EdTech and journalism.
+- Coordinated the development of Ukraine's **Public Broadcasting Law** (2012–2013), affecting millions of citizens nationwide.
+- Completed professional 4-month training at **Harvard University** (2004) with an IREX scholarship as head of an EdTech project.  
+- **Recipient of two personal grants from the US Government** in the sphere of EdTech and journalism.
 - Graduated from the **Science2Business program** (2024) within the Seeds of Bravery initiative, joining 30 top Ukrainian researchers in EU startup integration.  
 - **Golden Badge Contributor to Stack Overflow** → [Maksym Dudyk on Stack Overflow](https://stackoverflow.com/users/8781011/maksym-dudyk).  
 - Fluent in **English (C1-C2)** – both spoken and written.  
