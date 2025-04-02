@@ -42,4 +42,11 @@ As the creator of **Kotya Motya**, I am dedicated to **bridging the gap between 
 - Agile methodologies (**Scrum, Jira**)  
 - Git version control and collaborative development  
 
+### **Local AI & LLM Orchestration**  
+- **Running local LLMs** using **Ollama, llama.cpp** for offline AI processing  
+- **LangChain framework** for intelligent agents and **RAG-based knowledge retrieval**  
+- **Vector search** with **pgvector** for efficient data embedding & retrieval  
+- **Fine-tuning open-source LLMs** (LLaMA 3, Mistral, Gemma) for educational use cases  
+
+
 ##
