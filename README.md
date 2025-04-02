@@ -19,7 +19,7 @@ As the creator of **Kotya Motya**, I am dedicated to **bridging the gap between 
 - **Speech recognition & NLP** for interactive learning experiences  
 
 ### **Programming & Development**  
-- Proficient in **JavaScript, TypeScript, Node.js, and Express.js**  
+- Proficient in **Python, JavaScript, TypeScript, Node.js, and Express.js**  
 - Frontend development with **React.js, Next.js, and UI/UX design principles**    
 - Advanced state management using **RTK (Redux Toolkit) & Redux-Saga**  
 - Object-Oriented Programming (**OOP**) and Functional Programming  
