@@ -52,8 +52,4 @@ As the creator of **Kotya Motya**, I am dedicated to **bridging the gap between 
 
 ##
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f7f784e5-74da-4928-84c2-0c1a337cc444 alt="Science2Business"  width="300" height="300">
-</p>
-
 ![Marsym Dudyk_Science2Business_certificate_page-0001 (1)](https://github.com/user-attachments/assets/2523336e-6c6a-4bd7-8b85-c19028547e34)
