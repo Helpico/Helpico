@@ -50,5 +50,9 @@ As the creator of **Kotya Motya**, I am dedicated to **bridging the gap between 
 - **Vector search** with **pgvector** for efficient data embedding & retrieval  
 - **Fine-tuning open-source LLMs** (LLaMA 3, Mistral, Gemma) for educational use cases  
 
-
 ##
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f7f784e5-74da-4928-84c2-0c1a337cc444 alt="Science2Business"  width="300" height="300">
+</p>
+
