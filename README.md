@@ -1,5 +1,5 @@
 # Maksym Dudyk  
-<img src="https://github.com/user-attachments/assets/c90e7e3b-7b2c-4ce9-913b-a2b5f3629d32" alt="Kotya Motya"  width="300" height="300">
+
 <p align="center">
   <img src="https://github.com/Helpico/Helpico/assets/32806311/9dfc44d0-bcbe-43a1-8a73-9425f15224db" alt="Maksym Dudyk" width="140" height="200">
   <img src="https://github.com/user-attachments/assets/e08934f8-8ac6-40c8-9c0d-47a0b5c76d61" alt="Dudyk's Work" width="300" height="200">
@@ -51,3 +51,8 @@ As the creator of **Kotya Motya**, I am dedicated to **bridging the gap between 
 ##
 
 ![Marsym Dudyk_Science2Business_certificate_page-0001 (1)](https://github.com/user-attachments/assets/2523336e-6c6a-4bd7-8b85-c19028547e34)
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c90e7e3b-7b2c-4ce9-913b-a2b5f3629d32" alt="Kotya Motya"  width="300" height="300">
+</p>
