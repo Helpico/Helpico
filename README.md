@@ -48,7 +48,17 @@ As the creator of **Kotya Motya**, I am dedicated to **bridging the gap between 
 - **Vector search** with **pgvector** for efficient data embedding & retrieval  
 - **Fine-tuning open-source LLMs** (LLaMA 3, Mistral, Gemma) for educational use cases  
 
-##
+### 🚀🚀🚀 My Mission  
+ My work now focuses on **Kotya Motya**, an innovative social learning platform designed to support children affected by war, displacement, and digital distractions through **personalized education and interactive engagement**.  
+ 
+### 🔴🔴🔴 Let’s Collaborate  
+ I am actively seeking **partners, investors, and collaborators** in the fields of **educational innovation, AI-driven learning systems, and humanitarian edtech initiatives**. If you share my vision for the future of education, let’s connect!  
+ 
+ 📩 Email: [Direct connect with me](https://functionnel.com/contact)  
+ 🔗 LinkedIn: [Maksym Dudyk](https://www.linkedin.com/in/maksym-dudyk-follow-up/)  
+ 🌐 My AI-for-Good: [Functionnel.com](https://functionnel.com)  
+ 💻 GitHub: [Helpico](https://github.com/Helpico) 
+
 
 ![Marsym Dudyk_Science2Business_certificate_page-0001 (1)](https://github.com/user-attachments/assets/2523336e-6c6a-4bd7-8b85-c19028547e34)
 
