@@ -44,13 +44,13 @@ I am a **Full-Stack Software Developer** specializing in **AI-driven adaptive le
 - **Running local LLMs** using **Ollama, llama.cpp** for offline AI processing  
 - **LangChain framework** for intelligent agents and **RAG-based knowledge retrieval**  
 - **Vector search** with **pgvector** for efficient data embedding & retrieval  
-- **Fine-tuning open-source LLMs** (LLaMA 3, Mistral, Gemma) for educational use cases  
+- **Fine-tuning open-source LLMs** (LLaMA 3, Mistral, Gemma)  
 
 ### 🚀🚀🚀 My Mission  
 I strive to create an innovative social space for the recovery of children with cognitive problems, as well as children affected by war, displacement, and digital distraction through personalized and interactive engagement.  
  
 ### 🔴🔴🔴 Let’s Collaborate  
- I am actively seeking **partners, investors, and collaborators** in the fields of **educational innovation, AI-driven learning systems, and humanitarian edtech initiatives**. If you share my vision for the future of education, let’s connect!  
+ I am actively seeking **partners, investors, and collaborators** in the fields of **innovation, HealthTech/EdTech, AI, and digital autonomous systems**. If you share my vision, let’s connect!  
  
  🔗 LinkedIn: [Maksym Dudyk](https://www.linkedin.com/in/maksym-dudyk-follow-up/)  
  💻 GitHub: [Helpico](https://github.com/Helpico) 
