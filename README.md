@@ -54,7 +54,6 @@ I am dedicated to **bridging the gap between cognitive well-being and school edu
 ### 🔴🔴🔴 Let’s Collaborate  
  I am actively seeking **partners, investors, and collaborators** in the fields of **educational innovation, AI-driven learning systems, and humanitarian edtech initiatives**. If you share my vision for the future of education, let’s connect!  
  
- 📩 Email: [Direct connect with me](https://functionnel.com/contact)  
  🔗 LinkedIn: [Maksym Dudyk](https://www.linkedin.com/in/maksym-dudyk-follow-up/)  
  💻 GitHub: [Helpico](https://github.com/Helpico) 
 
