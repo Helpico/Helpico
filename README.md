@@ -56,7 +56,6 @@ As the creator of **Kotya Motya**, I am dedicated to **bridging the gap between 
  
  📩 Email: [Direct connect with me](https://functionnel.com/contact)  
  🔗 LinkedIn: [Maksym Dudyk](https://www.linkedin.com/in/maksym-dudyk-follow-up/)  
- 🌐 My AI-for-Good: [Functionnel.com](https://functionnel.com)  
  💻 GitHub: [Helpico](https://github.com/Helpico) 
 
 
