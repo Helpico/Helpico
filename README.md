@@ -9,8 +9,6 @@
 
 I am a **Full-Stack Software Developer** specializing in **AI-driven adaptive learning** and **digital cognitive rehabilitation**. My work focuses on creating **accessible, research-backed learning tools** that enhance **memory, attention, and mental resilience**, particularly for children facing **learning disabilities, war trauma, and digital distractions**.  
 
-I am dedicated to **bridging the gap between cognitive well-being and school education** — helping children affected by **stress, displacement, and neurological challenges** develop critical learning skills in an engaging, science-driven way.  
-
 ## **My Technical Skills**  
 
 ### **AI-Powered Learning & Cognitive Tech**  
@@ -49,7 +47,7 @@ I am dedicated to **bridging the gap between cognitive well-being and school edu
 - **Fine-tuning open-source LLMs** (LLaMA 3, Mistral, Gemma) for educational use cases  
 
 ### 🚀🚀🚀 My Mission  
- My work now focuses on **Kotya Motya**, an innovative social learning platform designed to support children affected by war, displacement, and digital distractions through **personalized education and interactive engagement**.  
+I strive to create an innovative social space for the recovery of children with cognitive problems, as well as children affected by war, displacement, and digital distraction through personalized and interactive engagement.  
  
 ### 🔴🔴🔴 Let’s Collaborate  
  I am actively seeking **partners, investors, and collaborators** in the fields of **educational innovation, AI-driven learning systems, and humanitarian edtech initiatives**. If you share my vision for the future of education, let’s connect!  
