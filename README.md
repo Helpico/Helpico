@@ -64,6 +64,4 @@ I am dedicated to **bridging the gap between cognitive well-being and school edu
 <p align="center">
 
 ![01_playtellect_main_logo_colorful](https://github.com/user-attachments/assets/67048781-8769-4120-8aa3-0b397b31d781)
-
-  <img src="https://github.com/user-attachments/assets/c90e7e3b-7b2c-4ce9-913b-a2b5f3629d32" alt="Kotya Motya"  width="300" height="300">
 </p>
