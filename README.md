@@ -58,6 +58,7 @@ As the creator of **Kotya Motya**, I am dedicated to **bridging the gap between 
  🔗 LinkedIn: [Maksym Dudyk](https://www.linkedin.com/in/maksym-dudyk-follow-up/)  
  💻 GitHub: [Helpico](https://github.com/Helpico) 
 
+![01_playtellect_main_logo_colorful](https://github.com/user-attachments/assets/67048781-8769-4120-8aa3-0b397b31d781)
 
 ![Marsym Dudyk_Science2Business_certificate_page-0001 (1)](https://github.com/user-attachments/assets/2523336e-6c6a-4bd7-8b85-c19028547e34)
 
