@@ -9,9 +9,9 @@
 
 I am a **Full-Stack Software Developer** specializing in **AI-driven adaptive learning** and **digital cognitive rehabilitation**. My work focuses on creating **accessible, research-backed learning tools** that enhance **memory, attention, and mental resilience**, particularly for children facing **learning disabilities, war trauma, and digital distractions**.  
 
-As the creator of **Kotya Motya**, I am dedicated to **bridging the gap between education and cognitive well-being**—helping children affected by **stress, displacement, and neurological challenges** develop critical learning skills in an engaging, science-driven way.  
+I am dedicated to **bridging the gap between cognitive well-being and school education** — helping children affected by **stress, displacement, and neurological challenges** develop critical learning skills in an engaging, science-driven way.  
 
-## **Technical Skills**  
+## **My Technical Skills**  
 
 ### **AI-Powered Learning & Cognitive Tech**  
 - **Adaptive learning systems** for personalized rehabilitation  
