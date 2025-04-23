@@ -50,7 +50,7 @@ I am a father of three minors from Ukraine, and a **Full-Stack Software Develope
 I strive to create an innovative social space for the recovery of children with cognitive problems, as well as children affected by war, displacement, and digital distraction through personalized and interactive engagement.  
  
 ### 🔴🔴🔴 Let’s Collaborate  
- I am actively seeking **partners, investors, and collaborators** in the fields of **innovation, HealthTech/EdTech, AI, and digital autonomous systems**. If you share my vision, let’s connect!  
+ I am actively seeking **partners, investors, and collaborators** in the fields of **innovation, HealthTech/EdTech, AI, and intelligent autonomous systems**. If you share my vision, let’s connect!  
  
  🔗 LinkedIn: [Maksym Dudyk](https://www.linkedin.com/in/maksym-dudyk-follow-up/)  
  💻 GitHub: [Helpico](https://github.com/Helpico) 
