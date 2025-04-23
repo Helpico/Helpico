@@ -59,5 +59,5 @@ I strive to create an innovative social space for the recovery of children with 
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ec2679a9-a477-4229-8db3-6974f83dcb91" alt="Котя Мотя" width="140" height="200">
+<img src="https://github.com/user-attachments/assets/ec2679a9-a477-4229-8db3-6974f83dcb91" alt="Котя Мотя">
 </p>
