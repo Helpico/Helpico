@@ -59,6 +59,5 @@ I strive to create an innovative social space for the recovery of children with 
 
 
 <p align="center">
-
-![01_playtellect_main_logo_colorful](https://github.com/user-attachments/assets/67048781-8769-4120-8aa3-0b397b31d781)
+![1](https://github.com/user-attachments/assets/ec2679a9-a477-4229-8db3-6974f83dcb91)
 </p>
