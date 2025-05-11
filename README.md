@@ -52,9 +52,6 @@ I strive to create an innovative social space for the recovery of children with 
 ### 🔴🔴🔴 Let’s Collaborate  
  I am actively seeking **partners, investors, and collaborators** in the fields of **innovation, HealthTech/EdTech, AI, and intelligent autonomous systems**. If you share my vision, let’s connect!  
 
- 💻 Contact Form: [Functionnel](https://functionnel.com/contact)
- 🔗 LinkedIn: [Maksym Dudyk](https://www.linkedin.com/in/maksym-dudyk-follow-up/)  
-  
 
 ![Marsym Dudyk_Science2Business_certificate_page-0001 (1)](https://github.com/user-attachments/assets/2523336e-6c6a-4bd7-8b85-c19028547e34)
 
