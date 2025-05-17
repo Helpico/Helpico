@@ -7,7 +7,9 @@
 
 ## **About Me**  
 
-I am a father of three minors from Ukraine, and a **Full-Stack Software Developer** specializing in **AI-driven adaptive learning** and **digital cognitive rehabilitation**. My work focuses on creating **accessible, research-backed learning tools** that enhance **memory, attention, and mental resilience**, particularly for children facing **learning disabilities, war trauma, and digital distractions**.  
+I am a father of three minors from Ukraine, and a **Full-Stack Software Developer** specializing in **AI-driven adaptive learning** and **digital cognitive rehabilitation**. My work focuses on creating accessible, research-backed learning tools that enhance memory, attention, and mental resilience, particularly for children facing learning disabilities, war trauma, and digital distractions.  
+
+🚀 I already have tangible results in integrating into the European innovation and startup ecosystem: I am a **selected participant of EIT Jumpstarter 2025** — one of the EU’s most competitive pre-seed programs supporting early-stage innovators. I am also a winner of the prestigious **EU-funded Science2Business program** (2024), part of the Seeds of Bravery & EIT Health initiative by **the European Institute of Innovation & Technology**.
 
 ## **My Technical Skills**  
 
