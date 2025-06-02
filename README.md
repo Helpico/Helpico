@@ -25,7 +25,6 @@ Passionate about leveraging technology for social good, with a focus on creating
 
 "Kotya Motya" is an innovative non-profit initiative by the **"Foundation for the Development of the Ukrainian Language on the Internet."**
 
-*   **Mission:** To support Ukrainian children (7-17) affected by war-induced trauma and educational disruption, helping them heal, learn, and reconnect with their cultural heritage. *(Active Demo: [https://play.languageintellect.com/demo_new.html](https://play.languageintellect.com/demo_new.html))*
 *   **Impact:** Building mental health resilience, fostering academic engagement, and strengthening Ukrainian cultural identity.
 *   **Stage:** Built upon **three years of dedicated MVP development**, Kotya Motya is now poised for scaling and broader impact with community and partner support.
 
