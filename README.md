@@ -16,8 +16,7 @@ Passionate about leveraging technology for social good, with a focus on creating
 I am the founder and lead developer of **"Kotya Motya"** ([www.kotamota.com](https://www.kotamota.com)), an innovative non-profit initiative by the **"Foundation for the Development of the Ukrainian Language on the Internet."**
 
 *   **Mission:** To support Ukrainian children (7-17) affected by war-induced trauma and educational disruption, helping them heal, learn, and reconnect with their cultural heritage.
-*   **Approach:** An interactive online platform transforming schoolwork into therapeutic, engaging games using AI-driven tools. *(Active Demo: [https://play.languageintellect.com/demo_new.html](https://play.languageintellect.com/demo_new.html))*
-*   **Impact:** Building resilience, fostering academic engagement, and strengthening Ukrainian cultural identity.
+*   **Impact:** Building mental health resilience, fostering academic engagement, and strengthening Ukrainian cultural identity.
 *   **Stage:** Built upon **three years of dedicated MVP development**, Kotya Motya is now poised for scaling and broader impact with community and partner support.
 
 ---
@@ -49,17 +48,18 @@ Combining 20+ years in education and analytics with full-stack software developm
 *   **Microgrant Reform Advocacy (2025) - *Public Policy Innovator***
     *   Led a national advocacy effort to improve Ukraine's microgrant programs for startups, focusing on transparency and founder protection.
 
-*   **EdTech/HealthTech Innovation (Recent - e.g., EIT Jumpstarter, Science2Business participant with "PlayTellect" concept for therapeutic learning)**
-    *   Actively engaged in the European innovation ecosystem, selected for competitive programs like EIT Jumpstarter (Rebuild Ukraine - HealthTech Track) and the EU-funded Science2Business program, focusing on developing therapeutic learning solutions for children. *(This reframes "PlayTellect" from a purely commercial venture to an innovation concept in the therapeutic learning space, aligning with Kotya Motya's goals)*
+*   **EdTech/HealthTech Innovation (Recent - e.g., EIT Jumpstarter, Science2Business participant with "PlayTellect" concept for therapeutic learning in Europe)**
+    *   Actively engaged in the European innovation ecosystem, selected for competitive programs like EIT Jumpstarter (Rebuild Ukraine - HealthTech Track) and the EU-funded Science2Business program, focusing on developing therapeutic learning solutions for children in the EU.
 
 ---
 
 ## Vision
 
-My aim is to create sustainable, scalable digital tools that empower individuals and communities, particularly in challenging contexts. With "Kotya Motya," the goal is to provide a beacon of support and an effective learning pathway for Ukrainian children whose lives have been profoundly impacted by war.
+My aim is to create sustainable, scalable digital tools that empower individuals and communities, particularly in challenging contexts. With "Kotya Motya," the goal is to provide a beacon of free, accessible, and engaging support and an effective learning pathway for Ukrainian children whose lives have been profoundly impacted by war.
 
 ---
 
 **Connect:**
 *   **Email:** [maksymdudyk@gmail.com](mailto:maksymdudyk@gmail.com)
-*   **LinkedIn:** [Link to your LinkedIn Profile - if you have one and it's aligned]
+*   **Contact Form**: [Ukrainian](https://kotamota.com/contact_us) 
+*   **LinkedIn:** [My Profile](https://www.linkedin.com/in/maksym-dudyk-follow-up/)
