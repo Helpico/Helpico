@@ -5,53 +5,61 @@
   <img src="https://github.com/user-attachments/assets/e08934f8-8ac6-40c8-9c0d-47a0b5c76d61" alt="Dudyk's Work" width="300" height="200">
 </p>
 
-## **About Me**  
+# Maksym Dudyk - Social Innovator & EdTech/HealthTech Developer
 
-I am a father of three minors from Ukraine, and a **Full-Stack Software Developer** specializing in **AI-driven adaptive learning** and **digital cognitive rehabilitation**. My work focuses on creating accessible, research-backed learning tools that enhance memory, attention, and mental resilience, particularly for children facing learning disabilities, war trauma, and digital distractions.  
+Passionate about leveraging technology for social good, with a focus on creating impactful solutions for education, mental well-being, and cultural resilience, especially for vulnerable populations in Ukraine.
 
-## **My Technical Skills**  
+---
 
-### **AI-Powered Learning & Cognitive Tech**  
-- **Adaptive learning systems** for personalized rehabilitation  
-- **Gamified interventions** for attention & memory enhancement  
-- **Speech recognition & NLP** for interactive learning experiences  
+## Current Primary Focus: "Kotya Motya" - Playful Learning That Heals
 
-### **Programming & Development**  
-- Proficient in **Python, JavaScript, TypeScript, Node.js, and Express.js**  
-- Frontend development with **React.js, Next.js, and UI/UX design principles**    
-- Advanced state management using **RTK (Redux Toolkit) & Redux-Saga**  
-- Object-Oriented Programming (**OOP**) and Functional Programming  
+I am the founder and lead developer of **"Kotya Motya"** ([www.kotamota.com](https://www.kotamota.com)), an innovative non-profit initiative by the **"Foundation for the Development of the Ukrainian Language on the Internet."**
 
-### **Databases & APIs**  
-- Database design & management with **PostgreSQL, MySQL**  
-- ORM frameworks: **Sequelize, Prisma**  
-- REST API and third-party API integrations  
-- Web scraping & automation with **Puppeteer**  
+*   **Mission:** To support Ukrainian children (7-17) affected by war-induced trauma and educational disruption, helping them heal, learn, and reconnect with their cultural heritage.
+*   **Approach:** An interactive online platform transforming schoolwork into therapeutic, engaging games using AI-driven tools. *(Active Demo: [https://play.languageintellect.com/demo_new.html](https://play.languageintellect.com/demo_new.html))*
+*   **Impact:** Building resilience, fostering academic engagement, and strengthening Ukrainian cultural identity.
+*   **Stage:** Built upon **three years of dedicated MVP development**, Kotya Motya is now poised for scaling and broader impact with community and partner support.
 
-### **DevOps & Infrastructure**  
-- **Dockerizing and deploying applications** to VPS & cloud platforms  
-- Linux administration & server configuration (**Ubuntu, bash**)  
-- Web server management using **Nginx, Apache**, Hetzner**  
-- CI/CD pipelines with **GitHub Actions, Docker, Kubernetes**  
+---
 
-### **Tools & Frameworks**  
-- UI frameworks: **Tailwind CSS, Shadcn/UI**  
-- Module bundling with **Webpack 5**  
-- Agile methodologies (**Scrum, Jira**)  
-- Git version control and collaborative development  
+## Core Expertise & Technical Skills
 
-### **Local AI & LLM Orchestration**  
-- **Running local LLMs** using **Ollama, llama.cpp** for offline AI processing  
-- **LangChain framework** for intelligent agents and **RAG-based knowledge retrieval**  
-- **Vector search** with **pgvector** for efficient data embedding & retrieval  
-- **Fine-tuning open-source LLMs** (LLaMA 3, Mistral, Gemma)  
+Combining 20+ years in education and analytics with full-stack software development to build human-centered, AI-powered solutions:
 
-### 🚀🚀🚀 My Mission  
-I strive to create an innovative social space for the recovery of children with cognitive problems, as well as children affected by war, displacement, and digital distraction through personalized and interactive engagement.  
- 
-### 🔴🔴🔴 Let’s Collaborate  
- I am actively seeking **partners, investors, and collaborators** in the fields of **innovation, HealthTech/EdTech, AI, and intelligent autonomous systems**. If you share my vision, let’s connect!  
+*   **Full-Stack Development:** Proficient in JavaScript, TypeScript, Node.js, Next.js, React, PostgreSQL, Docker.
+*   **AI & Machine Learning:** Experienced in integrating AI models (LLMs) for adaptive learning, intelligent content delivery (LangChain, pgvector).
+*   **EdTech & Therapeutic Platform Design:** Expertise in gamification, adaptive learning algorithms, and creating engaging educational-therapeutic experiences.
+*   **Project Leadership & Grant Management:** Proven ability to lead projects from concept to execution and secure/manage grant funding (see "Nova Mova" below).
+*   **Policy Innovation & Civic Tech:** Experience in strategic project leadership, consensus-building, and policy design for social impact (e.g., Public Broadcasting Law Reform).
 
-<p align="center">
-<img src="" alt="">
-</p>
+---
+
+## Key Past Initiatives & Relevant Experience
+
+*   **Founder, "Nova Mova" Online Platform (2001-2005) - *EdTech Pioneer***
+    *   Pioneered one of Ukraine's first online platforms for Ukrainian language learning.
+    *   Successfully secured and managed **two U.S. Department of State grants (via IREX)** for content development and adaptive learning expansion.
+    *   Reached thousands of learners, promoting Ukrainian language and culture during a critical period.
+    *   *(Archival Link: [https://languageintellect.com](https://languageintellect.com))*
+
+*   **Strategic Project Lead, Public Broadcasting Law Reform (2012-2013)**
+    *   Led a government-appointed expert group to draft Ukraine's landmark Public Broadcasting Law, enabling independent public media.
+    *   Applied strategic leadership and consensus-building, now leveraging these skills in civic EdTech innovation.
+
+*   **Microgrant Reform Advocacy (2025) - *Public Policy Innovator***
+    *   Led a national advocacy effort to improve Ukraine's microgrant programs for startups, focusing on transparency and founder protection.
+
+*   **EdTech/HealthTech Innovation (Recent - e.g., EIT Jumpstarter, Science2Business participant with "PlayTellect" concept for therapeutic learning)**
+    *   Actively engaged in the European innovation ecosystem, selected for competitive programs like EIT Jumpstarter (Rebuild Ukraine - HealthTech Track) and the EU-funded Science2Business program, focusing on developing therapeutic learning solutions for children. *(This reframes "PlayTellect" from a purely commercial venture to an innovation concept in the therapeutic learning space, aligning with Kotya Motya's goals)*
+
+---
+
+## Vision
+
+My aim is to create sustainable, scalable digital tools that empower individuals and communities, particularly in challenging contexts. With "Kotya Motya," the goal is to provide a beacon of support and an effective learning pathway for Ukrainian children whose lives have been profoundly impacted by war.
+
+---
+
+**Connect:**
+*   **Email:** [maksymdudyk@gmail.com](mailto:maksymdudyk@gmail.com)
+*   **LinkedIn:** [Link to your LinkedIn Profile - if you have one and it's aligned]
