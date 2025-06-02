@@ -71,3 +71,4 @@ My aim is to create sustainable, scalable digital tools that empower individuals
 *   **Email:** [maksymdudyk@gmail.com](mailto:maksymdudyk@gmail.com)
 *   **Contact Form**: [Ukrainian](https://kotamota.com/contact_us)
 *   **LinkedIn:** [My Profile](https://www.linkedin.com/in/maksym-dudyk-follow-up/)
+*   **Our Team:** [Ukrainian](https://kotamota.com/about)
