@@ -57,7 +57,7 @@ Combining 20+ years in education and analytics with full-stack software developm
     *   Led a national advocacy effort to improve Ukraine's microgrant programs for startups, focusing on transparency and founder protection.
 
 *   **EdTech/HealthTech Innovation (Recent - e.g., EIT Jumpstarter, Science2Business participant with "PlayTellect" concept for therapeutic learning in Europe)**
-    *   Actively engaged in the European innovation ecosystem, selected for competitive programs like EIT Jumpstarter (Rebuild Ukraine - HealthTech Track) and the EU-funded Science2Business program, focusing on developing therapeutic learning solutions for children in the EU.
+    *   Actively engaged in the European innovation ecosystem, selected for competitive programs like EIT Jumpstarter (Rebuild Ukraine - HealthTech Track) and the EU-funded `S2B` program, focusing on developing therapeutic learning solutions for children.
 
 ---
 
