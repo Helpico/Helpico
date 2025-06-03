@@ -7,14 +7,6 @@
 
 ---
 
-*"My name is Maksym Dudyk. I am the founder of **"Kotya Motya"** – Ukraine's first educational-therapeutic game designed for children facing learning difficulties due to stress and anxiety from the war.*
-
-*Our NGO, the "Foundation for the Development of the Ukrainian Language on the Internet," has developed "Kotya Motya" ([www.kotamota.com](https://www.kotamota.com)): a digital assistant that helps children rediscover their interest in learning through adaptive play and pressure-free support. As an educator, programmer, father of many, and an IDP myself, I created this complete educational product without investment, driven by the urgent need during wartime. The platform, which already has a test version and initial users, combines modern technology with profound social impact and is ready to scale.*
-
-*Our focus is not just to teach, but to help thousands of children restore their faith in themselves. We are ready to expand this solution and seek support to complete its full launch and reach those in need."*
-
----
-
 ## Social Innovator & EdTech/HealthTech Developer
 
 Passionate about leveraging technology for social good, with a focus on creating impactful solutions for education, mental well-being, and cultural resilience, especially for vulnerable populations in Ukraine.
@@ -23,7 +15,7 @@ Passionate about leveraging technology for social good, with a focus on creating
 
 ## Current Primary Focus: "Kotya Motya" - Playful Learning That Heals
 
-"Kotya Motya" is an innovative non-profit initiative by the **"Foundation for the Development of the Ukrainian Language on the Internet."**
+"Kotya Motya" is an innovative non-profit initiative. As an educator, programmer, father of many, and an IDP myself, I created this complete educational product without investment, driven by the urgent need during wartime.
 
 *   **Impact:** Building mental health resilience, fostering academic engagement, and strengthening Ukrainian cultural identity.
 *   **Stage:** Built upon **three years of dedicated MVP development**, Kotya Motya is now poised for scaling and broader impact with community and partner support.
