@@ -37,7 +37,7 @@ Combining 20+ years in education and analytics with full-stack software developm
 ## Key Past Initiatives & Relevant Experience
 
 *   **Founder, "Nova Mova" Online Platform (2001-2005) - *EdTech Pioneer***
-    *   Pioneered one of Ukraine's first online platforms for Ukrainian language learning.
+    *   Pioneered one of Ukraine's first non-profit independent personal online platforms for Ukrainian language learning.
     *   Successfully secured and managed **two U.S. Department of State grants (via IREX)** for content development and adaptive learning expansion.
     *   Reached thousands of learners, promoting Ukrainian language and culture during a critical period.
     *   *(Archival Link: [https://languageintellect.com](https://languageintellect.com))*
