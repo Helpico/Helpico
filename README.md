@@ -15,7 +15,7 @@ Educator and developer focused on creating healing educational technologies for 
 
 ## Academic & Civic Credentials
 
-* **Former Researcher at the Academy of Sciences of Ukraine**, Department of Computational Lexicography. Conducted dissertation research on quantitative and computational linguistics; authored **14 scholarly articles**.
+* **Former Researcher at the Academy of Sciences of Ukraine**, Department of Computational Lexicography. Conducted dissertation research on quantitative linguistics; authored **14 scholarly articles**.
 * **Harvard Fellow (IREX/U.S. Department of State, 2004)** — completed a professional fellowship in EdTech leadership and research methodology.
 * **2x U.S. Department of State Education Grants Recipient (via IREX)** — for development and scaling of “Nova Mova,” one of Ukraine's earliest online learning platforms for Ukrainian language and identity (2002, 2004).
 * **Participant of EIT Jumpstarter 2025 (HealthTech / Rebuild Ukraine)** — EU's leading pre-seed innovation track, with my therapeutic learning platform.
