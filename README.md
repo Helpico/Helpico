@@ -7,60 +7,68 @@
 
 ---
 
-## Social Innovator & EdTech/HealthTech Developer
+## Social Innovator • EdTech/HealthTech Developer • Civic Researcher
 
-Passionate about leveraging technology for social good, with a focus on creating impactful solutions for education, mental well-being, and cultural resilience, especially for vulnerable populations in Ukraine.
-
----
-
-## Current Primary Focus: "Kotya Motya" - Playful Learning That Heals
-
-"Kotya Motya" is an innovative non-profit initiative. As an educator, programmer, father of many, and an IDP myself, I created this complete educational product without investment, driven by the urgent need during wartime.
-
-*   **Impact:** Building mental health resilience, fostering academic engagement, and strengthening Ukrainian cultural identity.
-*   **Stage:** Built upon **three years of dedicated MVP development**, Kotya Motya is now poised for scaling and broader impact with community and partner support.
+Entrepreneur and developer focused on creating healing educational technologies for children affected by trauma and war. Blending 20+ years in education, public policy, research, and full-stack software engineering.
 
 ---
 
-## Core Expertise & Technical Skills
+## Academic & Civic Credentials
 
-Combining 20+ years in education and analytics with full-stack software development to build human-centered, AI-powered solutions:
-
-*   **Full-Stack Development:** Proficient in JavaScript, TypeScript, Node.js, Next.js, React, PostgreSQL, Docker. **(Golden Badge Contributor, Stack Overflow Community Platform for Programmers)**.
-*   **AI & Machine Learning:** Experienced in integrating AI models (LLMs) for adaptive learning, intelligent content delivery (LangChain, pgvector).
-*   **EdTech & Therapeutic Platform Design:** Expertise in gamification, adaptive learning algorithms, and creating engaging educational-therapeutic experiences.
-*   **Project Leadership & Grant Management:** Proven ability to lead projects from concept to execution and secure/manage grant funding (see "Nova Mova" below).
-*   **Policy Innovation & Civic Tech:** Experience in strategic project leadership, consensus-building, and policy design for social impact (e.g., Public Broadcasting Law Reform).
-
----
-
-## Key Past Initiatives & Relevant Experience
-
-*   **Founder, "Nova Mova" Online Platform (2001-2005) - *EdTech Pioneer***
-    *   Pioneered one of Ukraine's first non-profit independent personal online platforms for Ukrainian language learning.
-    *   Successfully secured and managed **two U.S. Department of State grants (via IREX)** for content development and adaptive learning expansion.
-    *   Reached thousands of learners, promoting Ukrainian language and culture during a critical period.
-    *   *(Archival Link: [https://languageintellect.com](https://languageintellect.com))*
-
-*   **Strategic Project Lead, Public Broadcasting Law Reform (2012-2013)**
-    *   Led a government-appointed expert group to draft Ukraine's landmark Public Broadcasting Law, enabling independent public media.
-
-*   **Microgrant Reform Advocacy (2025) - *Public Policy Innovator***
-    *   Led a national advocacy effort to improve Ukraine's microgrant programs for startups, focusing on transparency and founder protection.
-
-*   **EdTech/HealthTech Innovation (Recent - e.g., EIT Jumpstarter, Science2Business participant with "PlayTellect" concept for therapeutic learning in Europe)**
-    *   Actively engaged in the European innovation ecosystem, selected for competitive programs like EIT Jumpstarter (Rebuild Ukraine - HealthTech Track) and the EU-funded `S2B` program, focusing on developing therapeutic learning solutions for children.
+* **Former Researcher at the Academy of Sciences of Ukraine**, Department of Computational Lexicography. Conducted dissertation research on quantitative and computational linguistics; authored **14 scholarly articles**.
+* **Harvard Fellow (IREX/U.S. Department of State, 2004)** — completed a professional fellowship in EdTech leadership and research methodology.
+* **2x U.S. Department of State Education Grants Recipient (via IREX)** — for development and scaling of “Nova Mova,” one of Ukraine's earliest online learning platforms for Ukrainian language and identity (2002, 2004).
+* **Participant of EIT Jumpstarter 2025 (HealthTech / Rebuild Ukraine)** — EU's leading pre-seed innovation track, with my therapeutic learning platform `PlayTellect`.
+* **Graduate of Science2Business (EIT/Seeds of Bravery 2024)** — selected among 30 top Ukrainian researchers to train in EU commercialization of digital health & education solutions.
+* **Former Strategic Policy Advisor to the Government of Ukraine (2005–2014)** — coordinated public broadcasting reform and national resilience media initiatives.
+* **Author of Ukraine’s First Successful Public Broadcasting Law** (2013) — after 15 years of failed attempts by others.
+* **Recipient of the Order for the Defense of Ukraine’s Information Sovereignty** (2015).
 
 ---
 
-## Vision
+## Current Focus: “Kotya Motya” – Playful Learning That Heals
 
-My aim is to create sustainable, scalable digital tools that empower individuals and communities, particularly in challenging contexts. With "Kotya Motya," the goal is to provide a beacon of free, accessible, and engaging support and an effective learning pathway for Ukrainian children whose lives have been profoundly impacted by war.
+**Kotya Motya** is a nonprofit digital therapeutic platform supporting mental health recovery and academic engagement for children aged 6–15 affected by war and stress.
+
+* Combines trauma-informed pedagogy, adaptive AI, and gamification.
+* Developed as a **humanitarian alternative to medication and clinical referral** for children experiencing anxiety, attention difficulties, or social withdrawal.
+* Aims to integrate **research-backed digital interventions** into everyday learning.
+
+Explore more: [https://kotamota.com](https://kotamota.com)
 
 ---
 
-**Connect:**
-*   **Email:** [maksymdudyk@gmail.com](mailto:maksymdudyk@gmail.com)
-*   **Contact Form**: [Ukrainian](https://kotamota.com/contact_us)
-*   **LinkedIn:** [My Profile](https://www.linkedin.com/in/maksym-dudyk-follow-up/)
-*   **Our Team:** [Ukrainian](https://kotamota.com/about)
+## Technical Stack & Project Development
+
+* **Full-Stack Engineering**: Node.js, React, PostgreSQL, Next.js, Docker, Tailwind, pgvector.
+* **AI & NLP Integration**: LangChain, LLMs for educational and therapeutic personalization.
+* **Product Design**: UX for neurodiverse learners, language acquisition, and emotional safety.
+* **Back-end Deployment**: Linux VPS, Kubernetes (Prometheus Cert.), scalable app architecture.
+
+---
+
+## Legacy & Past Impact
+
+* **Founder of “Nova Mova”** – A landmark early-2000s online education platform (2001–2005).
+* **Strategic Media Leader** – Public Service Broadcasting reformer (2012–2013).
+* **Counter-Disinformation Consultant** during the first phase of Russian hybrid war (2014–2015).
+* **Advocate of Grant Reform in Ukraine** – Led public campaign in 2025 for fairer startup grant policies for first-time founders.
+
+---
+
+## Let’s Collaborate
+
+I am actively seeking academic partners for a Czech-Ukrainian research project on digital therapeutic learning tools for children in wartime settings. I bring:
+
+* Technical and scientific leadership
+* Proven fundraising and policy experience
+* Deep commitment to Ukraine’s educational and emotional recovery
+
+---
+
+**Contact Me:**
+
+* Email: [maksymdudyk@gmail.com](mailto:maksymdudyk@gmail.com)
+* LinkedIn: [linkedin.com/in/maksym-dudyk-follow-up](https://www.linkedin.com/in/maksym-dudyk-follow-up)
+* Site: [kotamota.com](https://kotamota.com)
+* CV: Available upon request
