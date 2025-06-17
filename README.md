@@ -9,7 +9,7 @@
 
 ## Social Innovator • EdTech/HealthTech Developer • Civic Researcher
 
-Entrepreneur and developer focused on creating healing educational technologies for children affected by trauma and war. Blending 20+ years in education, public policy, research, and full-stack software engineering.
+Educator and developer focused on creating healing educational technologies for children affected by trauma and war. Blending 20+ years in education, public policy, research, and full-stack software engineering.
 
 ---
 
