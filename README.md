@@ -49,7 +49,7 @@ Explore more: [https://kotamota.com](https://kotamota.com)
 
 ## Legacy & Past Impact
 
-* **Founder of “Nova Mova”** – A landmark early-2000s online education platform (2001–2005).
+* **Founder of “Nova Mova”** – A landmark early-2000s online education platform [https://languageintellect.com](https://languageintellect.com)(2001–2005).
 * **Strategic Media Leader** – Public Service Broadcasting reformer (2012–2013).
 * **Counter-Disinformation Consultant** during the first phase of Russian hybrid war (2014–2015).
 * **Advocate of Grant Reform in Ukraine** – Led public campaign in 2025 for fairer startup grant policies for first-time founders.
