@@ -18,7 +18,7 @@ Educator and developer focused on creating healing educational technologies for 
 * **Former Researcher at the Academy of Sciences of Ukraine**, Department of Computational Lexicography. Conducted dissertation research on quantitative linguistics; authored **14 scholarly articles**.
 * **Harvard Fellow (IREX/U.S. Department of State, 2004)** — completed a professional fellowship in EdTech leadership and research methodology.
 * **2x U.S. Department of State Education Grants Recipient (via IREX)** — for development and scaling of “Nova Mova,” one of Ukraine's earliest online learning platforms for Ukrainian language and identity (2002, 2004).
-* **Participant of EIT Jumpstarter 2025 (HealthTech / Rebuild Ukraine)** — EU's leading pre-seed innovation track, with my therapeutic learning platform.
+* **Participant of EIT Jumpstarter 2025 (HealthTech / Rebuild Ukraine)** — EU's leading pre-seed innovation track, with a therapeutic learning platform concept.
 * **Graduate of Science2Business (EIT/Seeds of Bravery 2024)** — selected among 30 top Ukrainian researchers to train in EU commercialization of digital health & education solutions.
 * **Former Strategic Policy Advisor to the Government of Ukraine (2005–2014)** — coordinated public broadcasting reform and national resilience media initiatives.
 * **Author of Ukraine’s First Successful Public Broadcasting Law** (2013) — after 15 years of failed attempts by others.
