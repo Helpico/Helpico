@@ -53,7 +53,7 @@ Both platforms are being co-developed in collaboration with leading Ukrainian ps
 
 ## Let’s Collaborate
 
-I'm actively seeking international cultural institutions, researchers, and donors to join our growing Czech-Ukrainian pilot on therapeutic education, and to help scale our platforms to more children and educators in need.
+I'm actively seeking international cultural institutions, researchers, and donors to join our growing this pilot project on therapeutic education, and to help scale our platforms to more children and educators in need.
 
 **I bring:**
 
