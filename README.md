@@ -1,76 +1,71 @@
-# Maksym Dudyk. Author of Therapeutic Education Initiative. 
+# Maksym Dudyk
+### Author of the Therapeutic Education Initiative
 
 <p align="center">
-  <img src="https://github.com/Helpico/Helpico/assets/32806311/9dfc44d0-bcbe-43a1-8a73-9425f15224db" alt="Maksym Dudyk" width="140" height="200">
-  <img src="https://github.com/user-attachments/assets/e08934f8-8ac6-40c8-9c0d-47a0b5c76d61" alt="Dudyk's Work" width="300" height="200">
+  <img src="https://github.com/Helpico/Helpico/assets/32806311/9dfc44d0-bcbe-43a1-8a73-9425f15224db" alt="Maksym Dudyk" width="140" height="200">
+  <img src="https://github.com/user-attachments/assets/e08934f8-8ac6-40c8-9c0d-47a0b5c76d61" alt="Dudyk's Work" width="300" height="200">
 </p>
+
+**Social Innovator • EdTech/HealthTech Developer • Civic Researcher**
+
+Founder and coordinator of the **Therapeutic Education Initiative**, a Ukrainian-based non-profit movement building digital-first solutions to help children heal and learn through emotionally safe, gamified, and research-informed education. I combine 20+ years of experience across education, public policy, applied research, and full-stack software development.
 
 ---
 
-## Social Innovator • EdTech/HealthTech Developer • Civic Researcher
+## About the Therapeutic Education Initiative
 
-Founder of the **"Therapeutic Education" Initiative.** Educator and developer focused on creating healing educational technologies for children affected by trauma and war. Blending 20+ years in education, public policy, research, and full-stack software engineering.
+Therapeutic Education is a paradigm-shifting initiative focused on transforming education into a vehicle of emotional healing. It seeks to answer one key question:
+
+**What can we do when a child wants to learn, but simply cannot?**
+
+We are developing accessible digital tools that empower children suffering from war-related trauma, anxiety, and attention challenges to gradually rebuild focus, motivation, and self-confidence — without the need for clinical intervention.
+
+### Our Platforms:
+
+* **Helpica** — a chat-based visual learning guide for teachers, parents, and teens.
+* **Kotya Motya** — a playful digital universe of therapeutic games for children ages 6–15.
+
+Both platforms are being co-developed in collaboration with leading Ukrainian psychologists, educators, and European academic partners.
 
 ---
 
 ## Academic & Civic Credentials
 
-*   **Former Researcher at the Academy of Sciences of Ukraine**, Department of Computational Lexicography. Conducted dissertation research on quantitative linguistics; authored **14 scholarly articles**.
-*   **Harvard Fellow (IREX/U.S. Department of State, 2004)** — completed a professional fellowship in EdTech leadership and research methodology.
-*   **2x U.S. Department of State Education Grants Recipient (via IREX)** — for development and scaling of “Nova Mova,” one of Ukraine's earliest online learning platforms for Ukrainian language and identity (2002, 2004).
-*   **Participant of EIT Jumpstarter 2025 (HealthTech / Rebuild Ukraine)** — EU's leading pre-seed innovation track, with a therapeutic learning platform concept.
-*   **Graduate of Science2Business (EIT/Seeds of Bravery 2024)** — selected among 30 top Ukrainian researchers to train in EU commercialization of digital health & education solutions.
-*   **Former Strategic Policy Advisor to the Government of Ukraine (2005–2014)** — coordinated public broadcasting reform and national resilience media initiatives.
-*   **Author of Ukraine’s First Successful Public Broadcasting Law** (2013) — after 15 years of failed attempts by others.
-*   **Recipient of the Order for the Defense of Ukraine’s Information Sovereignty** (2015).
+* Former Researcher at the Academy of Sciences of Ukraine, Department of Computational Lexicography. Author of 14 scholarly articles.
+* **Harvard Fellow** (IREX/U.S. Department of State, 2004) — trained in EdTech leadership and research methods.
+* 2x Recipient of U.S. Education Grants (IREX) for early Ukrainian language learning platforms (2002, 2004).
+* Participant in EIT Jumpstarter 2025 (Rebuild Ukraine Track, HealthTech vertical).
+* Graduate of Science2Business (EIT/Seeds of Bravery, 2024).
+* Strategic Policy Advisor (2005–2014) to Ukrainian Government on media and education reform.
+* Author of **Ukraine’s First Public Broadcasting Law** (2013).
+* Recipient of the **Order for the Defense of Ukraine’s Information Sovereignty** (2015).
 
 ---
 
-## Current Focus: "Therapeutic Education" Initiative & "Kotya Motya" Platform
+## Technical & Design Competencies
 
-The **"Therapeutic Education" Initiative** is a non-profit focused on developing and validating new models of digital mental health support for children.
-
-Our flagship project is **"Kotya Motya"** — a digital therapeutic platform supporting mental health recovery and academic engagement for children aged 6–15 affected by war and stress.
-
-*   Combines trauma-informed pedagogy, adaptive AI, and gamification.
-*   Developed as a **humanitarian alternative to medication and clinical referral** for children experiencing anxiety, attention difficulties, or social withdrawal.
-*   Aims to integrate **research-backed digital interventions** into everyday learning.
-
-Explore more: [https://kotamota.com](https://kotamota.com)
-
----
-
-## Technical Stack & Project Development
-
-*   **Full-Stack Engineering**: Node.js, React, PostgreSQL, Next.js, Docker, Tailwind, pgvector.
-*   **AI & NLP Integration**: LangChain, LLMs for educational and therapeutic personalization.
-*   **Product Design**: UX for neurodiverse learners, language acquisition, and emotional safety.
-*   **Back-end Deployment**: Linux VPS, Kubernetes (Prometheus Cert.), scalable app architecture.
-
----
-
-## Legacy & Past Impact
-
-*   **Founder of “Nova Mova”** – A landmark early-2000s online education platform implemented through the **NGO "Foundation for the Development of the Ukrainian Language on the Internet,"** which I lead. [https://languageintellect.com](https://languageintellect.com) (2001–2005).
-*   **Strategic Media Leader** – Public Service Broadcasting reformer (2012–2013).
-*   **Counter-Disinformation Consultant** during the first phase of Russian hybrid war (2014–2015).
-*   **Advocate of Grant Reform in Ukraine** – Led public campaign for fairer startup grant policies for first-time founders (2025).
+* **Full-Stack Engineering**: Node.js, React, PostgreSQL, Next.js, Tailwind, Docker
+* **AI/NLP Integration**: LangChain, vector search (pgvector), GPT personalization for education
+* **UX for Neurodivergent Learners**: trauma-informed design, gamification, emotional safety
+* **Back-end Architecture**: Linux VPS, Kubernetes (Prometheus certified), scalable infra
 
 ---
 
 ## Let’s Collaborate
 
-I am actively seeking academic partners for a Czech-Ukrainian research project on digital therapeutic learning tools for children in wartime settings. I bring:
+I'm actively seeking international cultural institutions, researchers, and donors to join our growing Czech-Ukrainian pilot on therapeutic education, and to help scale our platforms to more children and educators in need.
 
-*   Technical and scientific leadership
-*   Proven fundraising and policy experience
-*   Deep commitment to Ukraine’s educational and emotional recovery
+**I bring:**
+
+* Technical and scientific leadership
+* A proven record in project strategy, grant-writing, and impact delivery
+* Deep civic commitment to Ukraine’s educational and emotional recovery
 
 ---
 
-## Contact Me:
+## Contact Me
 
-*   Email: [maksymdudyk@gmail.com](mailto:maksymdudyk@gmail.com)
-*   LinkedIn: [linkedin.com/in/maksym-dudyk-follow-up](https://www.linkedin.com/in/maksym-dudyk-follow-up)
-*   Site: [kotamota.com](https://kotamota.com)
-*   CV: Available upon request
+* **Email**: maksymdudyk@gmail.com
+* **LinkedIn**: [linkedin.com/in/maksym-dudyk-follow-up](https://linkedin.com/in/maksym-dudyk-follow-up)
+* **Sites**: [kotamota.com](https://kotamota.com) • [helpica.me](https://helpica.me)
+* **CV**: Available upon request
