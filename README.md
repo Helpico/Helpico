@@ -1,4 +1,4 @@
-# Maksym Dudyk
+# Maksym Dudyk. Author of Therapeutic Education Initiative. 
 
 <p align="center">
   <img src="https://github.com/Helpico/Helpico/assets/32806311/9dfc44d0-bcbe-43a1-8a73-9425f15224db" alt="Maksym Dudyk" width="140" height="200">
