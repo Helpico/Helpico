@@ -30,7 +30,7 @@ Our initiative develops and provides accessible digital tools that empower child
 *   **Our Platforms:** The initiative's work is delivered through two platforms: **Helpica.me** (a chatbot-course for educators and parents) and **Kotya Motya** (a universe of therapeutic games). These are not commercial products, but research-informed tools for our non-profit mission, co-developed with leading Ukrainian and European academic partners.
 
 
-## ${\color{#EB578C}\text{Academic & Civic Credentials}{\text{}}}$
+## Academic & Civic Credentials
 
 *   **Harvard Fellow** (IREX/U.S. Department of State, 2004) — EdTech Leadership and Research Methods.
 *   Former Researcher, **Academy of Sciences of Ukraine**, Dept. of Computational Lexicography.
@@ -41,7 +41,7 @@ Our initiative develops and provides accessible digital tools that empower child
 
 ---
 
-## ${\color{#EB578C}\text{Technical Architecture & Competencies }{\text{}}}$
+## Technical Architecture & Competencies
 
 *   **Full-Stack Engineering:** Python, Node.js, TypeScript/JavaScript, React/Next.js, PostgreSQL.
 *   **AI & LLM Orchestration:** LangChain for intelligent agents, RAG-based knowledge retrieval, and vector search (pgvector). Experience with local LLMs (Ollama, Llama 3) for offline-capable, secure AI processing.
