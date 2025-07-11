@@ -2,8 +2,6 @@
 ### Author of the "Therapeutic Education" Approach
 
 <p align="left">
-  <img src="https://github.com/Helpico/Helpico/assets/32806311/9dfc44d0-bcbe-43a1-8a73-9425f15224db" alt="Maksym Dudyk" width="140" height="200">
-  <img src="https://github.com/user-attachments/assets/e08934f8-8ac6-40c8-9c0d-47a0b5c76d61" alt="Dudyk's Work" width="300" height="200">
   <img width="527" height="301" alt="image" src="https://github.com/user-attachments/assets/bad8f235-048f-4c33-bd70-52af2b611433" />
 </p>
 
