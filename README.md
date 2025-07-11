@@ -1,5 +1,5 @@
 # ${\color{#21C8D1}\text{Maksym Dudyk}{\text{}}}$
-## ${\color{#EB578C}\text{Social Innovator • EdTech Architect • Civic Researcher}{\text{}}}$
+## ${\color{#EB578C}\text{Social Innovator • EdTech Architect • Applied Researcher}{\text{}}}$
 
 <p align="left">
   <img src="https://github.com/Helpico/Helpico/assets/32806311/9dfc44d0-bcbe-43a1-8a73-9425f15224db" alt="Maksym Dudyk" width="140" height="200">
