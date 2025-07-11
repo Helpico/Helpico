@@ -1,4 +1,4 @@
-# Maksym Dudyk
+# <span style="color: #21C8D1;">Maksym Dudyk</span>
 ### Author of the "Therapeutic Education" Approach
 
 <p align="left">
