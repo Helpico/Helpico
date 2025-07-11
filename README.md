@@ -12,7 +12,7 @@ As the founder of the **Therapeutic Education Initiative**, I lead a Ukrainian-b
 
 ---
 
-## ${\color{#9B51E0}\text{The Unprecedented Challenge: A Dual Crisis in Ukraine}{\text{}}}$
+## ${\color{#EB578C}\text{The Unprecedented Challenge: A Dual Crisis in Ukraine}{\text{}}}$
 
 Ukraine's children are facing a national emergency. This is not just one crisis, but two, deeply connected:
 
