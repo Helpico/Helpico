@@ -1,4 +1,4 @@
-# <span style="color: #21C8D1;">Maksym Dudyk</span>
+# ${\color{#21C8D1}\text{Maksym Dudyk}}$>
 ### Author of the "Therapeutic Education" Approach
 
 <p align="left">
