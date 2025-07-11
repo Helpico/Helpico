@@ -59,7 +59,7 @@ I am actively seeking collaboration with international academic institutions, re
 *   A proven, operational technology platform ready for research.
 *   Technical and scientific leadership with a deep understanding of the Ukrainian context.
 *   A track record in project strategy, grant-writing, and impact delivery.
-*   An unwavering civic commitment to Ukraine’s recovery.
+*   A deep, genuine dedication to Ukraine’s recovery.
 
 ---
 
