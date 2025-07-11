@@ -55,7 +55,7 @@ Our initiative develops and provides accessible digital tools that empower child
 
 ## ${\color{#EB578C}\text{Let’s Build a Solution Together}{\text{}}}$
 
-I am actively seeking collaboration with international academic institutions, researchers, and donors to scientifically validate and scale the "Therapeutic Education" model. My goal is to transform this Ukrainian-born innovation into a global public good.
+I am actively seeking collaboration with international academic institutions, researchers, and donors to scientifically validate and scale the "Therapeutic Education" model. My goal is to transform this Ukrainian-born cognitive recovery tool for children in wartime into a global public good.
 
 **I bring to our partnership:**
 *   A proven, operational technology platform ready for research.
