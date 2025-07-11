@@ -3,7 +3,7 @@
 
 <p align="left">
   <img src="https://github.com/Helpico/Helpico/assets/32806311/9dfc44d0-bcbe-43a1-8a73-9425f15224db" alt="Maksym Dudyk" width="140" height="200">
-  <img width="1039" height="594" alt="image" src="https://github.com/user-attachments/assets/1e14722b-075d-4ea8-91c0-67083e2c890b" />
+  <img src="https://github.com/user-attachments/assets/e08934f8-8ac6-40c8-9c0d-47a0b5c76d61" alt="Dudyk's Work" width="300" height="200">  
 </p>
 
 ## ${\color{#EB578C}\text{Social Innovator • EdTech Architect • Civic Researcher}{\text{}}}$
