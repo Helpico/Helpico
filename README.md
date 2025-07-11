@@ -6,7 +6,8 @@
   <img src="https://github.com/user-attachments/assets/e08934f8-8ac6-40c8-9c0d-47a0b5c76d61" alt="Dudyk's Work" width="300" height="200">
 </p>
 
-**Social Innovator • EdTech Architect • Civic Researcher**
+## ${\color{#EB578C}\text{Social Innovator • EdTech Architect • Civic Researcher}{\text{}}}$
+
 
 As the founder of the **Therapeutic Education Initiative**, I lead a Ukrainian-based non-profit movement focused on a single, urgent mission: building digital-first solutions to help war-affected children heal and learn. My work combines over 20 years of experience across education, public policy, applied research, and full-stack software development to bridge the gap between psychological trauma and educational recovery.
 
@@ -21,7 +22,7 @@ Ukraine's children are facing a national emergency. This is not just one crisis,
 
 These crises create a devastating cycle: when a child's nervous system is locked in survival mode, learning becomes impossible. When they fail in school, their trauma deepens. My work is dedicated to breaking this cycle.
 
-## Our Approach: The "Therapeutic Education" Initiative
+## ${\color{#EB578C}\text{Our Approach: The "Therapeutic Education" Initiative}{\text{}}}$
 
 Therapeutic Education is a new, interdisciplinary paradigm that sees learning not just as knowledge acquisition, but as a path to emotional and cognitive healing. We answer the question: **What can we do when a child wants to learn, but simply cannot?**
 
@@ -31,7 +32,7 @@ Our initiative develops and provides accessible digital tools that empower child
 
 ---
 
-## Academic & Civic Credentials
+## ${\color{#EB578C}\text{Academic & Civic Credentials}{\text{}}}$
 
 *   **Harvard Fellow** (IREX/U.S. Department of State, 2004) — EdTech Leadership and Research Methods.
 *   Former Researcher, **Academy of Sciences of Ukraine**, Dept. of Computational Lexicography.
@@ -42,7 +43,7 @@ Our initiative develops and provides accessible digital tools that empower child
 
 ---
 
-## Technical Architecture & Competencies
+## ${\color{#EB578C}\text{Technical Architecture & Competencies }{\text{}}}$
 
 *   **Full-Stack Engineering:** Python, Node.js, TypeScript/JavaScript, React/Next.js, PostgreSQL.
 *   **AI & LLM Orchestration:** LangChain for intelligent agents, RAG-based knowledge retrieval, and vector search (pgvector). Experience with local LLMs (Ollama, Llama 3) for offline-capable, secure AI processing.
@@ -51,7 +52,7 @@ Our initiative develops and provides accessible digital tools that empower child
 
 ---
 
-## Let’s Build a Solution Together
+## ${\color{#EB578C}\text{Let’s Build a Solution Together}{\text{}}}$
 
 I am actively seeking collaboration with international academic institutions, researchers, and donors to scientifically validate and scale the "Therapeutic Education" model. My goal is to transform this Ukrainian-born innovation into a global public good.
 
@@ -63,7 +64,7 @@ I am actively seeking collaboration with international academic institutions, re
 
 ---
 
-## Contact
+## ${\color{#EB578C}\text{Contact}{\text{}}}$
 
 *   **Email:** maksymdudyk@gmail.com
 *   **LinkedIn:** [linkedin.com/in/maksym-dudyk-follow-up](https://linkedin.com/in/maksym-dudyk-follow-up)
