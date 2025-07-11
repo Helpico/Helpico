@@ -8,7 +8,7 @@
 ## ${\color{#EB578C}\text{Social Innovator • EdTech Architect • Civic Researcher}{\text{}}}$
 
 
-As the founder of the **Therapeutic Education Initiative**, I lead a Ukrainian-based non-profit movement focused on a single, urgent mission: building digital-first solutions to help war-affected children heal and learn. My work combines over 20 years of experience across high-level policy design, applied research, and full-stack software development to bridge the gap between psychological trauma and educational recovery.
+As the founder of the **Therapeutic Education Initiative**, I lead a Ukrainian-based non-profit movement focused on a single, urgent mission: building digital-first solutions to help war-affected children heal and learn. My work combines over 20 years of experience across high-level policy design, applied research, language teaching and full-stack software development to bridge the gap between psychological trauma and educational recovery.
 
 
 ## ${\color{#EB578C}\text{The Unprecedented Challenge: A Dual Crisis in Ukraine}{\text{}}}$
