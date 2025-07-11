@@ -1,71 +1,71 @@
 # Maksym Dudyk
-### Author of the Therapeutic Education Initiative
+### Author of the "Therapeutic Education" Approach
 
 <p align="left">
-  <img src="https://github.com/Helpico/Helpico/assets/32806311/9dfc44d0-bcbe-43a1-8a73-9425f15224db" alt="Maksym Dudyk" width="140" height="200">
-  <img src="https://github.com/user-attachments/assets/e08934f8-8ac6-40c8-9c0d-47a0b5c76d61" alt="Dudyk's Work" width="300" height="200">
+  <img src="https://github.com/Helpico/Helpico/assets/32806311/9dfc44d0-bcbe-43a1-8a73-9425f15224db" alt="Maksym Dudyk" width="140" height="200">
+  <img src="https://github.com/user-attachments/assets/e08934f8-8ac6-40c8-9c0d-47a0b5c76d61" alt="Dudyk's Work" width="300" height="200">
 </p>
 
-**Social Innovator • EdTech/HealthTech Developer • Civic Researcher**
+**Social Innovator • EdTech Architect • Civic Researcher**
 
-Founder and coordinator of the **Therapeutic Education Initiative**, a Ukrainian-based non-profit movement building digital-first solutions to help children heal and learn through emotionally safe, gamified, and research-informed education. I combine 20+ years of experience across education, public policy, applied research, and full-stack software development.
+As the founder of the **Therapeutic Education Initiative**, I lead a Ukrainian-based non-profit movement focused on a single, urgent mission: building digital-first solutions to help war-affected children heal and learn. My work combines over 20 years of experience across education, public policy, applied research, and full-stack software development to bridge the gap between psychological trauma and educational recovery.
 
 ---
 
-## About the Therapeutic Education Initiative
+## The Unprecedented Challenge: A Dual Crisis in Ukraine
 
-Therapeutic Education is a paradigm-shifting initiative focused on transforming education into a vehicle of emotional healing. It seeks to answer one key question:
+Ukraine's children are facing a national emergency. This is not just one crisis, but two, deeply intertwined:
 
-**What can we do when a child wants to learn, but simply cannot?**
+1.  **A Mental Health Crisis:** Up to 75% of children show signs of war-related trauma, and nearly one in three screen positive for depression.
+2.  **An Educational Crisis:** Over 5 million children have had their education disrupted, with UNICEF reporting an average learning loss of two years in reading.
 
-We are developing accessible digital tools that empower children suffering from war-related trauma, anxiety, and attention challenges to gradually rebuild focus, motivation, and self-confidence — without the need for clinical intervention.
+These crises create a devastating cycle: when a child's nervous system is locked in survival mode, learning becomes impossible. When they fail in school, their trauma deepens. My work is dedicated to breaking this cycle.
 
-### Our Platforms:
+## Our Approach: The "Therapeutic Education" Initiative
 
-* **Helpica** — a chat-based visual learning guide for teachers, parents, and teens.
-* **Kotya Motya** — a playful digital universe of therapeutic games for children ages 6–15.
+Therapeutic Education is a new, interdisciplinary paradigm that sees learning not just as knowledge acquisition, but as a path to emotional and cognitive healing. We answer the question: **What can we do when a child wants to learn, but simply cannot?**
 
-Both platforms are being co-developed in collaboration with leading Ukrainian psychologists, educators, and European academic partners.
+Our initiative develops and provides accessible digital tools that empower children to rebuild focus, motivation, and self-confidence.
+
+*   **Our Platforms:** The initiative's work is delivered through two platforms: **Helpica.me** (a chatbot-course for educators and parents) and **Kotya Motya** (a universe of therapeutic games). These are not commercial products, but research-informed tools for our non-profit mission, co-developed with leading Ukrainian and European academic partners.
 
 ---
 
 ## Academic & Civic Credentials
 
-* Former Researcher at the Academy of Sciences of Ukraine, Department of Computational Lexicography. Author of 14 scholarly articles.
-* **Harvard Fellow** (IREX/U.S. Department of State, 2004) — trained in EdTech leadership and research methods.
-* 2x Recipient of U.S. Education Grants (IREX) for early Ukrainian language learning platforms (2002, 2004).
-* Participant in EIT Jumpstarter 2025 (Rebuild Ukraine Track, HealthTech vertical).
-* Graduate of Science2Business (EIT/Seeds of Bravery, 2024).
-* Strategic Policy Advisor (2005–2014) to Ukrainian Government on media and education reform.
-* Author of **Ukraine’s First Public Broadcasting Law** (2013).
-* Recipient of the **Order for the Defense of Ukraine’s Information Sovereignty** (2015).
+*   **Harvard Fellow** (IREX/U.S. Department of State, 2004) — EdTech Leadership and Research Methods.
+*   Former Researcher, **Academy of Sciences of Ukraine**, Dept. of Computational Lexicography.
+*   2x Recipient of **U.S. Education Grants (IREX)** for pioneering Ukrainian language learning platforms.
+*   Participant, **EIT Jumpstarter 2025 (HealthTech)** & Graduate, **Science2Business (EIT, 2024)**.
+*   Author of **Ukraine’s First Public Broadcasting Law** and former Strategic Policy Advisor to the Ukrainian Government.
+*   Recipient of the **Order for Defense of Ukraine’s Information Sovereignty**.
 
 ---
 
-## Technical & Design Competencies
+## Technical Architecture & Competencies
 
-* **Full-Stack Engineering**: Node.js, React, PostgreSQL, Next.js, Tailwind, Docker
-* **AI/NLP Integration**: LangChain, vector search (pgvector), GPT personalization for education
-* **UX for Neurodivergent Learners**: trauma-informed design, gamification, emotional safety
-* **Back-end Architecture**: Linux VPS, Kubernetes (Prometheus certified), scalable infra
-
----
-
-## Let’s Collaborate
-
-I'm actively seeking international cultural institutions, researchers, and donors to join our growing this pilot project on therapeutic education, and to help scale our platforms to more children and educators in need.
-
-**I bring:**
-
-* Technical and scientific leadership
-* A proven record in project strategy, grant-writing, and impact delivery
-* Deep civic commitment to Ukraine’s educational and emotional recovery
+*   **Full-Stack Engineering:** Python, Node.js, TypeScript/JavaScript, React/Next.js, PostgreSQL.
+*   **AI & LLM Orchestration:** LangChain for intelligent agents, RAG-based knowledge retrieval, and vector search (pgvector). Experience with local LLMs (Ollama, Llama 3) for offline-capable, secure AI processing.
+*   **Trauma-Informed UX:** Designing gamified, emotionally safe digital environments for neurodivergent learners.
+*   **Scalable Infrastructure:** Docker, Kubernetes (Prometheus certified), CI/CD pipelines, and Linux/Nginx server administration.
 
 ---
 
-## Contact Me
+## Let’s Build a Solution Together
 
-* **Email**: maksymdudyk@gmail.com
-* **LinkedIn**: [linkedin.com/in/maksym-dudyk-follow-up](https://linkedin.com/in/maksym-dudyk-follow-up)
-* **Sites**: [kotamota.com](https://kotamota.com) • [helpica.me](https://helpica.me)
-* **CV**: Available upon request
+I am actively seeking collaboration with international academic institutions, researchers, and donors to scientifically validate and scale the "Therapeutic Education" model. My goal is to transform this Ukrainian-born innovation into a global public good.
+
+**I bring to our partnership:**
+*   A proven, operational technology platform ready for research.
+*   Technical and scientific leadership with a deep understanding of the Ukrainian context.
+*   A track record in project strategy, grant-writing, and impact delivery.
+*   An unwavering civic commitment to Ukraine’s recovery.
+
+---
+
+## Contact
+
+*   **Email:** maksymdudyk@gmail.com
+*   **LinkedIn:** [linkedin.com/in/maksym-dudyk-follow-up](https://linkedin.com/in/maksym-dudyk-follow-up)
+*   **Sites:** [kotamota.com](https://kotamota.com) • [helpica.me](https://helpica.me)
+*   **CV:** Available Upon Request
