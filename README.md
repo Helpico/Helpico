@@ -2,7 +2,7 @@
 ### Author of the "Therapeutic Education" Approach
 
 <p align="left">
-  <img width="527" height="301" alt="image" src="https://github.com/user-attachments/assets/bad8f235-048f-4c33-bd70-52af2b611433" />
+  <img width="568" height="325" alt="image" src="https://github.com/user-attachments/assets/0a167bf3-03de-42f6-99c7-4a4d55a2149e" />
 </p>
 
 ## ${\color{#EB578C}\text{Social Innovator • EdTech Architect • Civic Researcher}{\text{}}}$
