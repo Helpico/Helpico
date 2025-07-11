@@ -1,4 +1,4 @@
-# ${\color{#21C8D1}\text{Maksym Dudyk}}$>
+# ${\color{#21C8D1}\text{Maksym Dudyk}{\text{}}}$
 ### Author of the "Therapeutic Education" Approach
 
 <p align="left">
