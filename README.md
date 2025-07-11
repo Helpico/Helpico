@@ -29,7 +29,6 @@ Our initiative develops and provides accessible digital tools that empower child
 
 *   **Our Platforms:** The initiative's work is delivered through two platforms: **Helpica.me** (a chatbot-course for educators and parents) and **Kotya Motya** (a universe of therapeutic games). These are not commercial products, but research-informed tools for our non-profit mission, co-developed with leading Ukrainian and European academic partners.
 
----
 
 ## ${\color{#EB578C}\text{Academic & Civic Credentials}{\text{}}}$
 
