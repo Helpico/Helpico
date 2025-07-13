@@ -5,14 +5,14 @@
   <img width="568" height="325" alt="image" src="https://github.com/user-attachments/assets/0a167bf3-03de-42f6-99c7-4a4d55a2149e" />
 </p>
 
-![](https://via.placeholder.com/800x60/ffffff/EB578C?text=Social+Innovator+•+EdTech+Architect+•+Civic+Researcher)
+![](https://dummyimage.com/800x60/ffffff/EB578C&text=Social+Innovator+•+EdTech+Architect+•+Civic+Researcher)
 
 As the founder of the **Therapeutic Education Initiative**, I lead a Ukrainian-based non-profit movement focused on a single, urgent mission: building digital-first solutions to help war-affected children heal and learn. My work combines over 20 years of experience across high-level policy design, applied research, teaching and full-stack software development to bridge the gap between psychological trauma and educational recovery.
 
 
-![](https://img.shields.io/badge/-The_Unprecedented_Challenge:_A_Dual_Crisis_in_Ukraine-red?style=for-the-badge)
+## ${\color{#EB578C}\text{A Dual Crisis in Ukraine}{\text{}}}$
 
-Ukraine's children are facing a national emergency. This is not just one crisis, but two, deeply connected:
+Ukraine's parents & children are facing an unprecedented Challenge: This is not just one crisis, but two, deeply connected emergencies:
 
 1.  **A Mental Health Crisis:** Up to 75% of children show signs of war-related trauma, and nearly one in three screen positive for depression.
 2.  **An Educational Crisis:** Over 5 million children have had their education disrupted, with UNICEF reporting an average learning loss of two years in reading.
