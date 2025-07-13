@@ -3,9 +3,8 @@
 
 <p align="left">
   <img width="568" height="325" alt="image" src="https://github.com/user-attachments/assets/0a167bf3-03de-42f6-99c7-4a4d55a2149e" />
+  <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/17780edd-a40b-43e5-9802-eb99f3b831d5" width="200" height="100" />
 </p>
-
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/17780edd-a40b-43e5-9802-eb99f3b831d5" alt="Dudyk's Work" width="300" height="200" />
 
 As the founder of the **Therapeutic Education Initiative**, I lead a Ukrainian-based non-profit movement focused on a single, urgent mission: building digital-first solutions to help war-affected children heal and learn. My work combines over 20 years of experience across high-level policy design, applied research, teaching and full-stack software development to bridge the gap between psychological trauma and educational recovery.
 
