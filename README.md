@@ -19,7 +19,7 @@ Ukraine's parents & children are facing a national emergency: This is not just o
 
 These crises create a devastating cycle: when a child's nervous system is locked in survival mode, learning becomes impossible. When they fail in school, their trauma deepens. My work is dedicated to breaking this cycle.
 
-## ${\color{#EB578C}\text{Our Approach: The "Therapeutic Education" Initiative}{\text{}}}$
+## ${\color{#EB578C}\text{Our Approach}{\text{}}}$
 
 Therapeutic Education is a new, interdisciplinary paradigm that sees learning not just as knowledge acquisition, but as a path to emotional and cognitive healing. We answer the question: **What can we do when a child wants to learn, but simply cannot?**
 
