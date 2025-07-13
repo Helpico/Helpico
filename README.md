@@ -5,11 +5,7 @@
   <img width="568" height="325" alt="image" src="https://github.com/user-attachments/assets/0a167bf3-03de-42f6-99c7-4a4d55a2149e" />
 </p>
 
-<svg width="100%" viewBox="0 0 800 50" xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="35" fill="#EB578C" font-size="24" font-weight="bold" font-family="Arial, sans-serif">
-    Social Innovator • EdTech Architect • Civic Researcher
-  </text>
-</svg>
+![](https://img.shields.io/badge/Social_Innovator-•_EdTech_Architect_•_Civic_Researcher-EB578C?style=for-the-badge)
 
 As the founder of the **Therapeutic Education Initiative**, I lead a Ukrainian-based non-profit movement focused on a single, urgent mission: building digital-first solutions to help war-affected children heal and learn. My work combines over 20 years of experience across high-level policy design, applied research, teaching and full-stack software development to bridge the gap between psychological trauma and educational recovery.
 
