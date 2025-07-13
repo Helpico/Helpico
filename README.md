@@ -12,7 +12,7 @@ As the founder of the **Therapeutic Education Initiative**, I lead a Ukrainian-b
 
 ## ${\color{#EB578C}\text{A Dual Crisis in Ukraine}{\text{}}}$
 
-Ukraine's parents & children are facing an unprecedented Challenge: This is not just one crisis, but two, deeply connected emergencies:
+Ukraine's parents & children are facing a national emergency: This is not just one crisis, but two, deeply connected unprecedented challenges:
 
 1.  **A Mental Health Crisis:** Up to 75% of children show signs of war-related trauma, and nearly one in three screen positive for depression.
 2.  **An Educational Crisis:** Over 5 million children have had their education disrupted, with UNICEF reporting an average learning loss of two years in reading.
