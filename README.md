@@ -5,7 +5,7 @@
   <img width="568" height="325" alt="image" src="https://github.com/user-attachments/assets/0a167bf3-03de-42f6-99c7-4a4d55a2149e" />
 </p>
 
-![](https://img.shields.io/badge/-Social_Innovator_•_EdTech_Architect_•_Civic_Researcher-white?style=for-the-badge&labelColor=white&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0ZXh0IHg9IjAiIHk9IjEiIGZpbGw9IiNFQjU3OEMiPi48L3RleHQ+PC9zdmc+)
+![](https://img.shields.io/badge/-Social_Innovator_•_EdTech_Architect_•_Civic_Researcher-f8f9fa?style=for-the-badge&labelColor=f8f9fa)
 
 As the founder of the **Therapeutic Education Initiative**, I lead a Ukrainian-based non-profit movement focused on a single, urgent mission: building digital-first solutions to help war-affected children heal and learn. My work combines over 20 years of experience across high-level policy design, applied research, teaching and full-stack software development to bridge the gap between psychological trauma and educational recovery.
 
