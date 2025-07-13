@@ -5,7 +5,7 @@
   <img width="568" height="325" alt="image" src="https://github.com/user-attachments/assets/0a167bf3-03de-42f6-99c7-4a4d55a2149e" />
 </p>
 
-## <h2 style="color: #EB578C;">Social Innovator • EdTech Architect • Civic Researcher</h2>
+<h2 style="color: #EB578C;">Social Innovator • EdTech Architect • Civic Researcher</h2>
 
 As the founder of the **Therapeutic Education Initiative**, I lead a Ukrainian-based non-profit movement focused on a single, urgent mission: building digital-first solutions to help war-affected children heal and learn. My work combines over 20 years of experience across high-level policy design, applied research, teaching and full-stack software development to bridge the gap between psychological trauma and educational recovery.
 
