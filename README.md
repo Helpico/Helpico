@@ -35,7 +35,7 @@ Our initiative develops and provides accessible digital tools that empower child
 
 *   **Harvard University Professional Training Fellow** (IREX Visiting Fellow, 2004), focusing on EdTech project leadership and research methods.
 *   **EU-Recognized Innovator:** Selected participant in **EIT Jumpstarter 2025 (HealthTech)** and graduate of the **EU-funded Science2Business programme (2024)** for outstanding innovation potential.
-*   **U.S. State Department Grant Recipient (2x):** Successfully secured and managed two IREX grants to create and scale one of Ukraine's first online language learning platforms (`Nova Mova`).
+*   **U.S. State Department Grant Recipient (2x):** Successfully secured and managed two IREX grants to create and scale one of country's first online learning platforms on the Ukrainian language [(`Nova Mova`)](https://languageintellect.com).
 *   **Author of Ukraine’s First Public Broadcasting Law** and former Strategic Advisor at the Government.
 *   Former Researcher, **Ukrainian Academy of Sciences**, with 14 scholarly articles in computational lexicography.
 *   Recipient of the **Order for Defense of Ukraine’s Information Sovereignty** (2015).
