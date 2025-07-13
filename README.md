@@ -10,7 +10,7 @@
 As the founder of the **Therapeutic Education Initiative**, I lead a Ukrainian-based non-profit movement focused on a single, urgent mission: building digital-first solutions to help war-affected children heal and learn. My work combines over 20 years of experience across high-level policy design, applied research, teaching and full-stack software development to bridge the gap between psychological trauma and educational recovery.
 
 
-![](https://img.shields.io/badge/-The_Unprecedented_Challenge:_A_Dual_Crisis_in_Ukraine-EB578C?style=for-the-badge)
+![](https://img.shields.io/badge/-The_Unprecedented_Challenge:_A_Dual_Crisis_in_Ukraine-red?style=for-the-badge)
 
 Ukraine's children are facing a national emergency. This is not just one crisis, but two, deeply connected:
 
