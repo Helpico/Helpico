@@ -28,7 +28,7 @@ Our initiative develops and provides accessible digital tools that empower child
   <img width="527" height="301" alt="image" src="https://github.com/user-attachments/assets/bad8f235-048f-4c33-bd70-52af2b611433" />
 </p>
 
-*   **Our Platforms:** The initiative's work is delivered through two prototype platforms: **${\color{#21C8D1}\text{Helpica}{\text{}}}$** (a chatbot-course for educators and parents) and **${\color{#21C8D1}\text{Kotya Motya}{\text{}}}$** (a universe of therapeutic games). These are not commercial products, but research-informed tools for our non-profit mission, co-developed with leading Ukrainian and European academic partners.
+*   **Social innovation projects:** The initiative's work is delivered through two prototype platforms: **${\color{#21C8D1}\text{Helpica}{\text{}}}$** (a chatbot-course for educators and parents) and **${\color{#21C8D1}\text{Kotya Motya}{\text{}}}$** (a universe of therapeutic games). These are not commercial products, but research-informed tools for our non-profit mission, co-developed with leading Ukrainian and European academic partners.
 
 
 ## Academic, Policy & Civic Credentials
@@ -56,7 +56,7 @@ Our initiative develops and provides accessible digital tools that empower child
 I am actively seeking collaboration with international academic institutions, researchers, and donors to scientifically validate and scale the "Therapeutic Education" model. My goal is to transform this Ukrainian-born cognitive recovery tool for children in wartime into a global public good.
 
 **I bring to our partnership:**
-*   A proven, operational technology platform ready for research.
+*   A proven, operational research-based solutions for validation & testing.
 *   Technical and scientific leadership with a deep understanding of the Ukrainian context.
 *   A track record in project strategy, grant-writing, and impact delivery.
 *   A deep, genuine dedication to Ukraine’s recovery.
