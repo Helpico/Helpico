@@ -2,28 +2,33 @@
 ### Author of the "Therapeutic Education" Approach
 
 <p align="left">
-  <img width="568" height="325" alt="image" src="https://github.com/user-attachments/assets/0a167bf3-03de-42f6-99c7-4a4d55a2149e" />
+  <img src="https://github.com/Helpico/Helpico/assets/32806311/9dfc44d0-bcbe-43a1-8a73-9425f15224db" alt="Maksym Dudyk" width="140" height="200">
+  <img src="https://github.com/user-attachments/assets/e08934f8-8ac6-40c8-9c0d-47a0b5c76d61" alt="Dudyk's Work" width="300" height="200">
 </p>
 
-<img width="374" height="24" alt="title" src="https://github.com/user-attachments/assets/3302243e-482a-4709-a1dc-9c5d288bfa10" />
+## ${\color{#EB578C}\text{Social Innovator • EdTech Architect • Civic Researcher}{\text{}}}$
 
-As a social innovator and EdTech architect, I build digital solutions to address the dual crisis of education and mental health facing war-affected children in Ukraine. My work combines over 20 years of experience across public policy, applied research, and full-stack software development to create a sustainable, dual-track ecosystem for healing and learning.
 
-## ${\color{#EB578C}\text{My Mission: A Dual-Track Approach}{\text{}}}$
+As the founder of the **Helpica Initiative for Therapeutic Education**, I lead a Ukrainian-based non-profit movement focused on a single, urgent mission: building digital-first solutions to help war-affected children heal and learn. My work combines over 20 years of experience across high-level policy design, applied research, and full-stack software development to bridge the gap between psychological trauma and educational recovery.
 
-To tackle this generational challenge, I have founded two distinct but interconnected initiatives:
 
-1.  **The `Helpica` Initiative (Non-Profit):** A research-driven effort focused on the scientific validation of the **"Therapeutic Education"** model. We partner with universities to conduct research and develop free, accessible digital tools (`Helpica.me`, `Kotya Motya`) for every child, parent, and teacher in Ukraine. This is our **social impact arm**.
+## ${\color{#EB578C}\text{The Unprecedented Challenge: A Dual Crisis in Ukraine}{\text{}}}$
 
-2.  **`PlayTellect` (For-Profit Venture):** A HealthTech startup focused on building and scaling the core **AI-powered technology** that makes Therapeutic Education possible. `PlayTellect` is a finalist in the prestigious **EIT Jumpstarter 2025** programme. This is our **technology and sustainability engine**.
+Ukraine's children are facing a national emergency. This is not just one crisis, but two, deeply connected:
 
-This hybrid model allows us to pursue a powerful social mission while building a sustainable, scalable technological foundation.
+1.  **A Mental Health Crisis:** Up to 75% of children show signs of war-related trauma, and nearly one in three screen positive for depression.
+2.  **An Educational Crisis:** Over 5 million children have had their education disrupted, with UNICEF reporting an average learning loss of two years in reading.
 
-## ${\color{#EB578C}\text{The Unprecedented Challenge}{\text{}}}$
+These crises create a devastating cycle: when a child's nervous system is locked in survival mode, learning becomes impossible. When they fail in school, their trauma deepens. My work is dedicated to breaking this cycle.
 
-Ukraine's children face a devastating cycle: war-related trauma blocks their ability to learn, and school failure deepens that trauma. My work is dedicated to breaking this cycle by providing tools that are **emotionally safe and cognitively effective.**
+## ${\color{#EB578C}\text{Our Approach: The Helpica Initiative}{\text{}}}$
 
----
+Our non-profit initiative is pioneering the **"Therapeutic Education"** paradigm, which sees learning not as mere knowledge acquisition, but as a path to emotional and cognitive healing. We answer the question: **What can we do when a child wants to learn, but simply cannot?**
+
+We develop and provide accessible digital tools that empower children to rebuild focus, motivation, and self-confidence.
+
+*   **Our Platforms:** The initiative's work is delivered through two interconnected, research-informed platforms: **Helpica.me** (a chatbot-course for educators and parents) and **Kotya Motya** (a universe of therapeutic games). These are non-commercial tools for our social mission, co-developed with leading Ukrainian and European academic partners.
+
 
 ## Academic, Policy & Civic Credentials
 
@@ -43,14 +48,15 @@ Ukraine's children face a devastating cycle: war-related trauma blocks their abi
 
 ## ${\color{#EB578C}\text{Let’s Build a Solution Together}{\text{}}}$
 
-I am actively seeking collaboration with academic institutions, NGOs, and impact investors to advance the mission of both the `Helpica` Initiative and `PlayTellect`. My goal is to transform this Ukrainian-born model into a global public good.
+I am actively seeking collaboration with international academic institutions, researchers, and philanthropic donors to scientifically validate and scale the "Therapeutic Education" model. My goal is to transform this Ukrainian-born innovation into a global public good.
 
 **I bring to our partnership:**
-*   A proven, operational technology platform ready for research and scaling.
-*   Leadership across both non-profit and for-profit innovation models.
+*   A proven, operational technology platform ready for research.
+*   Technical and scientific leadership with a deep understanding of the Ukrainian context.
 *   A track record in project strategy, grant-writing, and impact delivery.
 *   A deep, genuine dedication to Ukraine’s recovery.
 
 ---
+
 ## ${\color{#EB578C}\text{Contact}{\text{}}}$
 *(The contact section is perfect as is.)*
