@@ -9,9 +9,8 @@
 
 As the founder of the **Helpica Initiative for Therapeutic Education**, I lead a Ukrainian-based non-profit movement focused on a single, urgent mission: building digital-first solutions to help war-affected children heal and learn. My work combines over 20 years of experience across education, public policy, applied research, and full-stack software development to bridge the gap between psychological trauma and educational recovery.
 
-
 ## ${\color{#EB578C}\text{The Unprecedented Challenge:}{\text{}}}$
-## ${\color{#EB578C}\text{A Dual Crisis in Ukraine}{\text{}}}$
+${\color{#EB578C}\text{A Dual Crisis in Ukraine}{\text{}}}$
 
 Ukraine's children are facing a national emergency. This is not just one crisis, but two, deeply connected:
 
