@@ -1,7 +1,8 @@
 # Maksym Dudyk
 ### Author of the "Therapeutic Education" Approach
 
-<img width="651" height="372" alt="image" src="https://github.com/user-attachments/assets/4607e810-648a-4762-b373-5b4310f02592" />
+<img width="497" height="284" alt="image" src="https://github.com/user-attachments/assets/38a75af5-e630-41a5-957a-6de07b6c8ec7" />
+
 
 <img width="374" height="24" alt="title" src="https://github.com/user-attachments/assets/3302243e-482a-4709-a1dc-9c5d288bfa10" />
 
@@ -21,7 +22,7 @@ These crises create a devastating cycle: when a child's nervous system is locked
 
 The **Helpica Initiative** is pioneering the **"Therapeutic Education"** paradigm, which sees learning not just as knowledge acquisition, but as a path to emotional and cognitive healing. We answer the question: **What can we do when a child wants to learn, but simply cannot?**
 
-<img width="663" height="379" alt="image" src="https://github.com/user-attachments/assets/012dcd0a-a343-4e59-bd94-13d72a06f281" />
+<img width="504" height="288" alt="image" src="https://github.com/user-attachments/assets/6fea99cf-4ed9-4695-9cbf-1cdd5b627026" />
 
 
 Our initiative develops and provides accessible digital tools that empower children to rebuild focus, motivation, and self-confidence.
