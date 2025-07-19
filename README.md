@@ -9,7 +9,7 @@
 ## ${\color{#EB578C}\text{Social Innovator • EdTech Architect • Civic Researcher}{\text{}}}$
 
 
-As the founder of the **Helpica Initiative for Therapeutic Education**, I lead a Ukrainian-based non-profit movement focused on a single, urgent mission: building digital-first solutions to help war-affected children heal and learn. My work combines over 20 years of experience across high-level policy design, applied research, and full-stack software development to bridge the gap between psychological trauma and educational recovery.
+As the founder of the **Helpica Initiative for Therapeutic Education**, I lead a Ukrainian-based non-profit movement focused on a single, urgent mission: building digital-first solutions to help war-affected children heal and learn. My work combines over 20 years of experience across education, public policy, applied research, and full-stack software development to bridge the gap between psychological trauma and educational recovery.
 
 
 ## ${\color{#EB578C}\text{The Unprecedented Challenge: A Dual Crisis in Ukraine}{\text{}}}$
@@ -23,32 +23,36 @@ These crises create a devastating cycle: when a child's nervous system is locked
 
 ## ${\color{#EB578C}\text{Our Approach: The Helpica Initiative}{\text{}}}$
 
-Our non-profit initiative is pioneering the **"Therapeutic Education"** paradigm, which sees learning not as mere knowledge acquisition, but as a path to emotional and cognitive healing. We answer the question: **What can we do when a child wants to learn, but simply cannot?**
+The **Helpica Initiative** is pioneering the **"Therapeutic Education"** paradigm, which sees learning not just as knowledge acquisition, but as a path to emotional and cognitive healing. We answer the question: **What can we do when a child wants to learn, but simply cannot?**
 
-We develop and provide accessible digital tools that empower children to rebuild focus, motivation, and self-confidence.
+Our initiative develops and provides accessible digital tools that empower children to rebuild focus, motivation, and self-confidence.
 
-*   **Our Platforms:** The initiative's work is delivered through two interconnected, research-informed platforms: **Helpica.me** (a chatbot-course for educators and parents) and **Kotya Motya** (a universe of therapeutic games). These are non-commercial tools for our social mission, co-developed with leading Ukrainian and European academic partners.
+*   **Our Platforms:** The initiative's work is delivered through two interconnected, research-informed platforms: **Helpica.me** (a chatbot-course for educators and parents) and **Kotya Motya** (a universe of therapeutic games). These are not commercial products, but tools for our non-profit mission, co-developed with leading Ukrainian and European academic partners.
 
 
-## Academic, Policy & Civic Credentials
+## Academic & Civic Credentials
 
-*   **Harvard University Professional Training Fellow** (IREX Visiting Fellow, 2004), focusing on EdTech project leadership and research methods.
-*   **EU-Recognized Innovator:** Finalist in **EIT Jumpstarter 2025 (HealthTech)** and graduate of the **EU-funded Science2Business programme (2024)** for outstanding innovation potential.
-*   **U.S. State Department Grant Recipient (2x):** Successfully secured and managed two IREX grants to create and scale one of Ukraine's first online language learning platforms ([`Nova Mova`](https://languageintellect.com)).
-*   **Author of Ukraine’s First Public Broadcasting Law** and former Strategic Advisor at the Government.
-*   Former Researcher, **Ukrainian Academy of Sciences**, with 14 scholarly articles in computational lexicography.
-*   Recipient of the **Order for Defense of Ukraine’s Information Sovereignty** (2015).
+*   **Harvard Fellow** (IREX/U.S. Department of State, 2004) — EdTech Leadership and Research Methods.
+*   Former Researcher, **Academy of Sciences of Ukraine**, Dept. of Computational Lexicography.
+*   2x Recipient of **U.S. Education Grants (IREX)** for pioneering Ukrainian language learning platforms.
+*   Participant, **EIT Jumpstarter 2025 (HealthTech)** & Graduate, **Science2Business (EIT, 2024)**.
+*   Author of **Ukraine’s First Public Broadcasting Law** and former Strategic Policy Advisor to the Ukrainian Government.
+*   Recipient of the **Order for Defense of Ukraine’s Information Sovereignty**.
 
 ---
 
 ## Technical Architecture & Competencies
-*(This section is perfect as is. No changes needed.)*
+
+*   **Full-Stack Engineering:** Python, Node.js, TypeScript/JavaScript, React/Next.js, PostgreSQL.
+*   **AI & LLM Orchestration:** LangChain for intelligent agents, RAG-based knowledge retrieval, and vector search (pgvector). Experience with local LLMs (Ollama, Llama 3) for offline-capable, secure AI processing.
+*   **Trauma-Informed UX:** Designing gamified, emotionally safe digital environments for neurodivergent learners.
+*   **Scalable Infrastructure:** Docker, Kubernetes (Prometheus certified), CI/CD pipelines, and Linux/Nginx server administration.
 
 ---
 
 ## ${\color{#EB578C}\text{Let’s Build a Solution Together}{\text{}}}$
 
-I am actively seeking collaboration with international academic institutions, researchers, and philanthropic donors to scientifically validate and scale the "Therapeutic Education" model. My goal is to transform this Ukrainian-born innovation into a global public good.
+I am actively seeking collaboration with international academic institutions, researchers, and philanthropic donors to scientifically validate and scale the "Therapeutic Education" model through the **Helpica Initiative**. My goal is to transform this Ukrainian-born innovation into a global public good.
 
 **I bring to our partnership:**
 *   A proven, operational technology platform ready for research.
@@ -59,4 +63,8 @@ I am actively seeking collaboration with international academic institutions, re
 ---
 
 ## ${\color{#EB578C}\text{Contact}{\text{}}}$
-*(The contact section is perfect as is.)*
+
+*   **Email:** maksymdudyk@gmail.com
+*   **LinkedIn:** [linkedin.com/in/maksym-dudyk-follow-up](https://linkedin.com/in/maksym-dudyk-follow-up)
+*   **Sites:** [kotamota.com](https://kotamota.com) • [helpica.me](https://helpica.me)
+*   **CV:** Available Upon Request
