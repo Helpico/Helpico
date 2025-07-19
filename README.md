@@ -1,8 +1,9 @@
 # Maksym Dudyk
 ### Author of the "Therapeutic Education" Approach
 
-<img width="497" height="284" alt="image" src="https://github.com/user-attachments/assets/38a75af5-e630-41a5-957a-6de07b6c8ec7" />
-
+<p align="left">
+  <img width="497" height="284" alt="image" src="https://github.com/user-attachments/assets/38a75af5-e630-41a5-957a-6de07b6c8ec7" />  
+</p>
 
 <img width="374" height="24" alt="title" src="https://github.com/user-attachments/assets/3302243e-482a-4709-a1dc-9c5d288bfa10" />
 
@@ -22,10 +23,9 @@ These crises create a devastating cycle: when a child's nervous system is locked
 
 The **Helpica Initiative** is pioneering the **"Therapeutic Education"** paradigm, which sees learning not just as knowledge acquisition, but as a path to emotional and cognitive healing. We answer the question: **What can we do when a child wants to learn, but simply cannot?**
 
-<img width="504" height="288" alt="image" src="https://github.com/user-attachments/assets/6fea99cf-4ed9-4695-9cbf-1cdd5b627026" />
-
-
 Our initiative develops and provides accessible digital tools that empower children to rebuild focus, motivation, and self-confidence.
+
+<img width="504" height="288" alt="image" src="https://github.com/user-attachments/assets/6fea99cf-4ed9-4695-9cbf-1cdd5b627026" />
 
 *   **Our Platforms:** The initiative's work is delivered through two interconnected, research-informed platforms: **Helpica.me** (a chatbot-course for educators and parents) and **Kotya Motya** (a universe of therapeutic games). These are not commercial products, but tools for our non-profit mission, co-developed with leading Ukrainian and European academic partners.
 
