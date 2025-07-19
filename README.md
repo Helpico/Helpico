@@ -6,8 +6,7 @@
   <img src="https://github.com/user-attachments/assets/e08934f8-8ac6-40c8-9c0d-47a0b5c76d61" alt="Dudyk's Work" width="300" height="200">
 </p>
 
-## ${\color{#EB578C}\text{Social Innovator • EdTech Architect • Civic Researcher}{\text{}}}$
-
+img width="374" height="24" alt="title" src="https://github.com/user-attachments/assets/3302243e-482a-4709-a1dc-9c5d288bfa10" />
 
 As the founder of the **Helpica Initiative for Therapeutic Education**, I lead a Ukrainian-based non-profit movement focused on a single, urgent mission: building digital-first solutions to help war-affected children heal and learn. My work combines over 20 years of experience across education, public policy, applied research, and full-stack software development to bridge the gap between psychological trauma and educational recovery.
 
