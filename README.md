@@ -1,10 +1,7 @@
 # Maksym Dudyk
 ### Author of the "Therapeutic Education" Approach
 
-<p align="left">
-  <img src="https://github.com/Helpico/Helpico/assets/32806311/9dfc44d0-bcbe-43a1-8a73-9425f15224db" alt="Maksym Dudyk" width="140" height="200">
-  <img src="https://github.com/user-attachments/assets/e08934f8-8ac6-40c8-9c0d-47a0b5c76d61" alt="Dudyk's Work" width="300" height="200">
-</p>
+<img width="651" height="372" alt="image" src="https://github.com/user-attachments/assets/4607e810-648a-4762-b373-5b4310f02592" />
 
 <img width="374" height="24" alt="title" src="https://github.com/user-attachments/assets/3302243e-482a-4709-a1dc-9c5d288bfa10" />
 
@@ -23,6 +20,9 @@ These crises create a devastating cycle: when a child's nervous system is locked
 ## ${\color{#EB578C}\text{Our Approach: The Helpica Initiative}{\text{}}}$
 
 The **Helpica Initiative** is pioneering the **"Therapeutic Education"** paradigm, which sees learning not just as knowledge acquisition, but as a path to emotional and cognitive healing. We answer the question: **What can we do when a child wants to learn, but simply cannot?**
+
+<img width="663" height="379" alt="image" src="https://github.com/user-attachments/assets/012dcd0a-a343-4e59-bd94-13d72a06f281" />
+
 
 Our initiative develops and provides accessible digital tools that empower children to rebuild focus, motivation, and self-confidence.
 
@@ -60,6 +60,10 @@ I am actively seeking collaboration with international academic institutions, re
 *   A deep, genuine dedication to Ukraine’s recovery.
 
 ---
+<p align="left">
+  <img src="https://github.com/Helpico/Helpico/assets/32806311/9dfc44d0-bcbe-43a1-8a73-9425f15224db" alt="Maksym Dudyk" width="140" height="200">
+  <img src="https://github.com/user-attachments/assets/e08934f8-8ac6-40c8-9c0d-47a0b5c76d61" alt="Dudyk's Work" width="300" height="200">
+</p>
 
 ## ${\color{#EB578C}\text{Contact}{\text{}}}$
 
