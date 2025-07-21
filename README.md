@@ -27,7 +27,7 @@ Our initiative develops and provides accessible digital tools that empower child
 
 <img width="504" height="288" alt="image" src="https://github.com/user-attachments/assets/6fea99cf-4ed9-4695-9cbf-1cdd5b627026" />
 
-*   **Our Platforms:** The initiative's work is delivered through two interconnected, research-informed platforms: **Helpica.me** (a chatbot-course for educators and parents) and **Kotya Motya** (a universe of free therapeutic games to all Ukrainian kids), and **PlayTellect**, our AI technology & scaling engine. These are tools for our mostly non-profit mission, co-developed with leading Ukrainian and European academic partners.
+*   **Our Platforms:** The initiative's work is delivered through two interconnected, research-informed platforms: **Helpica.me** (a chatbot-course for educators and parents) and **Kotya Motya** (a universe of free therapeutic games to all Ukrainian kids), and **PlayTellect**, our AI technology & scaling engine. These tools are being co-developed with leading Ukrainian and European academic partners.
 
 
 ## Academic & Civic Credentials
