@@ -7,7 +7,7 @@
 
 <img width="374" height="24" alt="title" src="https://github.com/user-attachments/assets/3302243e-482a-4709-a1dc-9c5d288bfa10" />
 
-As the founder of the **Helpica Initiative for Therapeutic Education**, I lead a Ukrainian-based non-profit movement focused on a single, urgent mission: building digital-first solutions to help war-affected children heal and learn. My work combines over 20 years of experience across education, public policy, applied research, and full-stack software development to bridge the gap between psychological trauma and educational recovery.
+As the founder of the **Therapeutic Education Initiative**, I lead a Ukrainian-based non-profit movement focused on a single, urgent mission: building digital-first solutions to help war-affected children heal and learn. My work combines over 20 years of experience across education, public policy, applied research, and full-stack software development to bridge the gap between psychological trauma and educational recovery.
 
 ## ${\color{#EB578C}\text{The Unprecedented Challenge:}{\text{}}}$
 ${\color{#EB578C}\text{A Dual Crisis in Ukraine}{\text{}}}$
@@ -19,9 +19,9 @@ Ukraine's children are facing a national emergency. This is not just one crisis,
 
 These crises create a devastating cycle: when a child's nervous system is locked in survival mode, learning becomes impossible. When they fail in school, their trauma deepens. My work is dedicated to breaking this cycle.
 
-## ${\color{#EB578C}\text{Our Approach: The Helpica Initiative}{\text{}}}$
+## ${\color{#EB578C}\text{Our Innovative Approach}{\text{}}}$
 
-The **Helpica Initiative** is pioneering the **"Therapeutic Education"** paradigm, which sees learning not just as knowledge acquisition, but as a path to emotional and cognitive healing. We answer the question: **What can we do when a child wants to learn, but simply cannot?**
+The Initiative is pioneering the **"Therapeutic Education"** paradigm, which sees learning not just as knowledge acquisition, but as a path to emotional and cognitive healing. We answer the question: **What can we do when a child wants to learn, but simply cannot?**
 
 Our initiative develops and provides accessible digital tools that empower children to rebuild focus, motivation, and self-confidence.
 
@@ -52,7 +52,7 @@ Our initiative develops and provides accessible digital tools that empower child
 
 ## ${\color{#EB578C}\text{Let’s Build a Solution Together}{\text{}}}$
 
-I am actively seeking collaboration with international academic institutions, researchers, and philanthropic donors to scientifically validate and scale the "Therapeutic Education" model through the **Helpica Initiative**. My goal is to transform this Ukrainian-born innovation into a global public good.
+I am actively seeking collaboration with international academic institutions, researchers, and philanthropic donors to scientifically validate and scale the "Therapeutic Education" model through this **Initiative**. My goal is to transform this Ukrainian-born innovation into a global public good.
 
 **I bring to our partnership:**
 *   A proven, operational technology platform ready for research.
