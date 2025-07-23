@@ -79,10 +79,7 @@ I bring to our partnership a ready-to-use technology platform, deep technical an
 
 If your institution shares this mission, I would be honored to explore a collaboration.
 
-<p align="left">
-  ![maksym_dudyk](https://github.com/user-attachments/assets/3b91439c-2628-4acd-8f22-f44f9c4db722)
-</p>
-
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/cefa5290-74d0-4395-9b02-7b57ca09ca39" />
 
 ## ${\color{#EB578C}\text{Contact}{\text{}}}$
 
