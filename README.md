@@ -74,31 +74,6 @@ If your institution shares this mission, I would be honored to explore a collabo
   <img src="https://github.com/user-attachments/assets/e08934f8-8ac6-40c8-9c0d-47a0b5c76d61" alt="Dudyk's Work" width="300" height="200">
 </p>
 
-#### **Contact**
-
-*   **Email:** maksymdudyk@gmail.com
-*   **LinkedIn:** [linkedin.com/in/maksym-dudyk-follow-up](https://linkedin.com/in/maksym-dudyk-follow-up)
-*   **Sites:** [kotamota.com](https://kotamota.com) • [helpica.me](https://helpica.me)
-*   **CV:** Available Upon Request
-
----
-
-## ${\color{#EB578C}\text{Let’s Build a Solution Together}{\text{}}}$
-
-I am actively seeking collaboration with international academic institutions, researchers, and philanthropic donors to scientifically validate and scale the "Therapeutic Education" model through this **Initiative**. My goal is to transform this Ukrainian-born innovation into a global public good.
-
-**I bring to our partnership:**
-*   A proven, operational technology platform ready for research.
-*   Technical and scientific leadership with a deep understanding of the Ukrainian context.
-*   A track record in project strategy, grant-writing, and impact delivery.
-*   A deep, genuine dedication to Ukraine’s recovery.
-
----
-<p align="left">
-  <img src="https://github.com/Helpico/Helpico/assets/32806311/9dfc44d0-bcbe-43a1-8a73-9425f15224db" alt="Maksym Dudyk" width="140" height="200">
-  <img src="https://github.com/user-attachments/assets/e08934f8-8ac6-40c8-9c0d-47a0b5c76d61" alt="Dudyk's Work" width="300" height="200">
-</p>
-
 ## ${\color{#EB578C}\text{Contact}{\text{}}}$
 
 *   **Email:** maksymdudyk@gmail.com
