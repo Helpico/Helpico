@@ -1,11 +1,9 @@
-# Maksym Dudyk
-### Author of the "Therapeutic Education" Approach
+# "Therapeutic Education" Initiative for Ukraine
+### Bridging the immense gap between psychological trauma and educational recovery. 
 
 <p align="left">
   <img width="497" height="284" alt="image" src="https://github.com/user-attachments/assets/38a75af5-e630-41a5-957a-6de07b6c8ec7" />  
 </p>
-
-My work is driven by a single, urgent mission: to build digital-first solutions that help children heal through learning. As a Ukrainian educator, developer, and father, I have dedicated my work to bridging the immense gap between psychological trauma and educational recovery. This is the home of the **Therapeutic Education Initiative**.
 
 ## A Crisis Ukraine Was Never Prepared For
 Ukraine is facing a challenge its teachers and parents have never encountered on this scale. It is a profound, dual crisis where:
@@ -16,7 +14,7 @@ Ukraine is facing a challenge its teachers and parents have never encountered on
 These two crises feed each other in a destructive cycle: when a child's nervous system is locked in survival mode, learning feels impossible. When they fail to learn, their trauma and anxiety deepen. My work is dedicated to breaking this cycle.
 
 ## Our Approach: Therapeutic Education
-We are pioneering the "Therapeutic Education" paradigm. It is built on a simple but powerful idea: that learning itself can be a gentle and effective form of mental health care. We answer the question: **What can we do when a child wants to learn, but their trauma won't let them?**
+We are pioneering the "Therapeutic Education" paradigm. It is built on a simple but powerful idea: that learning itself can be a gentle and effective form of mental health care. We answer the question: **What can we do when a child wants to learn, but their trauma won't let them?** We are driven by a single, urgent mission: to build digital-first solutions that help children heal through learning.
 
 Our initiative develops accessible digital tools that empower children to rebuild focus, motivation, and emotional safety. These tools are delivered through our two core platforms:
 *   **Helpica.me:** A chatbot-course that provides practical, trauma-informed guidance to parents and educators.
@@ -50,9 +48,31 @@ In this partnership, we can:
 *   **Publish and share** our joint findings to contribute to a global body of knowledge.
 
 ---
+
+# Maksym Dudyk
+### Author of the "Therapeutic Education" approach, a Ukrainian educator, developer, and father of three.
+
 <p align="left">
   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b25810c6-ee3c-4326-8bca-b0cbe6d7cd9b" />
 </p>
+
+## My Core Competencies
+
+*   **Full-Stack Engineering:** Python, Node.js, TypeScript/JavaScript, React/Next.js, PostgreSQL.
+*   **AI & LLM Orchestration:** LangChain for intelligent agents, RAG-based knowledge retrieval, and vector search (pgvector). Experience with local LLMs (Ollama, Llama 3) for offline-capable, secure AI processing.
+*   **Trauma-Informed UX:** Designing gamified, emotionally safe digital environments for neurodivergent learners.
+*   **Scalable Infrastructure:** Docker, Kubernetes (Prometheus certified), CI/CD pipelines, and Linux/Nginx server administration.
+
+## Academic & Civic Credentials
+
+*   **Harvard Fellow** (IREX/U.S. Department of State, 2004) — EdTech Leadership and Research Methods.
+*   Former Researcher, **Academy of Sciences of Ukraine**, Dept. of Computational Lexicography.
+*   2x Recipient of **U.S. Education Grants (IREX)** for pioneering Ukrainian language learning platforms.
+*   Participant, **EIT Jumpstarter 2025 (HealthTech)** & Graduate, **Science2Business (EIT, 2024)**.
+*   Author of **Ukraine’s First Public Broadcasting Law** and former Strategic Policy Advisor to the Ukrainian Government.
+*   Recipient of the **Order for Defense of Ukraine’s Information Sovereignty**.
+
+
 
 ## Contact
 
