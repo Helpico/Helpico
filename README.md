@@ -79,8 +79,4 @@ In this partnership, we can:
 *   **Email:** maksymdudyk@gmail.com
 *   **LinkedIn:** [linkedin.com/in/maksym-dudyk-follow-up](https://linkedin.com/in/maksym-dudyk-follow-up)
 *   **Sites:** [kotamota.com](https://kotamota.com) • [helpica.me](https://helpica.me)
-*   **Full-Stack Engineering:** Python, Node.js, TypeScript/JavaScript, React/Next.js, PostgreSQL.
-*   **AI for Good:** LangChain, RAG, and vector search. Experience with local LLMs for offline-capable, secure AI.
-*   **Trauma-Informed UX:** Designing gamified, emotionally safe digital environments.
-*   **Academic & Civic Leadership:** Harvard Fellow (EdTech); former Researcher, Academy of Sciences; Author of Ukraine’s First Public Broadcasting Law; Recipient of state awards for information sovereignty.
 *   **CV:** Available Upon Request
