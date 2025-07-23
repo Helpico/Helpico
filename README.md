@@ -50,7 +50,7 @@ In this partnership, we can:
 ---
 
 # Maksym Dudyk
-### Author of the "Therapeutic Education" approach, a Ukrainian educator, developer, and father of three.
+### Author of the "Therapeutic Education" approach.
 
 <p align="left">
   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b25810c6-ee3c-4326-8bca-b0cbe6d7cd9b" />
