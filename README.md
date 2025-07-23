@@ -80,8 +80,7 @@ I bring to our partnership a ready-to-use technology platform, deep technical an
 If your institution shares this mission, I would be honored to explore a collaboration.
 
 <p align="left">
-  <img src="https://github.com/Helpico/Helpico/assets/32806311/9dfc44d0-bcbe-43a1-8a73-9425f15224db" alt="Maksym Dudyk" width="140" height="200">
-  <img src="https://github.com/user-attachments/assets/e08934f8-8ac6-40c8-9c0d-47a0b5c76d61" alt="Dudyk's Work" width="300" height="200">
+  ![maksym_dudyk](https://github.com/user-attachments/assets/3b91439c-2628-4acd-8f22-f44f9c4db722)
 </p>
 
 
