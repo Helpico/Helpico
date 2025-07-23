@@ -39,18 +39,23 @@ In a mutual partnership, we can:
 *   **Conduct rigorous trials** under a strict scientific framework to measure impact on learning and mental wellbeing.
 *   **Publish and share** our joint findings to contribute to a global body of knowledge on trauma-informed ed-tech.
 
-## Our Collaborative Ecosystem
-This initiative does not operate in isolation. It is supported by a robust consortium of academic and institutional partners who have expressed a commitment to its success. This ecosystem ensures our work is scientifically grounded, deeply integrated into the local context, and aligned with European standards.
 
-**Our Current Partners & Advisors Include:**
+## Our Collaborative Ecosystem
+This initiative is a networked effort, not a solo project. We have already built a robust **Scientific Alliance** of leading Ukrainian and European academic institutions that are committed to moving forward with the scientific validation and testing of the Therapeutic Education model.
+
+This ecosystem ensures our work is scientifically grounded, deeply integrated into the Ukrainian context, and ready to scale. Our goal is to create a proven, evidence-based model that can be adopted nationwide.
+
+**Our Scientific Alliance Includes:**
+
 *   **Lead Ukrainian Research Partner:** Kryvyi Rih State Pedagogical University (KDPU)
 *   **Lead European Partner:** Czech University of Life Sciences Prague (CZU)
 *   **Scientific & Methodological Advisory Board:**
-    *   National University of "Kyiv-Mohyla Academy" (NaUKMA), Dept. of Psychology & Pedagogy
-    *   Zaporizhzhia National University (ZNU), Dept. of Social Pedagogy
-    *   Ukrainian Catholic University (UCU), Faculty of Health Sciences
+    *   National University of "Kyiv-Mohyla Academy" (NaUKMA)
+    *   Zaporizhzhia National University (ZNU)
+    *   Ukrainian Catholic University (UCU)
     *   Ukrainian Institute of Cognitive-Behavioral Therapy (CBT Institute)
 
+We are now actively seeking a **Lead Cultural or Philanthropic Partner** to join this alliance, helping us bridge the gap between scientific research and broad public impact, and co-creating the cultural exchange dimension of this vital work.
 ## Leadership & Core Competencies
 *   **Full-Stack Engineering:** Python, Node.js, TypeScript/JavaScript, React/Next.js, PostgreSQL.
 *   **AI for Good:** LangChain, RAG, and vector search. Experience with local LLMs for offline-capable, secure AI.
