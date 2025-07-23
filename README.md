@@ -39,38 +39,20 @@ While born from Ukraine's crisis, the principles of Therapeutic Education are un
 **Our ambition is to develop this Ukrainian-born innovation into an open, evidence-based model that other organizations and institutions can adapt and deploy worldwide.** We are not just solving a local problem; we are building a new approach to inclusive education for children facing adversity everywhere.
 
 
-## A Platform for Shared Expertise and Mutual Impact
-
-The Therapeutic Education Initiative is not a closed system; it is an open platform designed for collaboration. We actively invite international partners—cultural institutions, universities, and mental health experts—to use our digital infrastructure as a bridge.
-
-However, we believe a true partnership is a two-way street. It is a space for genuine dialogue and mutual exchange.
-
-*   **An Invitation to Share:** We invite our partners to bring proven European methodologies and specialized knowledge to a Ukrainian audience that desperately needs them. Our platform offers a direct channel to make a tangible impact.
-*   **An Opportunity to Learn:** The world has much to learn from Ukraine's experience in building societal resilience under extreme pressure. We invite our partners to engage with our on-the-ground reality and co-develop new approaches that can be shared globally.
-
-**Our Partnership Model is Simple:**
-
-| We Provide                                                                                                   | Our Partners Provide                                                                                               |
-| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| **A ready-to-use digital platform** (Helpica & Kotya Motya) with an established user base.                       | **World-class expertise** in specialized areas (e.g., trauma-informed pedagogy, clinical psychology).               |
-| **Deep contextual understanding** of the crisis and access to Ukrainian schools and communities.               | **A global perspective** to help scale our Ukrainian-born model into a universal public good.                    |
-| **A strong local academic partnership (NaUKMA)** for scientific validation and on-the-ground implementation. | **Co-leadership** in designing research, measuring impact, and sharing findings with the international community. |
-
-Together, we can co-create and test solutions that are both scientifically rigorous and deeply humane.
 
 
+## A Partnership for Research & Mutual Exchange
 
+This initiative is designed to be a living laboratory. We are actively seeking collaboration with international partners to scientifically validate and scale the Therapeutic Education model.
 
-## A Partnership for Research & Impact
+We see this not as a one-way street, but as a **bridge of expertise**—a space for genuine dialogue and shared impact. Our platform offers a direct channel for European knowledge to meet Ukrainian need, while also providing a unique opportunity for partners to engage with and learn from Ukraine's experience in building resilience.
 
-**This initiative is designed to be a living laboratory.** We are actively seeking collaboration with international academic institutions to scientifically validate and scale the Therapeutic Education model.
+In a **mutual partnership**, we can:
+*   **Co-design and test** our transformative digital tools in real-world school settings.
+*   **Conduct rigorous trials** under a strict scientific framework to measure impact on learning and mental wellbeing.
+*   **Publish and share** our joint findings to contribute to a global body of knowledge on trauma-informed ed-tech.
 
-We are ready to build an ecosystem for rigorous, evidence-based research. In partnership, we can:
-*   **Co-design and test** our transformative games and digital tools in school settings.
-*   **Conduct clinical and pedagogical trials** under a strict scientific framework to measure impact on learning outcomes and mental wellbeing.
-*   **Publish and share** our findings to contribute to a global body of knowledge on trauma-informed ed-tech.
-
-This work is supported by our partnership with the **Department of Psychology and Pedagogy at the National University of "Kyiv-Mohyla Academy" (NaUKMA), led by Prof. Andriy Hirnyk**, ensuring a strong academic foundation for all our research activities.
+This work is anchored by our collaboration with the **Department of Psychology and Pedagogy at the National University of "Kyiv-Mohyla Academy" (NaUKMA), led by Prof. Andriy Hirnyk**, ensuring a strong academic foundation for our shared research activities.
 
 
 ## My Core Competencies
