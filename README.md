@@ -9,6 +9,7 @@
 Ukraine is facing a challenge its teachers and parents have never encountered on this scale. It is a profound, dual crisis where:
 
 > **Mental Health is Shattered:** Up to 75% of our children show signs of war-related trauma.
+> 
 > **Education is Disrupted:** Over 5 million children have had their schooling interrupted, leading to devastating learning loss.
 
 These two crises feed each other in a destructive cycle: when a child's nervous system is locked in survival mode, learning feels impossible. When they fail to learn, their trauma and anxiety deepen.
