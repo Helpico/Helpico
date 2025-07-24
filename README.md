@@ -21,7 +21,7 @@ We answer the question: **What can we do when a child wants to learn, but their 
 
 Our initiative develops accessible digital tools delivered through two core platforms:
 *   **Helpica.me:** A chatbot-course that provides practical, trauma-informed guidance to parents and educators.
-*   **Kotya Motya:** and **PlayTellect** A universe of free, therapeutic games designed to make learning feel safe and joyful again.
+*   **Kotya Motya** and **PlayTellect** A universe of free, therapeutic games designed to make learning feel safe and joyful again.
 
 <img width="504" height="288" alt="image" src="https://github.com/user-attachments/assets/6fea99cf-4ed9-4695-9cbf-1cdd5b627026" />
 
