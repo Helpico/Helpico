@@ -13,7 +13,7 @@ Ukraine is facing a challenge its teachers and parents have never encountered on
 > **Education is Disrupted:** Over 5 million children have had their schooling interrupted, leading to devastating learning loss.
 
 These two crises feed each other in a destructive cycle: when a child's nervous system is locked in survival mode, learning feels impossible. When they fail to learn, their trauma and anxiety deepen.
-
+<br><br>
 ## Our Mission & Approach: Therapeutic Education
 Our mission is to break this cycle by building digital-first solutions that help children heal *through* learning. We are pioneering the **"Therapeutic Education"** paradigm, built on the idea that learning itself can be a gentle and effective form of mental health care.
 
