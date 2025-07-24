@@ -4,7 +4,6 @@
 <p align="left">
   <img width="497" height="284" alt="image" src="https://github.com/user-attachments/assets/38a75af5-e630-41a5-957a-6de07b6c8ec7" />  
 </p>
-<br><br>
 
 ## A Crisis Ukraine Was Never Prepared For
 Ukraine is facing a challenge its teachers and parents have never encountered on this scale. It is a profound, dual crisis where:
@@ -52,7 +51,6 @@ We now invite a **Lead Cultural or Philanthropic Partner** to join this alliance
 
 We are confident that by combining your institution's cultural leadership with our on-the-ground innovation, we can create a lasting, positive impact for children in Ukraine and beyond. We welcome the opportunity to explore this collaboration with you.
 
-<br><br>
 ---
 
 # Maksym Dudyk
