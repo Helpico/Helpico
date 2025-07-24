@@ -38,7 +38,7 @@ This initiative is a networked effort anchored by a robust **Scientific Alliance
 
 **Our Scientific Alliance Includes:**
 *   **Lead Ukrainian Research Partner:** Kryvyi Rih State Pedagogical University (KDPU)
-*   **Lead European Partner:** Czech University of Life Sciences Prague (CZU)
+*   **Lead European Partner:** Czech University of Life Sciences Prague (CZU)<br>
    **Scientific & Methodological Advisory Board:**
     *   National University of "Kyiv-Mohyla Academy" (NaUKMA)
     *   Zaporizhzhia National University (ZNU)
