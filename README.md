@@ -34,7 +34,7 @@ We believe that those who need help today cannot wait for long-term research to 
 This approach ensures we provide tangible help from day one, while building a sustainable, systemic solution for Ukraine's future.
 <br><br>
 ## Our Vision for Partnership: A Bridge of Mutual Expertise
-This non-profit initiative is a networked effort anchored by a robust **Scientific Alliance** of leading Ukrainian and European academic institutions.
+This initiative is a networked effort anchored by a robust **Scientific Alliance** of leading Ukrainian and European academic institutions.
 
 **Our Scientific Alliance Includes:**
 *   **Lead Ukrainian Research Partner:** Kryvyi Rih State Pedagogical University (KDPU)
