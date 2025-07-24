@@ -8,7 +8,7 @@
 ## A Crisis Ukraine Was Never Prepared For
 Ukraine is facing a challenge its teachers and parents have never encountered on this scale. It is a profound, dual crisis where:
 
-> **Mental Health is Shattered:** Up to 75% of our children show signs of war-related trauma.
+> **Mental Health is Shattered:** Up to 75% of our children show signs of war-related trauma (UNICEF).
 > 
 > **Education is Disrupted:** Over 5 million children have had their schooling interrupted, leading to devastating learning loss.
 
