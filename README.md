@@ -13,7 +13,7 @@ Ukraine is facing a challenge its teachers and parents have never encountered on
 > **Education is Disrupted:** Over 5 million children have had their schooling interrupted, leading to devastating learning loss.
 
 These two crises feed each other in a destructive cycle: when a child's nervous system is locked in survival mode, learning feels impossible. When they fail to learn, their trauma and anxiety deepen.
-
+<br>
 <p align="left">
   <img width="418" height="418" alt="image" src="https://github.com/user-attachments/assets/2a4a27c0-133f-4573-90b0-4ea34047874f" />
 </p>
@@ -28,7 +28,7 @@ Our initiative develops accessible digital tools delivered through two core plat
 *   **Kotya Motya** and **PlayTellect** A universe of free, therapeutic games designed to make learning feel safe and joyful again.
 
 <img width="504" height="288" alt="image" src="https://github.com/user-attachments/assets/6fea99cf-4ed9-4695-9cbf-1cdd5b627026" />
-
+<br>
 ## Our Unique "Dual-Track" Strategy: Immediate Help & Long-Term Solutions
 We believe that those who need help today cannot wait for long-term research to conclude. Therefore, our initiative operates on a dual-track:
 
