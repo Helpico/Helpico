@@ -15,7 +15,7 @@ Ukraine is facing a challenge its teachers and parents have never encountered on
 These two crises feed each other in a destructive cycle: when a child's nervous system is locked in survival mode, learning feels impossible. When they fail to learn, their trauma and anxiety deepen.
 
 <p align="left">
-  <img width="599" height="599" alt="image" src="https://github.com/user-attachments/assets/01c2b59d-7551-46fa-8f8f-00f529a4cff5" />
+  <img width="418" height="418" alt="image" src="https://github.com/user-attachments/assets/2a4a27c0-133f-4573-90b0-4ea34047874f" />
 </p>
 
 ## Our Mission & Approach: Therapeutic Education
