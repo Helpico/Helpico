@@ -2,7 +2,7 @@
 ### Bridging the gap between psychological trauma and educational recovery.
 
 <p align="left">
-  <img width="1536" height="1024" alt="dual_crisis_in_Ukraine" src="https://github.com/user-attachments/assets/2da782b7-0b68-4044-9cff-0277b2997ba4" />  
+  <img width="597" height="398" alt="image" src="https://github.com/user-attachments/assets/261afc26-1432-465f-87eb-58beb76cb334" />
 </p>
 
 ## A Crisis Ukraine Was Never Prepared For
