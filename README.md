@@ -2,7 +2,7 @@
 ### Bridging the gap between psychological trauma and educational recovery.
 
 <p align="left">
-  <img width="497" height="284" alt="image" src="https://github.com/user-attachments/assets/38a75af5-e630-41a5-957a-6de07b6c8ec7" />  
+  <img width="1536" height="1024" alt="dual_crisis_in_Ukraine" src="https://github.com/user-attachments/assets/2da782b7-0b68-4044-9cff-0277b2997ba4" />  
 </p>
 
 ## A Crisis Ukraine Was Never Prepared For
@@ -46,7 +46,11 @@ This initiative is a networked effort anchored by a robust **Scientific Alliance
     *   Ukrainian Institute of Cognitive-Behavioral Therapy (CBT Institute)
 
 We now invite a **Lead Cultural or Philanthropic Partner** to join this alliance. We see this partnership not as a one-way street, but as a true **mutual exchange**. Our platform offers a direct channel for world-class European knowledge to meet Ukrainian need, while also providing a unique opportunity for partners to engage with and learn from Ukraine's experience in building resilience.
-<br><br>
+
+<p align="left">
+  <img width="497" height="284" alt="image" src="https://github.com/user-attachments/assets/38a75af5-e630-41a5-957a-6de07b6c8ec7" />  
+</p>
+
 ## An Invitation to Partner
 
 We are confident that by combining your institution's cultural leadership with our on-the-ground innovation, we can create a lasting, positive impact for children in Ukraine and beyond. We welcome the opportunity to explore this collaboration with you.
