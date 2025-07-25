@@ -70,13 +70,14 @@ We are confident that by combining your institution's cultural leadership with o
 
 ## Leadership Credentials
 
-*   **Academic & Civic:** Harvard Fellow (EdTech); former Researcher, Academy of Sciences; Author of Ukraine’s First Public Broadcasting Law; Recipient of state awards for information sovereignty.
-*   **Entrepreneurial:** Participant, EIT Jumpstarter (HealthTech) & Graduate, Science2Business (EIT).
-<br><br>
+* **Academic & Civic:** Harvard Fellow (IREX/US Dept. of State) in EdTech leadership and research methods; former researcher at the Academy of Sciences of Ukraine in computational linguistics with published work on national revival; initiator of the *“United Country”* national TV campaign (2014) that mobilized millions against Russian aggression; recipient of the **Order for Defense of Ukraine’s Information Sovereignty**.  
+* **Entrepreneurial & Innovation:** Founder of **Helpica** and **Kotya Motya**, pioneering the concept of *“Therapeutic Education.”* Recognized participant of **EIT Jumpstarter 2025 (HealthTech)** and graduate of the EU’s **Science2Business** program.
+
 ## Core Technical Competencies
-*   **Full-Stack Engineering:** Python, Node.js, TypeScript/JavaScript, React/Next.js, PostgreSQL.
-*   **AI for Good:** LangChain for intelligent agents, RAG, and vector search.
-*   **Trauma-Informed UX:** Designing gamified, emotionally safe digital environments.
+
+* **Full-Stack Engineering:** Node.js, TypeScript/JavaScript, React/Next.js, PostgreSQL, Docker.  
+* **AI for Good:** Expertise in AI-driven educational tools — LangChain, RAG, vector search, and adaptive learning algorithms.  
+* **Trauma-Informed UX:** Designing **gamified, emotionally safe digital environments** that integrate pedagogy, psychology, and cognitive science.
 <br><br>
 ## Contact
 
