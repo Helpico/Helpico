@@ -1,8 +1,8 @@
 # Therapeutic Education for Ukraine
 ### Using Science and Technology to Turn Learning into Recovery.
-<p></p>
 <br>
-
+<br>
+<br>
 <p align="left">
   <img width="597" height="398" alt="image" src="https://github.com/user-attachments/assets/261afc26-1432-465f-87eb-58beb76cb334" />
 </p>
