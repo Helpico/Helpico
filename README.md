@@ -3,7 +3,7 @@
 
 <br>
 <p align="left">
-  <img width="597" height="398" alt="image" src="https://github.com/user-attachments/assets/261afc26-1432-465f-87eb-58beb76cb334" />
+  <img width="418" height="418" alt="image" src="https://github.com/user-attachments/assets/2a4a27c0-133f-4573-90b0-4ea34047874f" />
 </p>
 
 ## A National Emergency Demanding a New Vision
@@ -16,7 +16,7 @@ Ukraine is facing a devastating, dual crisis its teachers and parents have never
 These two crises are locked in a destructive cycle: trauma makes learning impossible, and the failure to learn deepens that trauma. This is not an educational gap; it is a national emergency that directly cripples Ukraine's future and is a key driver for families fleeing the country.
 
 <p align="left">
-  <img width="418" height="418" alt="image" src="https://github.com/user-attachments/assets/2a4a27c0-133f-4573-90b0-4ea34047874f" />
+  <img width="597" height="398" alt="image" src="https://github.com/user-attachments/assets/261afc26-1432-465f-87eb-58beb76cb334" />
 </p>
 
 
