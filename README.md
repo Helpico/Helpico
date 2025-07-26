@@ -73,7 +73,7 @@ We are confident that by combining your institution's cultural leadership with o
 
 ## Leadership Credentials
 
-* **Academic & Civic:** Harvard Fellow (IREX/US Dept. of State) in EdTech leadership and research methods; former researcher at the Academy of Sciences of Ukraine in computational linguistics with published work on national revival; initiator of the *“United Country”* national TV campaign (2014) that mobilized millions against Russian aggression; recipient of the **Order for Defense of Ukraine’s Information Sovereignty**.  
+* **Academic & Civic:** Harvard Fellow (IREX/US Dept. of State) in EdTech leadership and research methods; former researcher at the Academy of Sciences of Ukraine in computational linguistics with published work on national revival; initiator of the *“United Country”* national TV campaign (2014) that mobilized millions against Russian aggression; recipient of the **Order for Defense of Ukraine’s Information Sovereignty** (2015).  
 * **Latest Achievements & Innovation:** Founder of **Helpica** and **Kotya Motya**, pioneering the concept of *“Therapeutic Education.”* Recognized participant of **EIT Jumpstarter 2025 (European Institute of Innovation & Technology/HealthTech)** and graduate of the EU’s **Science2Business** program.
 
 ## Core Technical Competencies
