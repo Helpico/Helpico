@@ -46,7 +46,7 @@ We believe those who need help today cannot wait for years of research. Our init
 <br><br>
 
 <p align="left">
-  <img width="1667" height="825" alt="combined_logos_of_interested_institutions_and_partners" src="https://github.com/user-attachments/assets/870bad4a-c0e0-4a1a-a330-396f3d8c7bb7" />
+  <img width="660" height="327" alt="scientific aliance for Learning That Heals Initiative" src="https://github.com/user-attachments/assets/55f07c42-5f33-4ce3-ac18-dfb05628bf3b" />
 </p>
 
 
