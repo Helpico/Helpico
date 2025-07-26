@@ -16,7 +16,7 @@ Ukraine is facing a devastating, dual crisis its teachers and parents have never
 These two crises are locked in a destructive cycle: trauma makes learning impossible, and the failure to learn deepens that trauma. This is not an educational gap; it is a national emergency that directly cripples Ukraine's future and is a key driver for families fleeing the country.
 
 <p align="left">
-  <img width="597" height="398" alt="image" src="https://github.com/user-attachments/assets/261afc26-1432-465f-87eb-58beb76cb334" />
+  <img width="660" height="327" alt="scientific aliance for Learning That Heals Initiative" src="https://github.com/user-attachments/assets/55f07c42-5f33-4ce3-ac18-dfb05628bf3b" />
 </p>
 
 
