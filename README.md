@@ -21,7 +21,7 @@ These two crises are locked in a destructive cycle: trauma makes learning imposs
 
 ## Our Approach: A New Paradigm for Healing and Learning
 
-Our approach is built on a revolutionary idea: **the learning process itself can be the primary tool for recovery.** We don't just treat the symptoms; we transform the cause of the stress. This is **Therapeutic Education**.
+Our approach is built on a revolutionary idea: **the learning process itself can be a gentle and effective form of mental health care & recovery.** We don't just treat the symptoms; we transform the cause of the stress. This is **Therapeutic Education**, the approach that answers the question: **What can we do when a child wants to learn, but their trauma won't let them?**
 
 To make this a reality, we focus on two interconnected goals:
 
