@@ -1,5 +1,5 @@
 # Therapeutic Education for Ukraine
-### Bridging the gap between psychological trauma and educational recovery.
+### Using Science and Technology to Turn Learning into Recovery.
 
 <p align="left">
   <img width="597" height="398" alt="image" src="https://github.com/user-attachments/assets/261afc26-1432-465f-87eb-58beb76cb334" />
