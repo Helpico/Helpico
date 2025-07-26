@@ -1,4 +1,4 @@
-# "Therapeutic Education" Initiative for Ukraine
+# Therapeutic Education for Ukraine
 ### Bridging the gap between psychological trauma and educational recovery.
 
 <p align="left">
