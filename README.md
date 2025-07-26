@@ -75,9 +75,10 @@ As the initiator of the **"Therapeutic Education for Ukraine"** movement, I buil
 
 ## Key Credentials & Competencies
 
-*   **Leadership & Strategy:** Harvard Fellow (IREX/US Dept. of State); Author of Ukraine’s First Public Broadcasting Law; former government advisor; recipient of the Order for Defense of Ukraine’s Information Sovereignty.
+*   **Leadership & Strategy:** Harvard Fellow (IREX/US Dept. of State); Co-Author of Ukraine’s First Public Broadcasting Law; former government advisor; recipient of the Order for Defense of Ukraine’s Information Sovereignty, Recipient of **U.S. Education Grants (IREX)** for pioneering EdTech solutions.
+
 *   **Innovation & Technology:** Finalist in **EIT Jumpstarter 2025 (HealthTech)**; graduate of the EU’s **Science2Business** program; expertise in AI-driven educational tools (LangChain, RAG) and Trauma-Informed UX.
-*   **Grant Experience:** Successfully secured and managed multiple grants, including from the U.S. State Department.
+
 
 <br><br>
 ## Contact
