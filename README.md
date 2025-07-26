@@ -65,7 +65,7 @@ We are confident that by combining your institution's cultural leadership with o
 ---
 
 # Maksym Dudyk
-### Initiator of the "Therapeutic Education for Ukraine" Movemen
+### Initiator of the "Therapeutic Education for Ukraine" Movement
 
 <p align="left">
   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b25810c6-ee3c-4326-8bca-b0cbe6d7cd9b" />
