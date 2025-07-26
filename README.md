@@ -19,14 +19,15 @@ These two crises feed each other in a destructive cycle: when a child's nervous 
   <img width="418" height="418" alt="image" src="https://github.com/user-attachments/assets/2a4a27c0-133f-4573-90b0-4ea34047874f" />
 </p>
 
-## Our Mission & Approach: Therapeutic Education
-Our mission is to break this cycle by building digital-first solutions that help children heal *through* learning. We are pioneering the **"Therapeutic Education"** paradigm, built on the idea that learning itself can be a gentle and effective form of mental health care.
+## ${\color{#EB578C}\text{Our Approach: Awareness First, Then Intervention}{\text{}}}$
 
-We answer the question: **What can we do when a child wants to learn, but their trauma won't let them?**
+Our approach begins with a simple truth: before we can help a child, we must first change the environment around them. Our primary mission is to **raise awareness among teachers, parents, and policymakers**, helping them understand that a child struggling with trauma is not lazy or incapable, but is facing an invisible wall.
+To help them—and the children they support—we provide two interconnected solutions:
 
-Our initiative develops accessible digital tools delivered through two core platforms:
-*   **Helpica.me:** A chatbot-course that provides practical, trauma-informed guidance to parents and educators.
-*   **Kotya Motya** and **PlayTellect** A universe of free, therapeutic games designed to make learning feel safe and joyful again.
+* **Practical Guidance & Awareness (Helpica.me):** A free chatbot-course that gives adults the immediate, practical, trauma-informed guidance they need. It answers the question: "What can I do right now to help this child?"
+
+* **Therapeutic Tools for Children (Kotya Motya & PlayTellect):** A universe of free, therapeutic games that embody the principles of "Therapeutic Education." They are designed not just to teach, but to make the very act of learning feel safe, achievable, and joyful again.
+Together, these tools work to break the destructive cycle, first by reducing the external pressure on the child, and second by giving the child an internal tool to rebuild their confidence and capacity to learn.
 
 <img width="504" height="288" alt="image" src="https://github.com/user-attachments/assets/6fea99cf-4ed9-4695-9cbf-1cdd5b627026" />
 <br>
@@ -73,9 +74,9 @@ We are confident that by combining your institution's cultural leadership with o
 
 ## ${\color{#EB578C}\text{Social Innovator • EdTech Architect • Civic Researcher}{\text{}}}$
 
-As the initiator of the **"Therapeutic Education for Ukraine"** movement, I am building a coalition of researchers, educators, and technologists to tackle the dual crisis of learning and mental health facing war-affected children. **Our mission is to use science and technology to turn the learning process itself into a tool for recovery.**
+As the initiator of the **"Therapeutic Education for Ukraine"** movement, I am building a broad coalition of **researchers, educators, technologists, and international donors**. Our primary goal is to **raise national awareness** about the devastating dual crisis of education and mental health affecting our children. We must change the narrative so that the immense pressure on these children, which only deepens their trauma, is replaced with **empathy, understanding, and tailored support.**
 
-This movement aims to establish **Therapeutic Education** as a new, evidence-based scientific paradigm. My work combines over 20 years of experience across public policy, research, and software development to build the practical, digital-first solutions needed to make this vision a reality.
+Our secondary, foundational goal is to establish **Therapeutic Education** as a new, evidence-based scientific paradigm. To achieve this, our mission is to use science and technology to **transform the learning process itself into a tool for recovery**. My work is to architect the practical, digital-first solutions needed to make this vision a reality for every child in Ukraine.
 
 ## Leadership Credentials
 
