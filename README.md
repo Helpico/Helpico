@@ -6,7 +6,7 @@
   <img width="597" height="398" alt="image" src="https://github.com/user-attachments/assets/261afc26-1432-465f-87eb-58beb76cb334" />
 </p>
 
-## A National Emergency Ukraine Was Never Prepared For
+## A National Emergency Demanding a New Vision
 Ukraine is facing a devastating, dual crisis its teachers and parents have never encountered on this scale:
 
 > **Mental Health is Shattered:** Up to 75% of our children show signs of war-related trauma (UNICEF).
@@ -19,14 +19,20 @@ These two crises are locked in a destructive cycle: trauma makes learning imposs
   <img width="418" height="418" alt="image" src="https://github.com/user-attachments/assets/2a4a27c0-133f-4573-90b0-4ea34047874f" />
 </p>
 
-## Our Approach: A New Paradigm for Healing and Learning
 
-Our approach is built on a revolutionary idea: **the learning process itself can be a gentle and effective form of mental health care & recovery.** We don't just treat the symptoms; we transform the cause of the stress. This is **Therapeutic Education**, the approach that answers the question: **What can we do when a child wants to learn, but their trauma won't let them?**
+## Our Approach: Building the Future of Education in Crisis
 
-To make this a reality, we focus on two interconnected goals:
+Our work begins by asking a fundamental question that millions of Ukrainian families now face: **What can we do when a child wants to learn, but their trauma won't let them?**
 
-*   **Raising National Awareness:** We work to change the conversation among teachers, parents, and policymakers, helping them understand that a child struggling with trauma is not lazy or incapable, but is facing an invisible wall. Such youth needs empathy and tailored support, not more pressure.
-*   **Providing Practical Tools:** We develop free, science-backed digital solutions that are immediately accessible to any family with a mobile phone. Our [**Helpica.me**](https://helpica.me) chatbot provides guidance for adults, while our [**Kotya Motya**](https://kotamota.com) platform offers a universe of educational therapeutic games for children, which rebuild their confidence and capacity to learn.
+Our answer is a new paradigm we call **Therapeutic Education**. It is built on a simple truth: before we can help a child, we must first change the environment around them. Therefore, our primary mission is to **raise awareness among teachers, parents, and policymakers**, helping them understand that a struggling child is not lazy or incapable, but is facing an invisible, internal wall.
+
+To support both the adults and the children, our initiative provides a suite of practical, science-backed digital tools:
+
+**For Adults (Raising Awareness):** Our **[Helpica.me](https://helpica.me)** chatbot-course provides the immediate, trauma-informed guidance that empowers adults to reduce pressure and create emotionally safe learning environments.
+
+**For Children (Providing a New Way to Learn):** Our **[Kotya Motya](https://kotamota.com)** platform offers a universe of unique, therapeutic games. These are not typical educational apps. They are designed to work *with* a child's vulnerable emotional state, rebuilding their confidence and capacity to learn through positive, non-stressful interactions.
+
+This dual approach—empowering the adults while providing a new kind of tool for the children—is how we begin to transform learning from a source of stress into a process of healing.
 
 <img width="504" height="288" alt="image" src="https://github.com/user-attachments/assets/6fea99cf-4ed9-4695-9cbf-1cdd5b627026" />
 <br>
@@ -59,7 +65,7 @@ This initiative is a networked effort anchored by a robust **Scientific Alliance
 
 ## An Invitation to Partner with a Ukrainian-Born Global Innovation
 
-We now seek a **Lead Cultural or Philanthropic Partner** to help us scale this vital mission. This is more than a project; it is an investment in a new, Ukrainian-born methodology with the potential for global relevance. By combining your institution's leadership with our on-the-ground innovation, we can create a lasting, positive impact for millions of children in Ukraine and beyond.
+We now seek a **Lead Cultural or Philanthropic Partner** to help scale this vital mission. This is more than a project; it is an investment in a new, Ukrainian-born methodology with the potential to **redefine how the world supports children's education in crisis.** By combining your institution's leadership with our on-the-ground innovation, we can create a lasting, positive impact for millions.
 
 ---
 
