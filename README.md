@@ -65,11 +65,17 @@ We are confident that by combining your institution's cultural leadership with o
 ---
 
 # Maksym Dudyk
-### Author & Initiative Lead
+### Initiator of the "Therapeutic Education for Ukraine" Movemen
 
 <p align="left">
   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b25810c6-ee3c-4326-8bca-b0cbe6d7cd9b" />
 </p>
+
+## ${\color{#EB578C}\text{Social Innovator • EdTech Architect • Civic Researcher}{\text{}}}$
+
+As the initiator of the **"Therapeutic Education for Ukraine"** movement, I am building a coalition of researchers, educators, and technologists to tackle the dual crisis of learning and mental health facing war-affected children. **Our mission is to use science and technology to turn the learning process itself into a tool for recovery.**
+
+This movement aims to establish **Therapeutic Education** as a new, evidence-based scientific paradigm. My work combines over 20 years of experience across public policy, research, and software development to build the practical, digital-first solutions needed to make this vision a reality.
 
 ## Leadership Credentials
 
@@ -89,25 +95,3 @@ We are confident that by combining your institution's cultural leadership with o
 *   **Sites:** [kotamota.com](https://kotamota.com) • [helpica.me](https://helpica.me)
 *   **CV:** Available Upon Request
 
-
-# Maksym Dudyk
-### Initiator of the "Therapeutic Education for Ukraine" Movement
-
-<p align="left">
-  <img src="https://github.com/Helpico/Helpico/assets/32806311/9dfc44d0-bcbe-43a1-8a73-9425f15224db" alt="Maksym Dudyk" width="140" height="200">
-  <img src="https://github.com/user-attachments/assets/e08934f8-8ac6-40c8-9c0d-47a0b5c76d61" alt="Dudyk's Work" width="300" height="200">
-</p>
-
-## ${\color{#EB578C}\text{Social Innovator • EdTech Architect • Civic Researcher}{\text{}}}$
-
-As the initiator of the **"Therapeutic Education for Ukraine"** movement, I am building a coalition of researchers, educators, and technologists to tackle the dual crisis of learning and mental health facing war-affected children. **Our mission is to use science and technology to turn the learning process itself into a tool for recovery.**
-
-This movement aims to establish **Therapeutic Education** as a new, evidence-based scientific paradigm. My work combines over 20 years of experience across public policy, research, and software development to build the practical, digital-first solutions needed to make this vision a reality.
-
-## ${\color{#EB578C}\text{The Unprecedented Challenge: A Dual Crisis in Ukraine}{\text{}}}$
-... (the rest of the section remains the same)
-
-## ${\color{#EB578C}\text{Our Approach: The "Therapeutic Education for Ukraine" Movement}{\text{}}}$
-
-**Therapeutic Education** is a new, interdisciplinary paradigm...
-... (the rest of the section can be slightly adapted to use the "movement" framing)
