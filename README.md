@@ -29,7 +29,9 @@ Our initiative develops accessible digital tools delivered through two core plat
 
 <img width="504" height="288" alt="image" src="https://github.com/user-attachments/assets/6fea99cf-4ed9-4695-9cbf-1cdd5b627026" />
 <br>
+
 ## Our Unique "Dual-Track" Strategy: Immediate Help & Long-Term Solutions
+
 We believe that those who need help today cannot wait for long-term research to conclude. Therefore, our initiative operates on a dual-track:
 
 1.  **Helping While We Research (Immediate Impact):** We provide a publicly accessible digital platform that is continuously updated with real-time insights, tools, and best practices emerging from our work.
