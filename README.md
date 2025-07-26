@@ -84,5 +84,5 @@ As the initiator of the **"Therapeutic Education for Ukraine"** movement, I buil
 
 *   **Email:** maksymdudyk@gmail.com
 *   **LinkedIn:** [linkedin.com/in/maksym-dudyk-follow-up](https://linkedin.com/in/maksym-dudyk-follow-up)
-*   **Sites:** [therapeutic.education](https://therapeutic.education) • [helpica.me](https://helpica.me)
+*   **Sites:** [therapeutic.education](https://therapeutic.education) • [Kotya Motya](https://kotamota.com) • [helpica.me](https://helpica.me)
 *   **CV:** Available Upon Request
