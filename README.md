@@ -1,72 +1,69 @@
 # Therapeutic Education for Ukraine
-### Using Science and Technology to Turn Learning into Recovery.
-<br>
+### Using Science and Technology to Turn Learning into Recovery
+
 <br>
 <p align="left">
   <img width="597" height="398" alt="image" src="https://github.com/user-attachments/assets/261afc26-1432-465f-87eb-58beb76cb334" />
 </p>
 
-## A Crisis Ukraine Was Never Prepared For
-Ukraine is facing a challenge its teachers and parents have never encountered on this scale. It is a profound, dual crisis where:
+## A National Emergency Demanding a New Response
+Ukraine is facing a devastating, dual crisis that traditional methods cannot solve:
 
-> **Mental Health is Shattered:** Up to 75% of our children show signs of war-related trauma (UNICEF).
-> 
-> **Education is Disrupted:** Over 5 million children have had their schooling interrupted, leading to devastating learning loss.
+> **Mental Health Under Siege:** Up to 75% of our children show signs of war-related trauma (UNICEF).
+>
+> **Education in Collapse:** Over 5 million children have had their schooling disrupted, resulting in catastrophic learning loss.
 
-These two crises feed each other in a destructive cycle: when a child's nervous system is locked in survival mode, learning feels impossible. When they fail to learn, their trauma and anxiety deepen.
-<br>
+These two crises are locked in a destructive cycle: trauma makes learning impossible, and the failure to learn deepens that trauma. This is not an educational gap; it is a national emergency that threatens a generation.
+
 <p align="left">
   <img width="418" height="418" alt="image" src="https://github.com/user-attachments/assets/2a4a27c0-133f-4573-90b0-4ea34047874f" />
 </p>
 
-## ${\color{#EB578C}\text{Our Approach: Awareness First, Then Intervention}{\text{}}}$
+## Our Approach: A New Paradigm for Healing and Learning
 
-Our approach begins with a simple truth: before we can help a child, we must first change the environment around them. Our primary mission is to **raise awareness among teachers, parents, and policymakers**, helping them understand that a child struggling with trauma is not lazy or incapable, but is facing an invisible wall.
-To help them—and the children they support—we provide two interconnected solutions:
+Our approach is built on a revolutionary idea: **the learning process itself can be the primary tool for recovery.** We don't just treat the symptoms; we transform the cause of the stress. This is **Therapeutic Education**.
 
-* **Practical Guidance & Awareness (Helpica.me):** A free chatbot-course that gives adults the immediate, practical, trauma-informed guidance they need. It answers the question: "What can I do right now to help this child?"
+To make this a reality, we focus on two interconnected goals:
 
-* **Therapeutic Tools for Children (Kotya Motya & PlayTellect):** A universe of free, therapeutic games that embody the principles of "Therapeutic Education." They are designed not just to teach, but to make the very act of learning feel safe, achievable, and joyful again.
-Together, these tools work to break the destructive cycle, first by reducing the external pressure on the child, and second by giving the child an internal tool to rebuild their confidence and capacity to learn.
+*   **Raising National Awareness:** We work to change the conversation among teachers, parents, and policymakers, helping them understand that a struggling child needs empathy and tailored support, not more pressure.
+*   **Providing Practical Tools:** We develop free, science-backed digital solutions that are immediately accessible to any family with a mobile phone. Our **Helpica.me** chatbot provides guidance for adults, while our **Kotya Motya** platform offers a universe of therapeutic games for children.
 
 <img width="504" height="288" alt="image" src="https://github.com/user-attachments/assets/6fea99cf-4ed9-4695-9cbf-1cdd5b627026" />
 <br>
 
-## Our Unique "Dual-Track" Strategy: Immediate Help & Long-Term Solutions
+## The "Dual-Track" Strategy: Immediate Help & A Scalable Future
 
-We believe that those who need help today cannot wait for long-term research to conclude. Therefore, our initiative operates on a dual-track:
+We believe those who need help today cannot wait for years of research. Our initiative operates on a unique dual track:
 
-1.  **Helping While We Research (Immediate Impact):** We provide a publicly accessible digital platform that is continuously updated with real-time insights, tools, and best practices emerging from our work.
-2.  **Building a Scalable Model (Long-Term Impact):** We conduct rigorous scientific validation to create an evidence-based model of "Therapeutic Education" that can be adopted nationwide.
+1.  **Helping While We Research (Immediate Impact):** We provide a publicly accessible digital platform that is continuously updated with real-time insights and best practices from our work, delivering tangible help from day one.
+2.  **Building a Scalable Model (Long-Term Impact):** We partner with leading universities to conduct rigorous scientific validation, creating an evidence-based model of "Therapeutic Education" that can be adopted nationwide and scaled globally.
 
-This approach ensures we provide tangible help from day one, while building a sustainable, systemic solution for Ukraine's future.
 <br><br>
-## Our Vision for Partnership: A Bridge of Mutual Expertise
-This initiative is a networked effort anchored by a robust **Scientific Alliance** of leading Ukrainian and European academic institutions.
+## Our Alliance: A Bridge Between Ukrainian Resilience and European Expertise
 
-**Our Scientific Alliance Includes:**
+This initiative is a networked effort anchored by a robust **Scientific Alliance**.
+
+**Core Ukrainian & European Partners:**
 *   **Lead Ukrainian Research Partner:** Kryvyi Rih State Pedagogical University (KDPU)
-*   **Lead European Partner:** Czech University of Life Sciences Prague (CZU)<br><br>
-   **Scientific & Methodological Advisory Board:**
-    *   National University of "Kyiv-Mohyla Academy" (NaUKMA)
-    *   Zaporizhzhia National University (ZNU)
-    *   Ukrainian Catholic University (UCU)
-    *   Ukrainian Institute of Cognitive-Behavioral Therapy (CBT Institute)
+*   **Lead European Partner:** Czech University of life Sciences Prague (CZU)
 
-We now invite a **Lead Cultural or Philanthropic Partner** to join this alliance. We see this partnership not as a one-way street, but as a true **mutual exchange**. Our platform offers a direct channel for world-class European knowledge to meet Ukrainian need, while also providing a unique opportunity for partners to engage with and learn from Ukraine's experience in building resilience.
+**Scientific & Methodological Advisory Board:**
+*   National University of "Kyiv-Mohyla Academy" (NaUKMA)
+*   Zaporizhzhia National University (ZNU)
+*   Ukrainian Catholic University (UCU)
+*   Ukrainian Institute of Cognitive-Behavioral Therapy (CBT Institute)
 
 <p align="left">
   <img width="497" height="284" alt="image" src="https://github.com/user-attachments/assets/38a75af5-e630-41a5-957a-6de07b6c8ec7" />  
 </p>
 
-## An Invitation to Partner
+## An Invitation to Partner with a Ukrainian-Born Global Innovation
 
-We are confident that by combining your institution's cultural leadership with our on-the-ground innovation, we can create a lasting, positive impact for children in Ukraine and beyond. We welcome the opportunity to explore this collaboration with you.
+We now seek a **Lead Cultural or Philanthropic Partner** to help us scale this vital mission. This is more than a project; it is an investment in a new, Ukrainian-born methodology with the potential for global relevance. By combining your institution's leadership with our on-the-ground innovation, we can create a lasting, positive impact for millions of children in Ukraine and beyond.
 
 ---
 
-# Maksym Dudyk
-### Initiator of the "Therapeutic Education for Ukraine" Movement
+# About the Initiator: Maksym Dudyk
 
 <p align="left">
   <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b25810c6-ee3c-4326-8bca-b0cbe6d7cd9b" />
@@ -74,25 +71,18 @@ We are confident that by combining your institution's cultural leadership with o
 
 ## ${\color{#EB578C}\text{Social Innovator • EdTech Architect • Civic Researcher}{\text{}}}$
 
-As the initiator of the **"Therapeutic Education for Ukraine"** movement, I am building a broad coalition of **researchers, educators, technologists, and international donors**. Our primary goal is to **raise national awareness** about the devastating dual crisis of education and mental health affecting our children. We must change the narrative so that the immense pressure on these children, which only deepens their trauma, is replaced with **empathy, understanding, and tailored support.**
+As the initiator of the **"Therapeutic Education for Ukraine"** movement, I build coalitions to transform the learning process into a tool for recovery. My work combines over 20 years of experience across public policy, research, and software development to architect the practical, digital-first solutions needed to make this vision a reality.
 
-Our secondary, foundational goal is to establish **Therapeutic Education** as a new, evidence-based scientific paradigm. To achieve this, our mission is to use science and technology to **transform the learning process itself into a tool for recovery**. My work is to architect the practical, digital-first solutions needed to make this vision a reality for every child in Ukraine.
+## Key Credentials & Competencies
 
-## Leadership Credentials
+*   **Leadership & Strategy:** Harvard Fellow (IREX/US Dept. of State); Author of Ukraine’s First Public Broadcasting Law; former government advisor; recipient of the Order for Defense of Ukraine’s Information Sovereignty.
+*   **Innovation & Technology:** Finalist in **EIT Jumpstarter 2025 (HealthTech)**; graduate of the EU’s **Science2Business** program; expertise in AI-driven educational tools (LangChain, RAG) and Trauma-Informed UX.
+*   **Grant Experience:** Successfully secured and managed multiple grants, including from the U.S. State Department.
 
-* **Academic & Civic:** Harvard Fellow (IREX/US Dept. of State) in EdTech leadership and research methods; former researcher at the Academy of Sciences of Ukraine in computational linguistics with published work on national revival; initiator of the *“United Country”* national TV campaign (2014) that mobilized millions against Russian aggression; recipient of the **Order for Defense of Ukraine’s Information Sovereignty** (2015).  
-* **Latest Achievements & Innovation:** Founder of **Helpica** and **Kotya Motya**, pioneering the concept of *“Therapeutic Education.”* Recognized participant of **EIT Jumpstarter 2025 (European Institute of Innovation & Technology/HealthTech)** and graduate of the EU’s **Science2Business** program.
-
-## Core Technical Competencies
-
-* **Full-Stack Engineering:** Node.js, TypeScript/JavaScript, React/Next.js, PostgreSQL, Docker.  
-* **AI for Good:** Expertise in AI-driven educational tools — LangChain, RAG, vector search, and adaptive learning algorithms.  
-* **Trauma-Informed UX:** Designing **gamified, emotionally safe digital environments** that integrate pedagogy, psychology, and cognitive science.
 <br><br>
 ## Contact
 
 *   **Email:** maksymdudyk@gmail.com
 *   **LinkedIn:** [linkedin.com/in/maksym-dudyk-follow-up](https://linkedin.com/in/maksym-dudyk-follow-up)
-*   **Sites:** [kotamota.com](https://kotamota.com) • [helpica.me](https://helpica.me)
+*   **Sites:** [therapeutic.education](https://therapeutic.education) • [helpica.me](https://helpica.me)
 *   **CV:** Available Upon Request
-
