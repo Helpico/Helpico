@@ -25,8 +25,12 @@ Our approach is built on a revolutionary idea: **the learning process itself can
 
 To make this a reality, we focus on two interconnected goals:
 
-*   **Raising National Awareness:** We work to change the conversation among teachers, parents, and policymakers, helping them understand that a struggling child needs empathy and tailored support, not more pressure.
-*   **Providing Practical Tools:** We develop free, science-backed digital solutions that are immediately accessible to any family with a mobile phone. Our **Helpica.me** chatbot provides guidance for adults, while our **Kotya Motya** platform offers a universe of therapeutic games for children.
+Our approach begins with a simple truth: before we can help a child, we must first change the environment around them. Our primary mission is to **raise awareness among teachers, parents, and policymakers**, helping them understand that a child struggling with trauma is not lazy or incapable, but is facing an invisible wall.
+To help them—and the children they support—we provide two interconnected solutions:
+
+
+*   **Raising National Awareness:** We work to change the conversation among teachers, parents, and policymakers, helping them understand that a child struggling with trauma is not lazy or incapable, but is facing an invisible wall. Such youth needs empathy and tailored support, not more pressure.
+*   **Providing Practical Tools:** We develop free, science-backed digital solutions that are immediately accessible to any family with a mobile phone. Our **Helpica.me** chatbot provides guidance for adults, while our **Kotya Motya** platform offers a universe of educational therapeutic games for children, which rebuild their confidence and capacity to learn.
 
 <img width="504" height="288" alt="image" src="https://github.com/user-attachments/assets/6fea99cf-4ed9-4695-9cbf-1cdd5b627026" />
 <br>
