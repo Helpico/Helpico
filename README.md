@@ -43,8 +43,13 @@ We believe those who need help today cannot wait for years of research. Our init
 
 1.  **Helping While We Research (Immediate Impact):** We provide a publicly accessible digital platform that is continuously updated with real-time insights and best practices from our work, delivering tangible help from day one.
 2.  **Building a Scalable Model (Long-Term Impact):** We partner with leading universities to conduct rigorous scientific validation, creating an evidence-based model of "Therapeutic Education" that can be adopted nationwide and scaled globally.
-
 <br><br>
+
+<p align="left">
+  <img width="1667" height="825" alt="combined_logos_of_interested_institutions_and_partners" src="https://github.com/user-attachments/assets/870bad4a-c0e0-4a1a-a330-396f3d8c7bb7" />
+</p>
+
+
 ## Our Alliance: A Bridge Between Ukrainian Resilience and European Expertise
 
 This initiative is a networked effort anchored by a robust **Scientific Alliance**.
