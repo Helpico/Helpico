@@ -60,6 +60,7 @@ This initiative is a networked effort anchored by a robust **Scientific Alliance
 
 **Scientific & Methodological Advisory Board:**
 *   National University of "Kyiv-Mohyla Academy" (NaUKMA)
+*   Dnipro National University (DNU)
 *   Zaporizhzhia National University (ZNU)
 *   Ukrainian Catholic University (UCU)
 *   Ukrainian Institute of Cognitive-Behavioral Therapy (CBT Institute)
