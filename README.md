@@ -33,8 +33,6 @@ To support both the adults and the children, our initiative provides a suite of 
 
 **For Children (Providing a New Way to Learn):** Our **[Kotya Motya](https://kotamota.com)** platform offers a universe of unique, therapeutic games. These are not typical educational apps. They are designed to work *with* a child's vulnerable emotional state, rebuilding their confidence and capacity to learn through positive, non-stressful interactions.
 
-This dual approach—empowering the adults while providing a new kind of tool for the children—is how we begin to transform learning from a source of stress into a process of healing.
-
 <img width="504" height="288" alt="image" src="https://github.com/user-attachments/assets/6fea99cf-4ed9-4695-9cbf-1cdd5b627026" />
 <br>
 
