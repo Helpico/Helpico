@@ -55,7 +55,7 @@ This initiative is a networked effort anchored by a robust **Scientific Alliance
 
 **Core Ukrainian & European Partners:**
 *   **Lead Ukrainian Research Partner:** Kryvyi Rih State Pedagogical University (KDPU)
-*   **Lead European Partner:** Czech University of life Sciences Prague (CZU)
+*   **Academic European Partner:** Czech University of life Sciences Prague (CZU)
 *   **Technology & Innovation Partner:** PlayTellect Software Development
 
 **Scientific & Methodological Advisory Board:**
