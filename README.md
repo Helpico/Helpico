@@ -71,9 +71,11 @@ This initiative is built on a model of international scientific collaboration.
 
 We are now seeking a **world-class European research institution** to act as the **Lead Applicant and scientific coordinator** for a major grant proposal (e.g., Erasmus+ KA220, Horizon Europe) to rigorously validate this new model.
 This is more than a social project; it is a **unique scientific opportunity**:
-To conduct a pioneering study in **translational neuroscience and digital therapeutics**.
-To access a unique **"living laboratory"** and dataset on the cognitive and emotional effects of chronic stress on learning.
-To co-author groundbreaking publications that could **redefine how we approach education in crisis zones globally.**
+
+* To conduct a pioneering study in **translational neuroscience and digital therapeutics**.
+* To access a unique **"living laboratory"** and dataset on the cognitive and emotional effects of chronic stress on learning.
+* To co-author groundbreaking publications that could **redefine how we approach education in crisis zones globally.**
+
 By combining your institution's deep scientific expertise with our proven, on-the-ground technological platform, we can generate world-class research and create a tangible, scalable solution to a critical global problem.
 
 ## An Invitation to Partner under a Small-scale Project 
