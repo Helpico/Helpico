@@ -48,10 +48,8 @@ We believe those who need help today cannot wait for years of research. Our init
   <img width="660" height="327" alt="scientific aliance for Learning That Heals Initiative" src="https://github.com/user-attachments/assets/55f07c42-5f33-4ce3-ac18-dfb05628bf3b" />
 </p>
 
-
-## Our Alliance: A Bridge Between Ukrainian Resilience and European Expertise
-
-This initiative is a networked effort anchored by a robust **Scientific Alliance**.
+## Our Proposed Research Alliance
+This initiative is built on a model of international scientific collaboration.
 
 **Core Ukrainian & European Partners:**
 *   **Lead Ukrainian Research Partner:** Kryvyi Rih State Pedagogical University (KDPU)
@@ -69,9 +67,19 @@ This initiative is a networked effort anchored by a robust **Scientific Alliance
   <img width="497" height="284" alt="image" src="https://github.com/user-attachments/assets/38a75af5-e630-41a5-957a-6de07b6c8ec7" />  
 </p>
 
-## An Invitation to Partner with a Ukrainian-Born Global Innovation
+## An Invitation to Lead a Groundbreaking Research Initiative
 
-We now seek a **Lead Cultural or Philanthropic Partner** to help scale this vital mission. This is more than a project; it is an investment in a new, Ukrainian-born methodology with the potential to **redefine how the world supports children's education in crisis.** By combining your institution's leadership with our on-the-ground innovation, we can create a lasting, positive impact for millions.
+We are now seeking a **world-class European research institution** to act as the **Lead Applicant and scientific coordinator** for a major grant proposal (e.g., Erasmus+ KA220, Horizon Europe) to rigorously validate this new model.
+This is more than a social project; it is a **unique scientific opportunity**:
+To conduct a pioneering study in **translational neuroscience and digital therapeutics**.
+To access a unique **"living laboratory"** and dataset on the cognitive and emotional effects of chronic stress on learning.
+To co-author groundbreaking publications that could **redefine how we approach education in crisis zones globally.**
+By combining your institution's deep scientific expertise with our proven, on-the-ground technological platform, we can generate world-class research and create a tangible, scalable solution to a critical global problem.
+
+## An Invitation to Partner under a Small-scale Project 
+
+We also seek a **Lead Cultural or Philanthropic Partner** to help scale this vital mission. This is more than a project; it is an investment in a new, Ukrainian-born methodology with the potential to **redefine how the world supports children's education in crisis.** By combining your institution's leadership with our on-the-ground innovation, we can create a lasting, positive impact for millions.
+
 
 ---
 
@@ -87,10 +95,9 @@ As the initiator of the **"Therapeutic Education for Ukraine"** movement, I buil
 
 ## Key Credentials & Competencies
 
-*   **Leadership & Strategy:** Harvard Fellow (IREX/US Dept. of State); Co-Author of Ukraine’s First Public Broadcasting Law; former government advisor; recipient of the Order for Defense of Ukraine’s Information Sovereignty, Recipient of **U.S. Education Grants (IREX)** for pioneering EdTech solutions.
-
-*   **Innovation & Technology:** Finalist in **EIT Jumpstarter 2025 (HealthTech)**; graduate of the EU’s **Science2Business** program; expertise in AI-driven educational tools (LangChain, RAG) and Trauma-Informed UX.
-
+**Leadership & Strategy:** Harvard Fellow (IREX/US Dept. of State) in **EdTech research methods**; former government advisor; recipient of the Order for Defense of Ukraine’s Information Sovereignty.
+**Scientific Background:** Former researcher at the **Ukrainian Academy of Sciences** in computational linguistics with 14 scholarly articles; graduate of the EU’s **Science2Business** program.
+**Innovation & Technology:** Finalist in **EIT Jumpstarter 2025 (HealthTech)**; expertise in **AI-driven educational tools (LangChain, RAG)** and **Trauma-Informed UX**.
 
 <br><br>
 ## Contact
