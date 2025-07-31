@@ -54,7 +54,7 @@ This initiative is built on a model of international scientific collaboration.
 **Core Ukrainian & European Partners:**
 *   **Lead Ukrainian Research Partner:** Kryvyi Rih State Pedagogical University (KDPU)
 *   **Academic European Partner:** Czech University of life Sciences Prague (CZU)
-*   **Technology & Innovation Partner:** PlayTellect Software Development
+*   **Technology & Innovation Partner:** PlayTellect Software Development (NeuroEdTech)
 
 **Scientific & Methodological Advisory Board:**
 *   National University of "Kyiv-Mohyla Academy" (NaUKMA)
