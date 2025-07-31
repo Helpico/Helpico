@@ -58,11 +58,12 @@ We believe those who need help today cannot wait for years of research. Our init
 2.  **Building a Scalable Model (Long-Term Impact):** We partner with leading universities to conduct rigorous scientific validation, creating an evidence-based model of "Therapeutic Education" that can be adopted nationwide and scaled globally.
 <br><br>
 
+## Our Proposed Research Alliance
+
 <p align="left">
   <img width="660" height="327" alt="scientific aliance for Learning That Heals Initiative" src="https://github.com/user-attachments/assets/55f07c42-5f33-4ce3-ac18-dfb05628bf3b" />
 </p>
 
-## Our Proposed Research Alliance
 This initiative is built on a model of international scientific collaboration.
 
 **Core Ukrainian & European Partners:**
@@ -75,12 +76,13 @@ This initiative is built on a model of international scientific collaboration.
 * **Zaporizhzhia National University** & **Oles Honchar Dnipro National University**: Deep expertise in social pedagogy and the practical context of Ukraine's frontline regions.
 * **Ukrainian Catholic University**, Faculty of Health Sciences: Critical insight into the intersection of health, ethics, and social work.
 * **Ukrainian Institute of Cognitive-Behavioral Therapy (CBT Institute)**: Clinical consultation on world-class, trauma-informed best practices.
+<br><br>
+
+## An Invitation to Lead a Groundbreaking Research Initiative
 
 <p align="left">
   <img width="679" height="453" alt="image" src="https://github.com/user-attachments/assets/c58e8596-056c-4bef-a945-e530097d3620" />
 </p>
-
-## An Invitation to Lead a Groundbreaking Research Initiative
 
 We are now seeking a **world-class European research institution** to act as the **Lead Applicant and scientific coordinator** for a major grant proposal (e.g., Erasmus+ KA220, Horizon Europe) to rigorously validate this new model.
 This is more than a social project; it is a **unique scientific opportunity**:
