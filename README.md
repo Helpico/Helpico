@@ -5,7 +5,7 @@
 <p align="left">
   <img width="418" height="418" alt="image" src="https://github.com/user-attachments/assets/2a4a27c0-133f-4573-90b0-4ea34047874f" />
 </p>
-
+<BR>
 ## A National Emergency Demanding a New Vision
 <p align="left">
   <img width="597" height="398" alt="image" src="https://github.com/user-attachments/assets/261afc26-1432-465f-87eb-58beb76cb334" />
@@ -19,11 +19,13 @@ Ukraine is facing a devastating, dual crisis its teachers and parents have never
 
 These two crises are locked in a destructive cycle: trauma makes learning impossible, and the failure to learn deepens that trauma. This is not an educational gap; it is a national emergency that directly cripples Ukraine's future and is a key driver for families fleeing the country.
 
+<br>
+
+## Our Approach: Building a Future Where Every Child Can Learn Again
+
 <p align="left">
   <img width="497" height="284" alt="image" src="https://github.com/user-attachments/assets/38a75af5-e630-41a5-957a-6de07b6c8ec7" />  
 </p>
-
-## Our Approach: Building a Future Where Every Child Can Learn Again
 
 Our work begins with a fundamental question that millions of Ukrainian families now face: **What can we do when a child wants to learn, but their trauma won't let them?**
 Our answer is a new paradigm we call **Therapeutic Education**. It is built on a simple, powerful truth: for a child in crisis, learning cannot be a battle. It must be a path to healing.
