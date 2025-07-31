@@ -38,7 +38,7 @@ Our answer is a new paradigm we call **Therapeutic Education**. It is built on a
 
 Our approach is twofold:
 
-1. **Empowering the Adults:** We believe that before we can help a child, we must support the adults around them. Our **[Helpica.me](https://helpica.me)** chatbot-course is a first line of defense, providing free, immediate, and practical guidance to teachers and parents. We help them understand the invisible wall of trauma and give them the tools to create environments of empathy and safety, not pressure.
+1. **Empowering the Adults:** We believe that before we can help a child, we must support the adults around them. Our **[Helpica.me](https://helpica.me)** chatbot-course is a first line of defense, providing free, immediate, and practical guidance to teachers and parents. We help them understand that a struggling child is not lazy or incapable, but is facing an invisible, internal wall. 
 
 2. **Healing the Children:** We provide a new kind of learning tool. Our **[Kotya Motya](https://kotamota.com)** platform offers a universe of unique, therapeutic games. These are not typical educational apps. They are carefully designed experiences that transform the stressful act of learning into a gentle, confidence-building process. They are designed to make learning feel safe, achievable, and even joyful again.
 <br>
