@@ -25,7 +25,7 @@ These two crises are locked in a destructive cycle: trauma makes learning imposs
 
 Our work begins by asking a fundamental question that millions of Ukrainian families now face: **What can we do when a child wants to learn, but their trauma won't let them?**
 
-Our answer is a new paradigm we call **Therapeutic Education**. It is built on a simple truth: before we can help a child, we must first change the environment around them. Therefore, our primary mission is to **raise awareness among teachers, parents, and policymakers**, helping them understand that a struggling child is not lazy or incapable, but is facing an invisible, internal wall.
+Our answer is a new paradigm we call **Therapeutic Education**. Оur primary mission is to **raise awareness among teachers, parents, and policymakers**, helping them understand that a struggling child is not lazy or incapable, but is facing an invisible, internal wall.
 
 To support both the adults and the children, our initiative provides a suite of practical, science-backed digital tools:
 
