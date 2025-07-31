@@ -7,6 +7,10 @@
 </p>
 
 ## A National Emergency Demanding a New Vision
+<p align="left">
+  <img width="597" height="398" alt="image" src="https://github.com/user-attachments/assets/261afc26-1432-465f-87eb-58beb76cb334" />
+</p>
+
 Ukraine is facing a devastating, dual crisis its teachers and parents have never encountered on this scale:
 
 > **Mental Health is Shattered:** Up to 75% of our children show signs of war-related trauma (UNICEF).
@@ -16,7 +20,7 @@ Ukraine is facing a devastating, dual crisis its teachers and parents have never
 These two crises are locked in a destructive cycle: trauma makes learning impossible, and the failure to learn deepens that trauma. This is not an educational gap; it is a national emergency that directly cripples Ukraine's future and is a key driver for families fleeing the country.
 
 <p align="left">
-  <img width="597" height="398" alt="image" src="https://github.com/user-attachments/assets/261afc26-1432-465f-87eb-58beb76cb334" />
+  <img width="497" height="284" alt="image" src="https://github.com/user-attachments/assets/38a75af5-e630-41a5-957a-6de07b6c8ec7" />  
 </p>
 
 ## Our Approach: Building a Future Where Every Child Can Learn Again
@@ -77,10 +81,6 @@ This is more than a social project; it is a **unique scientific opportunity**:
 * To co-author groundbreaking publications that could **redefine how we approach education in crisis zones globally.**
 
 By combining your institution's deep scientific expertise with our proven, on-the-ground technological platform, we can generate world-class research and create a tangible, scalable solution to a critical global problem.
-
-<p align="left">
-  <img width="497" height="284" alt="image" src="https://github.com/user-attachments/assets/38a75af5-e630-41a5-957a-6de07b6c8ec7" />  
-</p>
 
 ## An Invitation to Partner under a Small-scale Project 
 
