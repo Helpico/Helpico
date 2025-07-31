@@ -36,8 +36,6 @@ Our work begins with a fundamental question that millions of Ukrainian families 
 
 Our answer is a new paradigm we call **Therapeutic Education**. It is built on a simple, powerful truth: for a child in crisis, learning cannot be a battle. It must be a path to healing.
 
-This is more than an educational project; it is our fight for the resilience of our nation and its future — our children. We are not waiting for the war to end to begin rebuilding. We are paving the way for Ukraine's educational and mental health recovery **today**, by creating a new standard of care and support.
-
 Our approach is twofold:
 
 1. **Empowering the Adults:** We believe that before we can help a child, we must support the adults around them. Our **[Helpica.me](https://helpica.me)** chatbot-course is a first line of defense, providing free, immediate, and practical guidance to teachers and parents. We help them understand the invisible wall of trauma and give them the tools to create environments of empathy and safety, not pressure.
@@ -56,6 +54,7 @@ Through this work, we are doing more than teaching subjects. We are restoring a 
 We believe those who need help today cannot wait for years of research. Our initiative operates on a unique dual track:
 
 1.  **Helping While We Research (Immediate Impact):** We provide a publicly accessible digital platform that is continuously updated with real-time insights and best practices from our work, delivering tangible help from day one.
+
 2.  **Building a Scalable Model (Long-Term Impact):** We partner with leading universities to conduct rigorous scientific validation, creating an evidence-based model of "Therapeutic Education" that can be adopted nationwide and scaled globally.
 <br><br>
 
@@ -107,7 +106,9 @@ We also seek a **Lead Cultural or Philanthropic Partner** to help scale this vit
 
 ## ${\color{#EB578C}\text{Social Innovator • EdTech Architect • Civic Researcher}{\text{}}}$
 
-As the initiator of the **"Therapeutic Education for Ukraine"** movement, I build coalitions to transform the learning process into a tool for recovery. My work combines over 20 years of experience across public policy, research, and software development to architect the practical, digital-first solutions needed to make this vision a reality.
+As the initiator of the **"Therapeutic Education for Ukraine"** movement, I am building coalitions to transform the learning process into a tool for recovery. This is more than an educational project; it is my fight for the resilience of our nation and its future — our children. 
+
+My work combines over 20 years of experience across public policy, research, and software development to architect the practical, digital-first solutions needed to make this vision a reality.
 
 ## Key Credentials & Competencies
 
