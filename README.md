@@ -80,10 +80,6 @@ This initiative is built on a model of international scientific collaboration.
 
 ## An Invitation to Lead a Groundbreaking Research Initiative
 
-<p align="left">
-  <img width="679" height="453" alt="image" src="https://github.com/user-attachments/assets/c58e8596-056c-4bef-a945-e530097d3620" />
-</p>
-
 We are now seeking a **world-class European research institution** to act as the **Lead Applicant and scientific coordinator** for a major grant proposal (e.g., Erasmus+ KA220, Horizon Europe) to rigorously validate this new model.
 This is more than a social project; it is a **unique scientific opportunity**:
 
@@ -92,6 +88,11 @@ This is more than a social project; it is a **unique scientific opportunity**:
 * To co-author groundbreaking publications that could **redefine how we approach education in crisis zones globally.**
 
 By combining your institution's deep scientific expertise with our proven, on-the-ground technological platform, we can generate world-class research and create a tangible, scalable solution to a critical global problem.
+
+<p align="left">
+  <img width="679" height="453" alt="image" src="https://github.com/user-attachments/assets/c58e8596-056c-4bef-a945-e530097d3620" />
+</p>
+
 
 ## An Invitation to Partner Small-scale
 
