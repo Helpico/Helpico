@@ -33,9 +33,10 @@ These two crises are locked in a destructive cycle: trauma makes learning imposs
 </p>
 
 Our work begins with a fundamental question that millions of Ukrainian families now face: **What can we do when a child wants to learn, but their trauma won't let them?**
+
 Our answer is a new paradigm we call **Therapeutic Education**. It is built on a simple, powerful truth: for a child in crisis, learning cannot be a battle. It must be a path to healing.
 
-This is more than an educational project; it is our fight for the resilience of our nation and its future—our children. We are not waiting for the war to end to begin rebuilding. We are paving the way for Ukraine's educational and mental health recovery **today**, by creating a new standard of care and support.
+This is more than an educational project; it is our fight for the resilience of our nation and its future — our children. We are not waiting for the war to end to begin rebuilding. We are paving the way for Ukraine's educational and mental health recovery **today**, by creating a new standard of care and support.
 
 Our approach is twofold:
 
