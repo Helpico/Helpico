@@ -57,11 +57,10 @@ This initiative is built on a model of international scientific collaboration.
 *   **Technology & Innovation Partner:** PlayTellect Software Development (NeuroEdTech)
 
 **Scientific & Methodological Advisory Board:**
-*   National University of "Kyiv-Mohyla Academy" (NaUKMA)
-*   Dnipro National University (DNU)
-*   Zaporizhzhia National University (ZNU)
-*   Ukrainian Catholic University (UCU)
-*   Ukrainian Institute of Cognitive-Behavioral Therapy (CBT)
+* **National University of "Kyiv-Mohyla Academy":** Expertise in the fundamental psychology of learning and game-based interventions.
+* **Zaporizhzhia National University** & **Oles Honchar Dnipro National University**: Deep expertise in social pedagogy and the practical context of Ukraine's frontline regions.
+* **Ukrainian Catholic University**, Faculty of Health Sciences: Critical insight into the intersection of health, ethics, and social work.
+* **Ukrainian Institute of Cognitive-Behavioral Therapy (CBT Institute)**: Clinical consultation on world-class, trauma-informed best practices.
 
 <p align="left">
   <img width="679" height="453" alt="image" src="https://github.com/user-attachments/assets/c58e8596-056c-4bef-a945-e530097d3620" />
