@@ -3,6 +3,7 @@
 
 <img width="780" height="439" alt="image" src="https://github.com/user-attachments/assets/9feab4e5-a3c5-435d-bd65-665eccf53391" />
 <br><br>
+
 # Therapeutic Education for Ukraine
 ### Using Science and Technology to Turn Learning into Recovery
 
@@ -130,4 +131,6 @@ My work combines over 20 years of experience across public policy, research, and
 *   **Email:** maksymdudyk@gmail.com
 *   **LinkedIn:** [linkedin.com/in/maksym-dudyk-follow-up](https://linkedin.com/in/maksym-dudyk-follow-up)
 *   **Sites:** [therapeutic.education](https://therapeutic.education) • [Kotya Motya](https://kotamota.com) • [helpica.me](https://helpica.me)
+*   **Kyiv, Ukraine**
 *   **CV:** Available Upon Request
+*
