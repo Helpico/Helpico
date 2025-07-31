@@ -91,7 +91,7 @@ This is more than a social project; it is a **unique scientific opportunity**:
 
 By combining your institution's deep scientific expertise with our proven, on-the-ground technological platform, we can generate world-class research and create a tangible, scalable solution to a critical global problem.
 
-## An Invitation to Partner under a Small-scale Project 
+## An Invitation to Partner Small-scale
 
 We also seek a **Lead Cultural or Philanthropic Partner** to help scale this vital mission. This is more than a project; it is an investment in a new, Ukrainian-born methodology with the potential to **redefine how the world supports children's education in crisis.** By combining your institution's leadership with our on-the-ground innovation, we can create a lasting, positive impact for millions.
 
