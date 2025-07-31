@@ -19,19 +19,19 @@ These two crises are locked in a destructive cycle: trauma makes learning imposs
   <img width="597" height="398" alt="image" src="https://github.com/user-attachments/assets/261afc26-1432-465f-87eb-58beb76cb334" />
 </p>
 
+## Our Approach: Building a Future Where Every Child Can Learn Again
 
+Our work begins with a fundamental question that millions of Ukrainian families now face: **What can we do when a child wants to learn, but their trauma won't let them?**
+Our answer is a new paradigm we call **Therapeutic Education**. It is built on a simple, powerful truth: for a child in crisis, learning cannot be a battle. It must be a path to healing.
 
-## Our Approach: Building the Future of Education in Crisis
+This is more than an educational project; it is our fight for the resilience of our nation and its future—our children. We are not waiting for the war to end to begin rebuilding. We are paving the way for Ukraine's educational and mental health recovery **today**, by creating a new standard of care and support.
 
-Our work begins by asking a fundamental question that millions of Ukrainian families now face: **What can we do when a child wants to learn, but their trauma won't let them?**
+Our approach is twofold:
 
-Our answer is a new paradigm we call **Therapeutic Education**. Оur primary mission is to **raise awareness among teachers, parents, and policymakers**, helping them understand that a struggling child is not lazy or incapable, but is facing an invisible, internal wall.
+1. **Empowering the Adults:** We believe that before we can help a child, we must support the adults around them. Our **[Helpica.me](https://helpica.me)** chatbot-course is a first line of defense, providing free, immediate, and practical guidance to teachers and parents. We help them understand the invisible wall of trauma and give them the tools to create environments of empathy and safety, not pressure.
 
-To support both the adults and the children, our initiative provides a suite of practical, science-backed digital tools:
-
-**For Adults (Raising Awareness):** Our **[Helpica.me](https://helpica.me)** chatbot-course provides the immediate, trauma-informed guidance that empowers adults to reduce pressure and create emotionally safe learning environments.
-
-**For Children (Providing a New Way to Learn):** Our **[Kotya Motya](https://kotamota.com)** platform offers a universe of unique, therapeutic games. These are not typical educational apps. They are designed to work *with* a child's vulnerable emotional state, rebuilding their confidence and capacity to learn through positive, non-stressful interactions.
+2. **Healing the Children:** We provide a new kind of learning tool. Our **[Kotya Motya](https://kotamota.com)** platform offers a universe of unique, therapeutic games. These are not typical educational apps. They are carefully designed experiences that transform the stressful act of learning into a gentle, confidence-building process. They are designed to make learning feel safe, achievable, and even joyful again.
+Through this work, we are doing more than teaching subjects. We are restoring a child's belief in themselves. We are turning classrooms and homes from places of potential conflict into spaces of recovery. Every lesson transformed is a small victory against the darkness of trauma, a small step toward a resilient and hopeful future for Ukraine.
 
 <img width="504" height="288" alt="image" src="https://github.com/user-attachments/assets/6fea99cf-4ed9-4695-9cbf-1cdd5b627026" />
 <br>
