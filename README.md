@@ -61,7 +61,7 @@ This initiative is built on a model of international scientific collaboration.
 *   Dnipro National University (DNU)
 *   Zaporizhzhia National University (ZNU)
 *   Ukrainian Catholic University (UCU)
-*   Ukrainian Institute of Cognitive-Behavioral Therapy (CBT Institute)
+*   Ukrainian Institute of Cognitive-Behavioral Therapy (CBT)
 
 <p align="left">
   <img width="679" height="453" alt="image" src="https://github.com/user-attachments/assets/c58e8596-056c-4bef-a945-e530097d3620" />
