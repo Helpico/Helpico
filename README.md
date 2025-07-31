@@ -1,3 +1,8 @@
+
+## On July 31, 2025 Russian missile, drone attacks on Kyiv kill at least 13 people and wound more than 130
+
+<img width="780" height="439" alt="image" src="https://github.com/user-attachments/assets/9feab4e5-a3c5-435d-bd65-665eccf53391" />
+<br><br>
 # Therapeutic Education for Ukraine
 ### Using Science and Technology to Turn Learning into Recovery
 
