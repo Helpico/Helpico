@@ -64,7 +64,7 @@ This initiative is built on a model of international scientific collaboration.
 *   Ukrainian Institute of Cognitive-Behavioral Therapy (CBT Institute)
 
 <p align="left">
-  <img width="497" height="284" alt="image" src="https://github.com/user-attachments/assets/38a75af5-e630-41a5-957a-6de07b6c8ec7" />  
+  <img width="679" height="453" alt="image" src="https://github.com/user-attachments/assets/c58e8596-056c-4bef-a945-e530097d3620" />
 </p>
 
 ## An Invitation to Lead a Groundbreaking Research Initiative
@@ -77,6 +77,10 @@ This is more than a social project; it is a **unique scientific opportunity**:
 * To co-author groundbreaking publications that could **redefine how we approach education in crisis zones globally.**
 
 By combining your institution's deep scientific expertise with our proven, on-the-ground technological platform, we can generate world-class research and create a tangible, scalable solution to a critical global problem.
+
+<p align="left">
+  <img width="497" height="284" alt="image" src="https://github.com/user-attachments/assets/38a75af5-e630-41a5-957a-6de07b6c8ec7" />  
+</p>
 
 ## An Invitation to Partner under a Small-scale Project 
 
