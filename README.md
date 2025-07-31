@@ -1,5 +1,5 @@
 
-## On July 31, 2025 Russian missile, drone attacks on Kyiv kill at least 13 people and wound more than 130
+## On July 31, 2025 Russian missile, drone attacks on Kyiv kill at least 13 people and wound more than 135, among them - 14 children.
 
 <img width="780" height="439" alt="image" src="https://github.com/user-attachments/assets/9feab4e5-a3c5-435d-bd65-665eccf53391" />
 <br><br>
