@@ -127,7 +127,8 @@ My work combines over 20 years of experience across public policy, research, and
 *   **Sites:** [therapeutic.education](https://therapeutic.education) • [Kotya Motya](https://kotamota.com) • [helpica.me](https://helpica.me)
 *   **Kyiv, Ukraine**
 *   **CV:** Available Upon Request
-*
+
+<br><br><br>
 
 ## On July 31, 2025 Russian missile, drone attacks on Kyiv kill at least 13 people and wound more than 135, among them - 14 children.
 
