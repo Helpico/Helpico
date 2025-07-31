@@ -40,7 +40,7 @@ Our approach is twofold:
 2. **Healing the Children:** We provide a new kind of learning tool. Our **[Kotya Motya](https://kotamota.com)** platform offers a universe of unique, therapeutic games. These are not typical educational apps. They are carefully designed experiences that transform the stressful act of learning into a gentle, confidence-building process. They are designed to make learning feel safe, achievable, and even joyful again.
 <br>
 <img width="504" height="288" alt="image" src="https://github.com/user-attachments/assets/6fea99cf-4ed9-4695-9cbf-1cdd5b627026" />
-<br>
+<br><br>
    
 Through this work, we are doing more than teaching subjects. We are restoring a child's belief in themselves. We are turning classrooms and homes from places of potential conflict into spaces of recovery. Every lesson transformed is a small victory against the darkness of trauma, a small step toward a resilient and hopeful future for Ukraine.
 
