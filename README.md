@@ -5,8 +5,9 @@
 <p align="left">
   <img width="418" height="418" alt="image" src="https://github.com/user-attachments/assets/2a4a27c0-133f-4573-90b0-4ea34047874f" />
 </p>
-<BR>
+
 ## A National Emergency Demanding a New Vision
+
 <p align="left">
   <img width="597" height="398" alt="image" src="https://github.com/user-attachments/assets/261afc26-1432-465f-87eb-58beb76cb334" />
 </p>
