@@ -45,7 +45,7 @@ Our approach is twofold:
 <img width="504" height="288" alt="image" src="https://github.com/user-attachments/assets/6fea99cf-4ed9-4695-9cbf-1cdd5b627026" />
 <br><br>
    
-Through this work, we are doing more than teaching subjects. We are restoring a child's belief in themselves. We are turning classrooms and homes from places of potential conflict into spaces of recovery. Every lesson transformed is a small victory against the darkness of trauma, a small step toward a resilient and hopeful future for Ukraine.
+Through this work, we are restoring a child's belief in themselves. We are turning classrooms and homes from places of potential conflict into spaces of cognitive & emotional recovery. Every lesson transformed is a small victory against the darkness of trauma, a small step toward a resilient and hopeful future for Ukraine.  
 
 <br>
 
