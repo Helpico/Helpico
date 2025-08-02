@@ -136,3 +136,5 @@ My work combines over 20 years of experience across public policy, research, and
 <br><br>
 
 [![Russia struck Kharkiv. More than 40 injured, including two infants #shorts #news #children](https://img.youtube.com/vi/2/0.jpg)](http://www.youtube.com/watch?v=Nprx9aKG9gg)
+
+[![Russia struck Kharkiv. More than 40 injured, including two infants #shorts #news #children](http://googleusercontent.com/youtube.com/5)](http://www.youtube.com/watch?v=Nprx9aKG9gg)
