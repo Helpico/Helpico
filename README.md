@@ -135,8 +135,4 @@ My work combines over 20 years of experience across public policy, research, and
 <img width="780" height="439" alt="image" src="https://github.com/user-attachments/assets/9feab4e5-a3c5-435d-bd65-665eccf53391" />
 <br><br>
 
-No problem, here's the English version of the markdown for the video:
 
-```markdown
-[![Russia struck Kharkiv. More than 40 injured, including two infants #shorts #news #children](https://img.youtube.com/vi/2/0.jpg)](http://www.youtube.com/watch?v=Nprx9aKG9gg)
-```
