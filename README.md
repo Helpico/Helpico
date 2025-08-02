@@ -130,7 +130,7 @@ My work combines over 20 years of experience across public policy, research, and
 
 <br><br><br>
 
-## On July 31, 2025 Russian missile, drone attacks on Kyiv kill at least 19 people (6 children) and wound 139 (14 children).
+## On July 31, 2025 Russian missile, drone attacks on Kyiv kill at least 36 people (5 children) and wound 139 (14 children).
 
 <img width="780" height="439" alt="image" src="https://github.com/user-attachments/assets/9feab4e5-a3c5-435d-bd65-665eccf53391" />
 <br><br>
