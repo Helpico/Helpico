@@ -111,7 +111,7 @@ We also seek a **Lead Cultural or Philanthropic Partner** to help scale this vit
 
 As the initiator of the **"Therapeutic Education for Ukraine"** movement, I am building coalitions to transform the learning process into a tool for recovery. This is more than an educational project; it is my fight for the resilience of our nation and its future — our children. 
 
-My work combines over 20 years of experience across public policy, research, and software development to architect the practical, digital-first solutions needed to make this vision a reality.
+My work combines over 20 years of experience across public policy, research, teaching and software development to architect the practical, digital-first solutions needed to make this vision a reality.
 
 ## Key Credentials & Competencies
 
