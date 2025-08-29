@@ -128,6 +128,15 @@ My work combines over 20 years of experience across public policy, research, tea
 *   **Kyiv, Ukraine**
 *   **CV:** Available Upon Request
 
+
+
+
+
+<br><br><br>
+## On August 27, 2025 Death toll in Kyiv rises to 16, including four children, rubble removal continues – [photos, video](https://www.pravda.com.ua/eng/news/2025/08/28/7528165/)
+
+<img width="690" height="459" alt="image" src="https://github.com/user-attachments/assets/f9aef291-602e-4991-9b81-9bbbd17ea108" />
+
 <br><br><br>
 
 ## On July 31, 2025 Russian missile, drone attacks on Kyiv kill at least 36 people (5 children) and wound 139 (14 children).
