@@ -125,7 +125,7 @@ My work combines over 20 years of experience across public policy, research, tea
 *   **Email:** maksymdudyk@gmail.com
 *   **LinkedIn:** [linkedin.com/in/maksym-dudyk-follow-up](https://linkedin.com/in/maksym-dudyk-follow-up)
 *   **Sites:** [therapeutic.education](https://therapeutic.education) • [Kotya Motya](https://kotamota.com) • [helpica.me](https://helpica.me)
-*   **Direct contact:** [Contact from](https://helious.pro)
+*   **Direct contact:** [Contact form](https://helious.pro)
 *   **CV:** Available Upon Request
 
 
