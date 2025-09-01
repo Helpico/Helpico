@@ -53,7 +53,7 @@ Through this work, we are restoring a child's belief in themselves. We are turni
 
 We believe those who need help today cannot wait for years of research. Our initiative operates on a unique dual track:
 
-1.  **Helping While We Research (Immediate Impact):** We provide a publicly accessible [digital platform](https://languageintellect.com) that is continuously updated with real-time insights and best practices from our work, delivering tangible help from day one.
+1.  **Helping While We Research (Immediate Impact):** We provide a publicly accessible digital platform that is continuously updated with real-time insights and best practices from our work, delivering tangible help from day one.
 
 2.  **Building a Scalable Model (Long-Term Impact):** We partner with leading universities to conduct rigorous scientific validation, creating an evidence-based model of "Therapeutic Education" that can be adopted nationwide and scaled globally.
 <br><br>
@@ -123,7 +123,7 @@ My work combines over 20 years of experience across public policy, research, tea
 
 - **Technology & Product Development:** Full-stack developer (JavaScript, TypeScript, Node.js, React, PostgreSQL, Docker, Linux servers); expertise in AI-driven educational platforms (LangChain, RAG, pgvector) and adaptive learning design.  
 
-- **Social Impact:** Recognized advocate for trauma-informed and therapeutic education for children in war-affected Ukraine; pioneered innovative teaching methods and digital platforms to strengthen Ukrainian language, cultural identity, and emotional resilience among young learners.
+- **Social Impact:** Recognized advocate for trauma-informed and therapeutic education for children in war-affected Ukraine; pioneered innovative teaching methods and [digital platforms](https://languageintellect.com) to strengthen Ukrainian language, cultural identity, and emotional resilience among young learners.
 
 <br><br>
 ## Contact
