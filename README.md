@@ -123,7 +123,7 @@ My work combines over 20 years of experience across public policy, research, tea
 
 - **Technology & Product Development:** Full-stack developer (JavaScript, TypeScript, Node.js, React, PostgreSQL, Docker, Linux servers); expertise in AI-driven educational platforms (LangChain, RAG, pgvector) and adaptive learning design.  
 
-- **Social Impact:** Recognised advocate for trauma-informed and therapeutic education for children in war-affected Ukraine.  
+- **Social Impact:** Recognized advocate for trauma-informed and therapeutic education for children in war-affected Ukraine; pioneered innovative teaching methods and digital platforms to strengthen Ukrainian language, cultural identity, and emotional resilience among young learners.
 
 <br><br>
 ## Contact
