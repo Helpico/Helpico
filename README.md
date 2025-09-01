@@ -113,11 +113,17 @@ As the initiator of the **"Therapeutic Education for Ukraine"** movement, I am b
 
 My work combines over 20 years of experience across public policy, research, teaching and software development to architect the practical, digital-first solutions needed to make this vision a reality.
 
-## Key Credentials & Competencies
+## Key Credentials & Competencies  
 
-**Leadership & Strategy:** Harvard Fellow (IREX/US Dept. of State) in **EdTech research methods**; former government advisor; recipient of the Order for Defense of Ukraine’s Information Sovereignty.
-**Scientific Background:** Former researcher at the **Ukrainian Academy of Sciences** in computational linguistics with 14 scholarly articles; graduate of the EU’s **Science2Business** program.
-**Innovation & Technology:** Semi-Finalist in **EIT Jumpstarter 2025 (HealthTech)**; expertise in **AI-driven educational tools (LangChain, RAG)** and **Trauma-Informed UX**. Kyiv, Ukraine.
+- **Leadership & Strategy:** Harvard Fellow (IREX/US Dept. of State) in EdTech research methods; two-time U.S. Department of State grantee for educational innovation and national identity projects; former government advisor; recipient of the Order for Defense of Ukraine’s Information Sovereignty.  
+
+- **Scientific Background:** Former researcher at the Ukrainian Academy of Sciences in computational linguistics (14 scholarly articles); graduate of the EU’s Science2Business program.  
+
+- **Innovation & Recognition:** Semi-Finalist in EIT Jumpstarter 2025 (HealthTech, Rebuild Ukraine); selected as a New Entrepreneur in the EU’s Erasmus for Young Entrepreneurs program with mentorship prospects in Europe.  
+
+- **Technology & Product Development:** Full-stack developer (JavaScript, TypeScript, Node.js, React, PostgreSQL, Docker, Linux servers); expertise in AI-driven educational platforms (LangChain, RAG, pgvector) and adaptive learning design.  
+
+- **Social Impact:** Recognised advocate for trauma-informed and therapeutic education for children in war-affected Ukraine.  
 
 <br><br>
 ## Contact
