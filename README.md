@@ -117,7 +117,7 @@ My work combines over 20 years of experience across public policy, research, tea
 
 **Leadership & Strategy:** Harvard Fellow (IREX/US Dept. of State) in **EdTech research methods**; former government advisor; recipient of the Order for Defense of Ukraine’s Information Sovereignty.
 **Scientific Background:** Former researcher at the **Ukrainian Academy of Sciences** in computational linguistics with 14 scholarly articles; graduate of the EU’s **Science2Business** program.
-**Innovation & Technology:** Finalist in **EIT Jumpstarter 2025 (HealthTech)**; expertise in **AI-driven educational tools (LangChain, RAG)** and **Trauma-Informed UX**. Kyiv, Ukraine.
+**Innovation & Technology:** Semi-Finalist in **EIT Jumpstarter 2025 (HealthTech)**; expertise in **AI-driven educational tools (LangChain, RAG)** and **Trauma-Informed UX**. Kyiv, Ukraine.
 
 <br><br>
 ## Contact
