@@ -115,7 +115,7 @@ My work combines over 20 years of experience across public policy, research, tea
 
 ## Key Credentials & Competencies  
 
-- **Leadership & Strategy:** Harvard Fellow (IREX/US Dept. of State) in EdTech research methods; two-time U.S. Department of State grantee for educational innovation and national identity projects; former government advisor; recipient of the Order for Defense of Ukraine’s Information Sovereignty.  
+- **Leadership & Strategy:** Harvard Fellow (IREX/US Dept. of State) in EdTech research methods; two-time U.S. Department of State grantee for educational innovation and national identity projects; former public policy advisor; recipient of the Order for Defense of Ukraine’s Information Sovereignty.  
 
 - **Scientific Background:** Former researcher at the Ukrainian Academy of Sciences in computational linguistics (14 scholarly articles); graduate of the EU’s Science2Business program.  
 
