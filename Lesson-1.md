@@ -179,3 +179,6 @@ Our success is measured not in products built, but in children who stay engaged 
 The lean approach ensures we build only what demonstrably helps children, iterate quickly when approaches don't work, and scale only validated interventions that truly prevent mental health deterioration through educational support.
 
 **Core Principle**: In children's mental health, we cannot afford to build the wrong thing. Lean methodology ensures we discover the right interventions through systematic validation with the children we serve.
+
+
+---
