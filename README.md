@@ -119,7 +119,7 @@ My work combines over 20 years of experience across public policy, research, tea
 
 - **Scientific Background:** Former researcher at the Ukrainian Academy of Sciences in computational linguistics (14 scholarly articles); graduate of the EU’s Science2Business program.  
 
-- **Innovation & Recognition:** Semi-Finalist in **EIT Jumpstarter 2025** (HealthTech, Rebuild Ukraine), a competitive EU program led by the **European Institute of Innovation & Technology (EIT)** supporting early-stage startups across Europe; also selected as a New Entrepreneur in the EU’s **Erasmus for Young Entrepreneurs** program with mentorship prospects in the EU.  
+- **Innovation & Recognition:** Finalist in **EIT Jumpstarter 2025** (HealthTech, Rebuild Ukraine), a competitive EU program led by the **European Institute of Innovation & Technology (EIT)** supporting early-stage startups across Europe; also selected as a New Entrepreneur in the EU’s **Erasmus for Young Entrepreneurs** program with mentorship prospects in the EU.  
 
 - **Technology & Product Development:** Full-stack developer (JavaScript, TypeScript, Node.js, React, PostgreSQL, Docker, Linux servers); expertise in AI-driven educational platforms (LangChain, RAG, pgvector) and adaptive learning design.  
 
