@@ -34,13 +34,11 @@ These two crises are locked in a destructive cycle: trauma makes learning imposs
 
 Our work begins with a fundamental question that millions of Ukrainian families now face: **What can we do when a child wants to learn, but their trauma won't let them?**
 
-Our answer is a new paradigm we call **Therapeutic Education**. It is built on a simple, powerful truth: for a child in crisis, learning cannot be a battle. It must be a path to healing.
+Our answer is a new paradigm we call **Therapeutic Education**. It is built on a simple, powerful truth: for a child in crisis, learning cannot be a battle. It must be a path to healing. 
 
-Our approach is twofold:
+Our approach comes from understanding that a struggling child is not lazy or incapable to study at school, but is facing an invisible, internal wall. 
 
-1. **Empowering the Adults:** We believe that before we can help a child, we must support the adults around them. Our **[Helpica.me](https://helpica.me)** chatbot-course is a first line of defense, providing free, immediate, and practical guidance to teachers and parents. We help them understand that a struggling child is not lazy or incapable to study at school, but is facing an invisible, internal wall. 
-
-2. **Healing the Children:** We provide a new kind of learning tool. Our **[Kotya Motya](https://kotamota.com)** platform offers a universe of unique, therapeutic micro-games tied to their school home assignments of initially the Ukrainian and English languages. They are carefully designed to make the stressful act of learning a gentle, confidence-building experience. They are made to make learning feel safe, achievable, and even joyful again.
+**Healing the Children:** We provide a new kind of learning tools. Our **[Helpica.me](https://helpica.me)** chatbot-companion is a first line of defense** and [Kotya Motya](https://kotamota.com)** platform offers a universe of unique, therapeutic micro-games tied to their school home assignments of initially the Ukrainian and English languages. They are carefully designed to make the stressful act of learning a gentle, confidence-building experience. They are made to make learning feel safe, achievable, and even joyful again.
 <br>
 <img width="504" height="288" alt="image" src="https://github.com/user-attachments/assets/6fea99cf-4ed9-4695-9cbf-1cdd5b627026" />
 <br><br>
@@ -69,7 +67,7 @@ This initiative is built on a model of international scientific collaboration.
 **Core Ukrainian & European Partners:**
 *   **Lead Ukrainian Research Partner:** Kryvyi Rih State Pedagogical University (KDPU)
 *   **Academic European Partner:** Czech University of life Sciences Prague (CZU)
-*   **Technology & Innovation Partner:** PlayTellect Software Development (NeuroEdTech)
+*   **Technology & Innovation Partner:** PlayTellect Software Development (Applied NeuroEdTech)
 
 **Scientific & Methodological Advisory Board:**
 * **National University of "Kyiv-Mohyla Academy":** Expertise in the fundamental psychology of learning and game-based interventions.
