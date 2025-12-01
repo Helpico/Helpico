@@ -1,4 +1,4 @@
-# Therapeutic Education for Ukraine
+# Therapeutic Education for Stressed and Neurodivergent Children
 ### Using Science and Technology to Turn Learning into Recovery
 
 <br>
