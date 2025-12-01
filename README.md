@@ -38,7 +38,7 @@ Our answer is a new paradigm we call **Therapeutic Education**. It is built on a
 
 Our approach comes from understanding that a struggling child is not lazy or incapable to study at school, but is facing an invisible, internal wall. 
 
-**Healing the Children:** We provide a new kind of learning tools. Our **[Helpica.me](https://helpica.me)** chatbot-companion is a first line of defense** and [Kotya Motya](https://kotamota.com)** platform offers a universe of unique, therapeutic micro-games tied to their school home assignments of initially the Ukrainian and English languages. They are carefully designed to make the stressful act of learning a gentle, confidence-building experience. They are made to make learning feel safe, achievable, and even joyful again.
+**Healing the Children:** We provide a new kind of learning tools. Our **[Helpica.me](https://helpica.me)** chatbot-companion is a first line of defense** and **[Motya The Cat](https://mova.tilda.ws)** platform offers a universe of unique, therapeutic micro-games tied to their school home assignments of initially the Ukrainian and English languages. They are carefully designed to make the stressful act of learning a gentle, confidence-building experience. They are made to make learning feel safe, achievable, and even joyful again.
 <br>
 <img width="504" height="288" alt="image" src="https://github.com/user-attachments/assets/6fea99cf-4ed9-4695-9cbf-1cdd5b627026" />
 <br><br>
