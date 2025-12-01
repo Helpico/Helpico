@@ -109,6 +109,8 @@ We also seek a **Lead Cultural or Philanthropic Partner** to help scale this vit
 
 As the initiator of the **"Therapeutic Education"** movement, I am building coalitions to transform the learning process into a tool for recovery. This is more than an educational project; it is my fight for the resilience of our nation and its future — our children. 
 
+Now I am building a for-profit EU-based technology venture to generate revenue that will support our non-profit arm, the Helpica Initiative, providing the platform for free to children in crisis in Ukraine. 
+
 My work combines over 20 years of experience across public policy, research, teaching and software development to architect the practical, digital-first solutions needed to make this vision a reality.
 
 ## Key Credentials & Competencies  
