@@ -1,5 +1,5 @@
-### Therapeutic Education for Stressed and Neurodivergent Children
-### Using Science and Technology to Turn Learning into Recovery
+# Therapeutic Education
+### Using Science and Technology to Turn Learning into Recovery for Stressed and Neurodivergent Children
 
 <br>
 <p align="left">
