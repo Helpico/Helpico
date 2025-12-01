@@ -43,7 +43,7 @@ Our approach comes from understanding that a struggling child is not lazy or inc
 <img width="504" height="288" alt="image" src="https://github.com/user-attachments/assets/6fea99cf-4ed9-4695-9cbf-1cdd5b627026" />
 <br><br>
    
-Through this work, we are restoring a child's belief in themselves. We are turning classrooms and homes from places of potential conflict into spaces of cognitive & emotional recovery. Every lesson transformed is a small victory against the darkness of trauma, a small step toward a resilient and hopeful future for Ukraine.  
+Through this work, we are restoring a child's belief in themselves. We are turning classrooms and homes from places of potential conflict into spaces of cognitive & emotional recovery. Every lesson transformed is a small victory against the darkness of trauma, a small step toward a resilient and hopeful future for vulnerable and underserved children.  
 
 <br>
 
@@ -107,7 +107,7 @@ We also seek a **Lead Cultural or Philanthropic Partner** to help scale this vit
 
 ## ${\color{#EB578C}\text{Social Innovator • EdTech Architect • Civic Researcher}{\text{}}}$
 
-As the initiator of the **"Therapeutic Education for Ukraine"** movement, I am building coalitions to transform the learning process into a tool for recovery. This is more than an educational project; it is my fight for the resilience of our nation and its future — our children. 
+As the initiator of the **"Therapeutic Education"** movement, I am building coalitions to transform the learning process into a tool for recovery. This is more than an educational project; it is my fight for the resilience of our nation and its future — our children. 
 
 My work combines over 20 years of experience across public policy, research, teaching and software development to architect the practical, digital-first solutions needed to make this vision a reality.
 
