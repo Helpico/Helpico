@@ -133,7 +133,7 @@ My work combines over 20 years of experience across public policy, research, tea
 *   **CV:** Available Upon Request
 
 <br><br><br>
-## On November 19, 2025 Children among 26 killed in one of Russia's deadliest strikes on western Ukraine - [photos, vide] (https://www.bbc.com/news/articles/cy0yere4k0zo)
+## On November 19, 2025 Children among 26 killed in one of Russia's deadliest strikes on western Ukraine - [photos, video] (https://www.bbc.com/news/articles/cy0yere4k0zo)
 <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/099e1d7e-1a48-4a3c-a75e-f5cea63a4d1d" />
 
 
