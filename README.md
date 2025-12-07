@@ -1,6 +1,8 @@
 # Therapeutic Education  
 ### A New Format of Learning for Children Who Cannot Enter Standard Instruction
 
+<img width="1536" height="1024" alt="ChatGPT Image 5 дек  2025 г , 16_42_44" src="https://github.com/user-attachments/assets/d1ecc479-8b37-40da-997d-76469ce8eaaa" />
+
 Therapeutic Education (TE) is a pedagogical approach that reshapes the format of learning so it does not exceed the nervous system of the learner. It does not treat trauma, diagnose conditions, or replace therapy. TE simply lowers the symbolic and emotional load of instructional tasks so participation becomes possible again for children who withdraw, avoid, or shut down under standard demands.
 
 In TE, the child is not adapted to the system.  
