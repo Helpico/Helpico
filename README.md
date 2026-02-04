@@ -81,8 +81,7 @@ A formal academic call will follow once IRB/ethics alignment and design protocol
 
 ---
 
-Therapeutic Education Framework
-Developed by Maksym Dudyk, 2025
+<sub>Therapeutic Education Framework Developed by Maksym Dudyk, 2025
 
 This framework is openly shared to support vulnerable children through improved educational practices.
-Researchers and practitioners are encouraged to explore, test, and collaborate.
+Researchers and practitioners are encouraged to explore, test, and collaborate.</sub>
