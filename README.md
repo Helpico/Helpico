@@ -79,3 +79,10 @@ A formal academic call will follow once IRB/ethics alignment and design protocol
 **LinkedIn:** https://linkedin.com/in/maksym-dudyk-follow-up  
 **Email:** maksymdudyk@gmail.com  
 
+---
+
+Therapeutic Education Framework
+Developed by Maksym Dudyk, 2025
+
+This framework is openly shared to support vulnerable children through improved educational practices.
+Researchers and practitioners are encouraged to explore, test, and collaborate.
