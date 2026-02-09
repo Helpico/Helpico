@@ -23,11 +23,11 @@ It is cognitive access through safe instructional design.
 
 ---
 
-## First Implementation: Helpica
+## First Implementation: PlayTellect
 
-[Helpica](https://helpica.me) is the first digital environment experimenting with TE principles. It transforms standard school assignments into smaller, calmer, slower, and more breathable steps, without reducing meaning or content.
+[PlayTellect](https://helpica.me) is the first digital environment experimenting with TE principles. It transforms standard school assignments into smaller, calmer, slower, and more breathable steps, without reducing meaning or content.
 
-Helpica is:
+PlayTellect is:
 - non-clinical
 - non-diagnostic
 - non-therapeutic
